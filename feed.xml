@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>read stuff for friends</title>
+    <link>https://RSFFCast.github.io/</link>
+    <description>voices reading stuff</description>
+    <language>en-us</language>
+
+    <item>
+      <title>August</title>
+      <link>https://github.com/user-attachments/assets/5a00e898-a7ca-4466-a04c-548566a57bf5</link>
+      <description>by Mary Oliver in American Primitive</description>
+      <pubDate>Fri, 19 Mar 2021 12:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Mushrooms</title>
+      <link>https://github.com/user-attachments/assets/0f9be2a2-0515-46f4-b409-c4399a615712</link>
+      <description>by Mary Oliver in American Primitive</description>
+      <pubDate>Sat, 20 Mar 2021 12:00:00 +0000</pubDate>
+    </item>
+  
+  </channel>
+</rss>
