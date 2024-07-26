@@ -9,7 +9,9 @@
     <itunes:image href="https://drive.google.com/file/d/1xEwWTJv-EdWx3eXTKOhXuHAIpq-Usnm5/view?usp=sharing"/>
     <itunes:explicit>no</itunes:explicit>
 
-  #season one
+#https://drive.google.com/uc?export=download&id=FILE_ID
+
+#season one
     <item>
       <title>August</title>
       <link>https://drive.google.com/file/d/1mkeWWCJjuFRALV30UVr_7_gFT5rcJ6hb/view?usp=drivesdk</link>
@@ -23,7 +25,7 @@
       <itunes:episode>1</itunes:episode>
     </item>
 
-  #season fifteen
+#season fifteen
     <item>
       <title>Cat Moving Kittens</title>
       <link>https://drive.google.com/file/d/1kJLjK3-miMhXdcADSTRdsvXCpRyYLmPh/view?usp=drivesdk</link>
