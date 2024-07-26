@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>read stuff for friends</title>
-    <link>https://github.com/RSFFCast</link>
+    <link>https://rsffcast.github.io/landing/</link>
     <description>voices reading stuff</description>
     <language>en-us</language>
     <itunes:category text="Arts"/>
