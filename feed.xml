@@ -6,16 +6,17 @@
     <description>voices reading stuff</description>
     <language>en-us</language>
     <itunes:category text="Arts"/>
-    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1-iuP6DzmyCruo4t5OtoRPSp5qF0lqAbA"/>
+    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1-iuP6DzmyCruo4t5OtoRPSp5qF0lqAbA.jpg"/>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:author>various</itunes:author>
 
     <item>
       <title>August</title>
       <description>
         by Mary Oliver in American Primitive
-        <img src="https://drive.google.com/uc?export=download&amp;id=1fcuKd5tXp6CIgoHBxpdgvIM35yQFWeUG" />
+        <img src="https://drive.google.com/uc?export=download&amp;id=1fcuKd5tXp6CIgoHBxpdgvIM35yQFWeUG.jpg" />
       </description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mkeWWCJjuFRALV30UVr_7_gFT5rcJ6hb" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mkeWWCJjuFRALV30UVr_7_gFT5rcJ6hb.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 19 Mar 2021 12:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -25,9 +26,9 @@
       <title>Cat Moving Kittens</title>
       <description>
         by Austin Smith in Flyover Country
-        <img src="https://drive.google.com/uc?export=download&amp;id=1rhpDmetVOx0J0X6SHj4FKJ4dYfI-3Bye" />
+        <img src="https://drive.google.com/uc?export=download&amp;id=1rhpDmetVOx0J0X6SHj4FKJ4dYfI-3Bye.jpg" />
       </description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kJLjK3-miMhXdcADSTRdsvXCpRyYLmPh" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kJLjK3-miMhXdcADSTRdsvXCpRyYLmPh.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>5</itunes:episode>
@@ -37,9 +38,9 @@
       <title>Beyond Mirror Lake</title>
       <description>
         by Austin Smith in Flyover Country
-        <img src="https://drive.google.com/uc?export=download&amp;id=17MbTlzEpErLy76nBYKx-IR9u5EYZnjUZ" />
+        <img src="https://drive.google.com/uc?export=download&amp;id=17MbTlzEpErLy76nBYKx-IR9u5EYZnjUZ.jpg" />
       </description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1i02xJRY-LMQdS36NyJRraJ-7HSF-7Sd8" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1i02xJRY-LMQdS36NyJRraJ-7HSF-7Sd8.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>6</itunes:episode>
@@ -49,9 +50,9 @@
       <title>The Windbreak</title>
       <description>
         by Austin Smith in Flyover Country
-        <img src="https://drive.google.com/uc?export=download&amp;id=1JFasnM0KOPMKCZcWb1iURAERunzMxgSA" />
+        <img src="https://drive.google.com/uc?export=download&amp;id=1JFasnM0KOPMKCZcWb1iURAERunzMxgSA.jpg" />
       </description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KpYQVwfna7C1FkE5Kjw6FuLuSNsM-_GS" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KpYQVwfna7C1FkE5Kjw6FuLuSNsM-_GS.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 26 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>7</itunes:episode>
