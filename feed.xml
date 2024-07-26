@@ -6,10 +6,10 @@
     <description>voices reading stuff</description>
     <language>en-us</language>
     <itunes:category text="Arts"/>
-    <itunes:image href="https://drive.google.com/file/d/1xEwWTJv-EdWx3eXTKOhXuHAIpq-Usnm5/view?usp=sharing"/>
+    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1xEwWTJv-EdWx3eXTKOhXuHAIpq-Usnm5"/>
     <itunes:explicit>no</itunes:explicit>
 
-#https://drive.google.com/uc?export=download&id=FILE_ID
+#https://drive.google.com/uc?export=download&amp;id=FILE_ID
 
 #season one
     <item>
