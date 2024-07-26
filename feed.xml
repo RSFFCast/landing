@@ -20,6 +20,7 @@
       <pubDate>Fri, 19 Mar 2021 12:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
+      <link>https://rsffcast.github.io/landing/</link>
     </item>
 
     <item>
@@ -32,6 +33,7 @@
       <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>5</itunes:episode>
+      <link>https://rsffcast.github.io/landing/</link>
     </item>
 
     <item>
@@ -44,6 +46,7 @@
       <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>6</itunes:episode>
+      <link>https://rsffcast.github.io/landing/</link>
     </item>
   
     <item>
@@ -56,6 +59,7 @@
       <pubDate>Fri, 26 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>7</itunes:episode>
+      <link>https://rsffcast.github.io/landing/</link>
     </item>
 
   </channel>
