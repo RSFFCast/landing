@@ -62,5 +62,18 @@
       <link>https://rsffcast.github.io/landing/</link>
     </item>
 
+    <item>
+      <title>American Glue Factory</title>
+      <description>
+        by Austin Smith in Flyover Country
+        <img src="https://drive.google.com/uc?export=download&amp;id=1OYL8wZPuwF7ITJbdaAAUE3rEfuLEODm1" />
+      </description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=142wjdLEM9ft3Bl17X9VlR6e2USGyumrU.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 27 Jul 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <link>https://rsffcast.github.io/landing/</link>
+    </item>
+
   </channel>
 </rss>
