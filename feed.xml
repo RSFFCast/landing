@@ -74,13 +74,26 @@
       <title>Chekhov</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://github.com/RSFFCast/season-fifteen/blob/a4b5720bc0f84ba95fc7f2045de6137fccc4d060/20240801%20Chekhov.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sat, 1 Aug 2024 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 1 Aug 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>9</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
       <itunes:image href="https://github.com/RSFFCast/season-fifteen/blob/a4b5720bc0f84ba95fc7f2045de6137fccc4d060/20240801%20Chekhov.jpeg"/>
       <link>https://rsffcast.github.io/landing/</link>
     </item>
+
+    <item>
+      <title>Three Radios</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://github.com/RSFFCast/season-fifteen/blob/b6ade745bef364ff0cf0462bf739a58c1742c121/20240802%20Three%20Radios.mp3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 2 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://github.com/RSFFCast/season-fifteen/blob/b6ade745bef364ff0cf0462bf739a58c1742c121/20240802%20Three%20Radios.JPG"/>
+      <link>https://rsffcast.github.io/landing/</link>
+    </item>
+
 
   </channel>
 </rss>
