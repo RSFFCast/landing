@@ -11,66 +11,6 @@
     <itunes:author>various</itunes:author>
 
     <item>
-      <title>August</title>
-      <description>by Mary Oliver in American Primitive</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mkeWWCJjuFRALV30UVr_7_gFT5rcJ6hb.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Fri, 19 Mar 2021 12:00:00 +0000</pubDate>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:author>Mary Oliver</itunes:author>
-      <itunes:image href="https://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
-      <link>https://rsffcast.github.io/landing/</link>
-    </item>
-
-    <item>
-      <title>Cat Moving Kittens</title>
-      <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kJLjK3-miMhXdcADSTRdsvXCpRyYLmPh.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="hhttps://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
-      <link>https://rsffcast.github.io/landing/</link>
-    </item>
-
-    <item>
-      <title>Beyond Mirror Lake</title>
-      <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1i02xJRY-LMQdS36NyJRraJ-7HSF-7Sd8.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
-      <link>https://rsffcast.github.io/landing/</link>
-    </item>
-  
-    <item>
-      <title>The Windbreak</title>
-      <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KpYQVwfna7C1FkE5Kjw6FuLuSNsM-_GS.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Fri, 26 Jul 2024 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
-      <itunes:episode>7</itunes:episode>
-      <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
-      <link>https://rsffcast.github.io/landing/</link>
-    </item>
-
-    <item>
-      <title>American Glue Factory</title>
-      <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=142wjdLEM9ft3Bl17X9VlR6e2USGyumrU.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sat, 27 Jul 2024 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
-      <itunes:episode>8</itunes:episode>
-      <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
-      <link>https://rsffcast.github.io/landing/</link>
-    </item>
-
-    <item>
       <title>Chekhov</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://github.com/RSFFCast/season-fifteen/blob/a4b5720bc0f84ba95fc7f2045de6137fccc4d060/20240801%20Chekhov.mp3" type="audio/mpeg" length="12345"/>
@@ -93,7 +33,6 @@
       <itunes:image href="https://github.com/RSFFCast/season-fifteen/blob/b6ade745bef364ff0cf0462bf739a58c1742c121/20240802%20Three%20Radios.JPG"/>
       <link>https://rsffcast.github.io/landing/</link>
     </item>
-
 
   </channel>
 </rss>
