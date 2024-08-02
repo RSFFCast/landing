@@ -6,7 +6,7 @@
     <description>voices reading stuff</description>
     <language>en-us</language>
     <itunes:category text="Arts"/>
-    <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1-iuP6DzmyCruo4t5OtoRPSp5qF0lqAbA"/>
+    <itunes:image href="https://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>various</itunes:author>
 
@@ -18,7 +18,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:author>Mary Oliver</itunes:author>
-      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1fcuKd5tXp6CIgoHBxpdgvIM35yQFWeUG"/>
+      <itunes:image href="https://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
       <link>https://rsffcast.github.io/landing/</link>
     </item>
 
@@ -30,7 +30,7 @@
       <itunes:season>15</itunes:season>
       <itunes:episode>5</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1rhpDmetVOx0J0X6SHj4FKJ4dYfI-3Bye"/>
+      <itunes:image href="hhttps://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
       <link>https://rsffcast.github.io/landing/</link>
     </item>
 
@@ -42,7 +42,7 @@
       <itunes:season>15</itunes:season>
       <itunes:episode>6</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=17MbTlzEpErLy76nBYKx-IR9u5EYZnjUZ"/>
+      <itunes:image href="https://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
       <link>https://rsffcast.github.io/landing/</link>
     </item>
   
@@ -54,7 +54,7 @@
       <itunes:season>15</itunes:season>
       <itunes:episode>7</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=16toMTWTGGQ_b2q6qfEB3MTQ3bdSi9XvY"/>
+      <itunes:image href="https://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
       <link>https://rsffcast.github.io/landing/</link>
     </item>
 
@@ -66,19 +66,19 @@
       <itunes:season>15</itunes:season>
       <itunes:episode>8</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1OYL8wZPuwF7ITJbdaAAUE3rEfuLEODm1"/>
+      <itunes:image href="https://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
       <link>https://rsffcast.github.io/landing/</link>
     </item>
 
     <item>
       <title>Chekhov</title>
       <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ApqvhDmynUnw7P68RzYIjx-4RA8QWE_s.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://github.com/RSFFCast/season-fifteen/blob/a4b5720bc0f84ba95fc7f2045de6137fccc4d060/20240801%20Chekhov.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 1 Aug 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>9</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1gPjIfj0jihLv7wNSoahcAdU4yETXRZVi"/>
+      <itunes:image href="https://github.com/RSFFCast/season-fifteen/blob/a4b5720bc0f84ba95fc7f2045de6137fccc4d060/20240801%20Chekhov.jpeg"/>
       <link>https://rsffcast.github.io/landing/</link>
     </item>
 
