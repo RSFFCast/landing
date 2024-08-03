@@ -6,31 +6,19 @@
     <description>voices reading stuff</description>
     <language>en-us</language>
     <itunes:category text="Arts"/>
-    <itunes:image href="https://github.com/RSFFCast/landing/blob/c02584d27dd8a714f1231b62a292c16d8d13744c/home%20photo.jpeg"/>
+    <itunes:image href="https://archive.org/download/rsffcast-cover-photo/cover%20photo.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>various</itunes:author>
 
     <item>
       <title>Chekhov</title>
       <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://github.com/RSFFCast/season-fifteen/blob/a4b5720bc0f84ba95fc7f2045de6137fccc4d060/20240801%20Chekhov.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20240801-chekhov_202408/20240801%20Chekhov.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Thu, 1 Aug 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>9</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://github.com/RSFFCast/season-fifteen/blob/a4b5720bc0f84ba95fc7f2045de6137fccc4d060/20240801%20Chekhov.jpeg"/>
-      <link>https://rsffcast.github.io/landing/</link>
-    </item>
-
-    <item>
-      <title>Three Radios</title>
-      <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://github.com/RSFFCast/season-fifteen/blob/b6ade745bef364ff0cf0462bf739a58c1742c121/20240802%20Three%20Radios.mp3.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Fri, 2 Aug 2024 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
-      <itunes:episode>10</itunes:episode>
-      <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://github.com/RSFFCast/season-fifteen/blob/b6ade745bef364ff0cf0462bf739a58c1742c121/20240802%20Three%20Radios.JPG"/>
+      <itunes:image href="https://archive.org/download/20240801-chekhov/20240801%20Chekhov.JPG"/>
       <link>https://rsffcast.github.io/landing/</link>
     </item>
 
