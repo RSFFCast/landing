@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Hired Hands</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240803-hired-hands/20240803_Hired_Hands.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 3 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240803-hired-hands/20240803_Hired_Hands.JPG"/>
+      <link>https://rsffcast.github.io/landing/</link>
+      <guid>https://rsffcast.github.io/landing/</guid>
+    </item>
+
+    <item>
+      <title>Three Radios</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240802-three-radios_202408/20240802_Three_Radios.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 2 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240802-three-radios_202408/20240802_Three_Radios.JPG"/>
+      <link>https://rsffcast.github.io/landing/</link>
+      <guid>https://rsffcast.github.io/landing/</guid>
+    </item>
+
+    <item>
       <title>Chekhov</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240801-chekhov_20240803/20240801_Chekhov.mp3" type="audio/mpeg" length="12345"/>
