@@ -6,20 +6,25 @@
     <description>voices reading stuff</description>
     <language>en-us</language>
     <itunes:category text="Arts"/>
-    <itunes:image href="https://archive.org/download/rsffcast-cover-photo/cover%20photo.jpg"/>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://archive.org/download/rsffcast-cover-photo/cover-photo.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:author>various</itunes:author>
+    <itunes:owner>
+      <itunes:name>random internet person</itunes:name>
+      <itunes:email>readstuffforfriends@gmail.com</itunes:email>
+    </itunes:owner>
 
     <item>
       <title>Chekhov</title>
       <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://archive.org/download/20240801-chekhov_202408/20240801%20Chekhov.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20240801-chekhov_202408/20240801-Chekhov.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Thu, 1 Aug 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>9</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://archive.org/download/20240801-chekhov/20240801%20Chekhov.JPG"/>
+      <itunes:image href="https://archive.org/download/20240801-chekhov/20240801-Chekhov.JPG"/>
       <link>https://rsffcast.github.io/landing/</link>
+      <guid>https://rsffcast.github.io/landing/</guid>
     </item>
 
   </channel>
