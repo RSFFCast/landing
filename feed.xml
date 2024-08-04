@@ -57,13 +57,52 @@
       <title>American Glue Factory</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240727-american-glue-factory/20240727_American_Glue_Factory.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Thu, 1 Aug 2024 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>8</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
       <itunes:image href="https://archive.org/download/20240727-american-glue-factory/20240727_American_Glue_Factory.JPG"/>
       <link>https://archive.org/details/20240727-american-glue-factory</link>
       <guid>https://archive.org/details/20240727-american-glue-factory</guid>
+    </item>
+
+    <item>
+      <title>The Windbreak</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240726-the-windbreak/20240726_The_Windbreak.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 26 Jul 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240726-the-windbreak/20240726_The_Windbreak.jpg"/>
+      <link>https://archive.org/details/20240726-the-windbreak</link>
+      <guid>https://archive.org/details/20240726-the-windbreak</guid>
+    </item>
+    
+    <item>
+      <title>Beyond Mirror Lake</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240725-beyond-mirror-lake/20240725_Beyond_Mirror_Lake.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 25 Jul 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240725-beyond-mirror-lake/20240725_Beyond_Mirror_Lake.JPG"/>
+      <link>https://archive.org/details/20240725-beyond-mirror-lake</link>
+      <guid>https://archive.org/details/20240725-beyond-mirror-lake</guid>
+    </item>
+
+    <item>
+      <title>Cat Moving Kittens</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240723-cat-moving-kittens/20240723_Cat_Moving_Kittens.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 23 Jul 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240723-cat-moving-kittens/20240723_Cat_Moving_Kittens.JPG"/>
+      <link>https://archive.org/details/20240723-cat-moving-kittens</link>
+      <guid>https://archive.org/details/20240723-cat-moving-kittens</guid>
     </item>
     
   </channel>
