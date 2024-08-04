@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Water Witching</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240804-water-witching/20240804_Water_Witching.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 4 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240804-water-witching/20240804_Water_Witching.JPG"/>
+      <link>https://archive.org/details/20240804-water-witching</link>
+      <guid>https://archive.org/details/20240804-water-witching</guid>
+    </item>
+    
+    <item>
       <title>Hired Hands</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240803-hired-hands/20240803_Hired_Hands.mp3" type="audio/mpeg" length="12345"/>
@@ -103,6 +116,58 @@
       <itunes:image href="https://archive.org/download/20240723-cat-moving-kittens/20240723_Cat_Moving_Kittens.JPG"/>
       <link>https://archive.org/details/20240723-cat-moving-kittens</link>
       <guid>https://archive.org/details/20240723-cat-moving-kittens</guid>
+    </item>
+
+    <item>
+      <title>The Raccoon Tree</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240722-the-raccoon-tree/20240722_The_Raccoon_Tree.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 22 Jul 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240722-the-raccoon-tree/20240722_The_Raccoon_Tree.jpg"/>
+      <link>https://archive.org/details/20240722-the-raccoon-tree</link>
+      <guid>https://archive.org/details/20240722-the-raccoon-tree</guid>
+    </item>
+
+    <item>
+      <title>Fences</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240721-fences/20240721_Fences.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240721-fences/20240721_Fences.jpg"/>
+      <link>https://archive.org/details/20240721-fences</link>
+      <guid>https://archive.org/details/20240721-fences</guid>
+    </item>    
+    
+    <item>
+      <title>Into the Corn</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240720-into-the-corn/20240720_Into_the_Corn.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 20 Jul 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240720-into-the-corn/20240720_Into_the_Corn.jpg"/>
+      <link>https://archive.org/details/20240720-into-the-corn</link>
+      <guid>https://archive.org/details/20240720-into-the-corn</guid>
+    </item>
+        
+    <item>
+      <title>To Go to Lena</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240719-to-go-to-lena/20240719_To_Go_to_Lena.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 19 Jul 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240719-to-go-to-lena/20240719_To_Go_to_Lena.jpg"/>
+      <link>https://archive.org/details/20240719-to-go-to-lena</link>
+      <guid>https://archive.org/details/20240719-to-go-to-lena</guid>
     </item>
     
   </channel>
