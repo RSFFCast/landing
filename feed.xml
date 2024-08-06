@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Scrapper Levin</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240806-scrapper-kevin/20240806_Scrapper_Kevin.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 6 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240806-scrapper-kevin/20240806_Scrapper_Kevin.jpg"/>
+      <link>https://archive.org/details/20240806-scrapper-kevin</link>
+      <guid>https://archive.org/details/20240806-scrapper-kevin</guid>
+    </item>
+
+    <item>
       <title>Apparition of Knives</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240805-apparition-of-knives/20240805_Apparition_of_Knives.mp3" type="audio/mpeg" length="12345"/>
@@ -22,7 +35,7 @@
       <itunes:season>15</itunes:season>
       <itunes:episode>13</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://archive.org/download/20240805-apparition-of-knives/20240805_Apparition_of_Knives.JPG.JPG"/>
+      <itunes:image href="https://archive.org/download/20240805-apparition-of-knives/20240805_Apparition_of_Knives.JPG"/>
       <link>https://archive.org/details/20240805-apparition-of-knives</link>
       <guid>https://archive.org/details/20240805-apparition-of-knives</guid>
     </item>
@@ -113,7 +126,7 @@
       <itunes:season>15</itunes:season>
       <itunes:episode>6</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://https://archive.org/download/20240725-beyond-mirror-lake/20240725_Beyond_Mirror_Lake.jpg"/>
+      <itunes:image href="https://archive.org/download/20240725-beyond-mirror-lake/20240725_Beyond_Mirror_Lake.jpg"/>
       <link>https://archive.org/details/20240725-beyond-mirror-lake</link>
       <guid>https://archive.org/details/20240725-beyond-mirror-lake</guid>
     </item>
