@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Vampire</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240807-the-vampire/20240807_The_Vampire.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 7 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240807-the-vampire/20240807_The_Vampire.JPG"/>
+      <link>https://archive.org/download/20240807-the-vampire/20240807_The_Vampire.JPG</link>
+      <guid>https://archive.org/download/20240807-the-vampire/20240807_The_Vampire.JPG</guid>
+    </item>
+
+    <item>
       <title>Scrapper Kevin</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240806-scrapper-kevin/20240806_Scrapper_Kevin.mp3" type="audio/mpeg" length="12345"/>
