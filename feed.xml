@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Building a Temple for the Field Mice</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240808-building-a-temple-for-field-mice/20240808_Building_a_Temple_for_Field_Mice.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thi, 8 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240808-building-a-temple-for-field-mice/20240808_Building_a_Temple_for_Field_Mice.JPG"/>
+      <link>https://archive.org/details/20240808-building-a-temple-for-field-mice</link>
+      <guid>https://archive.org/details/20240808-building-a-temple-for-field-mice</guid>
+    </item>
+
+    <item>
       <title>The Vampire</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240807-the-vampire/20240807_The_Vampire.mp3" type="audio/mpeg" length="12345"/>
