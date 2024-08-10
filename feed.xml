@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Grasshoppers</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240810-grasshoppers/20240810_Grasshoppers.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 10 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240810-grasshoppers/20240810_Grasshoppers.JPG"/>
+      <link>https://archive.org/details/20240810-grasshoppers</link>
+      <guid>https://archive.org/details/20240810-grasshoppers</guid>
+    </item>
+
+    <item>
       <title>Father and Son: Barcelona</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240809-father-and-son-barcelona/20240809_Father_and_Son%3A_Barcelona.mp3" type="audio/mpeg" length="12345"/>
