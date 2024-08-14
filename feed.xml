@@ -15,6 +15,45 @@
     </itunes:owner>
 
     <item>
+      <title>The Shaker Abecedarius</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240813-the-shaker-abecedarius/20240813_The_Shaker_Abecedarius.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 13 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240813-the-shaker-abecedarius/20240813_The_Shaker_Abecedarius.JPG"/>
+      <link>https://archive.org/details/20240813-the-shaker-abecedarius</link>
+      <guid>https://archive.org/details/20240813-the-shaker-abecedarius</guid>
+    </item>
+    
+    <item>
+      <title>The Mechanic's Children</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240812-the-mechanics-children/20240812_The_Mechanic%E2%80%99s_Children.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 12 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240812-the-mechanics-children/20240812_The_Mechanic%E2%80%99s_Children.JPG"/>
+      <link>https://archive.org/details/20240812-the-mechanics-children</link>
+      <guid>https://archive.org/details/20240812-the-mechanics-children</guid>
+    </item>
+
+    <item>
+      <title>Some Haiku Found Scrawled in the Margins of the Old Farmer's Almanac 1957</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240811-some-haiku-found-scrawled-in-the-margins-of-the-old-farmers-almanac-1957/20240811_Some_Haiku_Found_Scrawled_in_the_Margins_of_the_Old_Farmer%E2%80%99s_Almanac_1957.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 11 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240811-some-haiku-found-scrawled-in-the-margins-of-the-old-farmers-almanac-1957/20240811_Some_Haiku_Found_Scrawled_in_the_Margins_of_the_Old_Farmer%E2%80%99s_Almanac_1957.JPG"/>
+      <link>https://archive.org/details/20240811-some-haiku-found-scrawled-in-the-margins-of-the-old-farmers-almanac-1957</link>
+      <guid>https://archive.org/details/20240811-some-haiku-found-scrawled-in-the-margins-of-the-old-farmers-almanac-1957</guid>
+    </item>
+
+    <item>
       <title>Grasshoppers</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240810-grasshoppers/20240810_Grasshoppers.mp3" type="audio/mpeg" length="12345"/>
