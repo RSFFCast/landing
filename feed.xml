@@ -15,10 +15,49 @@
     </itunes:owner>
 
     <item>
+      <title>The Crutches at Lourdes</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240816-the-crutches-at-lourdes/20240816_The_Crutches_at_Lourdes.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 16 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240816-the-crutches-at-lourdes/20240816_The_Crutches_at_Lourdes.JPG"/>
+      <link>https://archive.org/details/20240816-the-crutches-at-lourdes</link>
+      <guid>https://archive.org/details/20240816-the-crutches-at-lourdes</guid>
+    </item>
+
+    <item>
+      <title>Outside the Anne Frank House</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240815-outside-the-anne-frank-house/20240815_Outside_the_Anne_Frank_House.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 15 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240815-outside-the-anne-frank-house/20240815_Outside_the_Anne_Frank_House.JPG"/>
+      <link>https://archive.org/details/20240815-outside-the-anne-frank-house</link>
+      <guid>https://archive.org/details/20240815-outside-the-anne-frank-house</guid>
+    </item>
+
+    <item>
+      <title>The Streets of Turin</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240814-the-streets-of-turin/20240814_The_Streets_of_Turin.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 14 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240814-the-streets-of-turin/20240814_The_Streets_of_Turin.JPG"/>
+      <link>https://archive.org/details/20240814-the-streets-of-turin</link>
+      <guid>https://archive.org/details/20240814-the-streets-of-turin</guid>
+    </item>
+
+    <item>
       <title>The Shaker Abecedarius</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240813-the-shaker-abecedarius/20240813_The_Shaker_Abecedarius.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 13 Aug 2024 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Aug 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>21</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
@@ -238,53 +277,53 @@
     <item>
       <title>The Raccoon Tree</title>
       <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://archive.org/download/20240722-the-raccoon-tree/20240722_The_Raccoon_Tree.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20240722-the-raccoon-tree_202408/20240722_The_Raccoon_Tree.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 22 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>4</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://archive.org/download/20240722-the-raccoon-tree/20240722_The_Raccoon_Tree.jpg"/>
-      <link>https://archive.org/details/20240722-the-raccoon-tree</link>
-      <guid>https://archive.org/details/20240722-the-raccoon-tree</guid>
+      <itunes:image href="https://archive.org/download/20240722-the-raccoon-tree_202408/20240722_The_Raccoon_Tree.jpg"/>
+      <link>https://archive.org/details/20240722-the-raccoon-tree_202408</link>
+      <guid>https://archive.org/details/20240722-the-raccoon-tree_202408</guid>
     </item>
 
     <item>
       <title>Fences</title>
       <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://archive.org/download/20240721-fences/20240721_Fences.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20240721-fences_202408/20240721_Fences.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://archive.org/download/20240721-fences/20240721_Fences.jpg"/>
-      <link>https://archive.org/details/20240721-fences</link>
-      <guid>https://archive.org/details/20240721-fences</guid>
+      <itunes:image href="https://archive.org/download/20240721-fences_202408/20240721_Fences.jpg"/>
+      <link>https://archive.org/details/20240721-fences_202408</link>
+      <guid>https://archive.org/details/20240721-fences_202408</guid>
     </item>    
     
     <item>
       <title>Into the Corn</title>
       <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://archive.org/download/20240720-into-the-corn/20240720_Into_the_Corn.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20240720-into-the-corn_202408/20240720_Into_the_Corn.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 20 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>2</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://archive.org/download/20240720-into-the-corn/20240720_Into_the_Corn.jpg"/>
-      <link>https://archive.org/details/20240720-into-the-corn</link>
-      <guid>https://archive.org/details/20240720-into-the-corn</guid>
+      <itunes:image href="https://archive.org/download/20240720-into-the-corn_202408/20240720_Into_the_Corn.jpg"/>
+      <link>https://archive.org/details/20240720-into-the-corn_202408</link>
+      <guid>https://archive.org/details/20240720-into-the-corn_202408</guid>
     </item>
         
     <item>
       <title>To Go to Lena</title>
       <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://archive.org/download/20240719-to-go-to-lena/20240719_To_Go_to_Lena.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20240719-to-go-to-lena_202408/20240719_To_Go_to_Lena.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 19 Jul 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://archive.org/download/20240719-to-go-to-lena/20240719_To_Go_to_Lena.jpg"/>
-      <link>https://archive.org/details/20240719-to-go-to-lena</link>
-      <guid>https://archive.org/details/20240719-to-go-to-lena</guid>
+      <itunes:image href="https://archive.org/download/20240719-to-go-to-lena_202408/20240719_To_Go_to_Lena.jpg"/>
+      <link>https://archive.org/details/20240719-to-go-to-lena_202408</link>
+      <guid>https://archive.org/details/20240719-to-go-to-lena_202408</guid>
     </item>
     
   </channel>
