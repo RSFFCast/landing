@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Only Tavern in Hyde, Wisconsin</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240817-the-only-tavern-in-hyde-wisconsin/20240817_The_Only_Tavern_in_Hyde%2C_Wisconsin.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 17 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240817-the-only-tavern-in-hyde-wisconsin/20240817_The_Only_Tavern_in_Hyde%2C_Wisconsin.JPG"/>
+      <link>https://archive.org/details/20240817-the-only-tavern-in-hyde-wisconsin</link>
+      <guid>https://archive.org/details/20240817-the-only-tavern-in-hyde-wisconsin</guid>
+    </item>
+
+    <item>
       <title>The Crutches at Lourdes</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240816-the-crutches-at-lourdes/20240816_The_Crutches_at_Lourdes.mp3" type="audio/mpeg" length="12345"/>
