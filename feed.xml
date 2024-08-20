@@ -14,10 +14,23 @@
       <itunes:email>readstuffforfriends@gmail.com</itunes:email>
     </itunes:owner>
 
+<item>
+      <title>Street Performer: Asheville, North Carolina</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240820-street-performer-asheville-north-carolina/20240820_Street_Performer%3A_Asheville%2C_North_Carolina.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 20 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240819-factory-town/20240819_Factory_Town.JPG"/>
+      <link>https://archive.org/details/20240820-street-performer-asheville-north-carolina</link>
+      <guid>https://archive.org/details/20240820-street-performer-asheville-north-carolina</guid>
+    </item>
+
     <item>
       <title>Factory Town</title>
       <description>by Austin Smith in Flyover Country</description>
-      <enclosure url="https://archive.org/download/20240819-factory-town/20240819_Factory_Town.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20240820-street-performer-asheville-north-carolina/20240820_Street_Performer%3A_Asheville%2C_North_Carolina.JPG" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 19 Aug 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>27</itunes:episode>
