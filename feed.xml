@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Cottonpicker</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240822-cottonpicker/20240822_Cottonpicker.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 22 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240822-cottonpicker/20240822_Cottonpicker.JPG"/>
+      <link>https://archive.org/details/20240822-cottonpicker</link>
+      <guid>https://archive.org/details/20240822-cottonpicker</guid>
+    </item>
+
+    <item>
       <title>The Bow</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240821-the-bow/20240821_The_Bow.mp3" type="audio/mpeg" length="12345"/>
