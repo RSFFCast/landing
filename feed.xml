@@ -15,6 +15,45 @@
     </itunes:owner>
 
     <item>
+      <title>The Blind</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240825-the-blind/20240825_The_Blind.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 25 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240825-the-blind/20240825_The_Blind.JPG"/>
+      <link>https://archive.org/details/20240825-the-blind</link>
+      <guid>https://archive.org/details/20240825-the-blind</guid>
+    </item>
+
+    <item>
+      <title>Soap Opera</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240824-soap-operas/20240824_Soap_Operas.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 24 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240824-soap-operas/20240824_Soap_Operas.JPG"/>
+      <link>https://archive.org/details/20240824-soap-operas</link>
+      <guid>https://archive.org/details/20240824-soap-operas</guid>
+    </item>
+
+    <item>
+      <title>Atomic Fireball</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240823-atomic-fireball/20240823_Atomic_Fireball.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 23 Aug 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240823-atomic-fireball/20240823_Atomic_Fireball.JPG"/>
+      <link>https://archive.org/details/20240823-atomic-fireball</link>
+      <guid>https://archive.org/details/20240823-atomic-fireball</guid>
+    </item>
+
+    <item>
       <title>Cottonpicker</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240822-cottonpicker/20240822_Cottonpicker.mp3" type="audio/mpeg" length="12345"/>
