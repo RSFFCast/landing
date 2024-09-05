@@ -15,6 +15,71 @@
     </itunes:owner>
 
     <item>
+      <title>We Defy Augury</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240905-we-defy-augury/20240905_We_Defy_Augury.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 5 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240905-we-defy-augury/20240905_We_Defy_Augury.JPG"/>
+      <link>https://archive.org/details/20240905-we-defy-augury</link>
+      <guid>https://archive.org/details/20240905-we-defy-augury</guid>
+    </item>
+
+    <item>
+      <title>Premature Elegy for Claude Eatherly</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240904-premature-elegy-for-claude-eatherly/20240904_Premature_Elegy_for_Claude_Eatherly.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 4 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240904-premature-elegy-for-claude-eatherly/20240904_Premature_Elegy_for_Claude_Eatherly.JPG"/>
+      <link>https://archive.org/details/20240904-premature-elegy-for-claude-eatherly</link>
+      <guid>https://archive.org/details/20240904-premature-elegy-for-claude-eatherly</guid>
+    </item>
+
+    <item>
+      <title>Elegy for Thomas Merton</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240903-elegy-for-thomas-merton/20240903_Elegy_for_Thomas_Merton.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 3 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240903-elegy-for-thomas-merton/20240903_Elegy_for_Thomas_Merton.JPG"/>
+      <link>https://archive.org/details/20240903-elegy-for-thomas-merton</link>
+      <guid>https://archive.org/details/20240903-elegy-for-thomas-merton</guid>
+    </item>
+
+    <item>
+      <title>Wounded Men Seldom Come Home to Die</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240902-wounded-men-seldom-come-home-to-die/20240902_Wounded_Men_Seldom_Come_Home_to_Die.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 2 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240902-wounded-men-seldom-come-home-to-die/20240902_Wounded_Men_Seldom_Come_Home_to_Die.JPG"/>
+      <link>https://archive.org/details/20240902-wounded-men-seldom-come-home-to-die</link>
+      <guid>https://archive.org/details/20240902-wounded-men-seldom-come-home-to-die</guid>
+    </item>
+
+    <item>
+      <title>The Bombing of Hospitals</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240901-the-bombing-of-hospitals/20240901_The_Bombing_of_Hospitals.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 1 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240901-the-bombing-of-hospitals/20240901_The_Bombing_of_Hospitals.JPG"/>
+      <link>https://archive.org/details/20240901-the-bombing-of-hospitals</link>
+      <guid>https://archive.org/details/20240901-the-bombing-of-hospitals</guid>
+    </item>
+
+    <item>
       <title>The Blind</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240825-the-blind/20240825_The_Blind.mp3" type="audio/mpeg" length="12345"/>
