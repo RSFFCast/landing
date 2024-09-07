@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Man Without Oxen Trembles</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240907-the-man-without-oxen-trembles/20240907_The_Man_Without_Oxen_Trembles.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 7 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240907-the-man-without-oxen-trembles/20240907_The_Man_Without_Oxen_Trembles.JPG"/>
+      <link>https://archive.org/details/20240907-the-man-without-oxen-trembles</link>
+      <guid>https://archive.org/details/20240907-the-man-without-oxen-trembles</guid>
+    </item>
+
+    <item>
       <title>We Defy Augury</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240905-we-defy-augury/20240905_We_Defy_Augury.mp3" type="audio/mpeg" length="12345"/>
