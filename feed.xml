@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Swatting Flies</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240908-swatting-flies/20240908_Swatting_Flies.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 8 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240908-swatting-flies/20240908_Swatting_Flies.JPG"/>
+      <link>https://archive.org/details/20240908-swatting-flies</link>
+      <guid>https://archive.org/details/20240908-swatting-flies</guid>
+    </item>
+
+    <item>
       <title>The Man Without Oxen Trembles</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240907-the-man-without-oxen-trembles/20240907_The_Man_Without_Oxen_Trembles.mp3" type="audio/mpeg" length="12345"/>
