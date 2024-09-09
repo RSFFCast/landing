@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>That Particular Village</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240909-that-particular-village/20240909_That_Particular_Village.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 9 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240909-that-particular-village/20240909_That_Particular_Village.jpg"/>
+      <link>https://archive.org/details/20240909-that-particular-village</link>
+      <guid>https://archive.org/details/20240909-that-particular-village</guid>
+    </item>
+
+    <item>
       <title>Swatting Flies</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240908-swatting-flies/20240908_Swatting_Flies.mp3" type="audio/mpeg" length="12345"/>
