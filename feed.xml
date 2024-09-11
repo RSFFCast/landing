@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>The Witness Tree</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240911-the-witness-tree/20240911_The_Witness_Tree.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 10 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240911-the-witness-tree/20240911_The_Witness_Tree.JPG"/>
+      <link>https://archive.org/details/20240911-the-witness-tree</link>
+      <guid>https://archive.org/details/20240911-the-witness-tree</guid>
+    </item>
+
+    <item>
+      <title>Drone</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240910-drone/20240910_Drone.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 10 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240910-drone/20240910_Drone.JPG"/>
+      <link>https://archive.org/details/20240910-drone</link>
+      <guid>https://archive.org/details/20240910-drone</guid>
+    </item>
+
+    <item>
       <title>That Particular Village</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240909-that-particular-village/20240909_That_Particular_Village.mp3" type="audio/mpeg" length="12345"/>
