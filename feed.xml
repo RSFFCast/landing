@@ -15,10 +15,23 @@
     </itunes:owner>
 
     <item>
+      <title>Cicadas</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240912-cicadas/20240912_Cicadas.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 12 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240912-cicadas/20240912_Cicadas.JPG"/>
+      <link>https://archive.org/details/20240912-cicadas</link>
+      <guid>https://archive.org/details/20240912-cicadas</guid>
+    </item>
+
+    <item>
       <title>The Witness Tree</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240911-the-witness-tree/20240911_The_Witness_Tree.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Wed, 10 Sep 2024 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Sep 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>43</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
