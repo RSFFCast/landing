@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Dark Day</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240915-dark-day/20240915_Dark_Day.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 15 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240915-dark-day/20240915_Dark_Day.JPG"/>
+      <link>https://archive.org/details/20240915-dark-day</link>
+      <guid>https://archive.org/details/20240915-dark-day</guid>
+    </item>
+
+    <item>
       <title>Flyover Country</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240914-flyover-country/20240914_Flyover_Country.mp3" type="audio/mpeg" length="12345"/>
