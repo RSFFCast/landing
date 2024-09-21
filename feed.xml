@@ -15,16 +15,55 @@
     </itunes:owner>
 
     <item>
+      <title>Break in the Weather</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240921-break-in-the-weather/20240921_Break_in_the_Weather.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 21 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240921-break-in-the-weather/20240921_Break_in_the_Weather.JPG"/>
+      <link>https://archive.org/details/20240921-break-in-the-weather</link>
+      <guid>https://archive.org/details/20240921-break-in-the-weather</guid>
+    </item>
+
+    <item>
+      <title>N Judah</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240918-n-judah/20240918_N_Judah.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 18 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240918-n-judah/20240918_N_Judah.JPG"/>
+      <link>https://archive.org/details/20240918-n-judah</link>
+      <guid>https://archive.org/details/20240918-n-judah</guid>
+    </item>
+
+    <item>
+      <title>The Capacity of Speech</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240917-the-capacity-of-speech/20240917_The_Capacity_of_Speech.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 17 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240917-the-capacity-of-speech/20240917_The_Capacity_of_Speech.JPG"/>
+      <link>https://archive.org/details/20240917-the-capacity-of-speech</link>
+      <guid>https://archive.org/details/20240917-the-capacity-of-speech</guid>
+    </item>
+
+    <item>
       <title>White Lie</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240916-white-lie/20240916_White_Lie.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 15 Sep 2024 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Sep 2024 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>47</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://archive.org/download/20240915-dark-day/20240915_Dark_Day.JPG"/>
-      <link>https://archive.org/details/20240915-dark-day</link>
-      <guid>https://archive.org/details/20240915-dark-day</guid>
+      <itunes:image href="https://archive.org/download/20240916-white-lie/20240916_White_Lie.JPG"/>
+      <link>https://archive.org/details/20240916-white-lie</link>
+      <guid>https://archive.org/details/20240916-white-lie</guid>
     </item>
 
     <item>
@@ -35,9 +74,9 @@
       <itunes:season>15</itunes:season>
       <itunes:episode>46</itunes:episode>
       <itunes:author>Austin Smith</itunes:author>
-      <itunes:image href="https://archive.org/download/20240916-white-lie/20240916_White_Lie.JPG"/>
-      <link>https://archive.org/details/20240916-white-lie</link>
-      <guid>https://archive.org/details/20240916-white-lie</guid>
+      <itunes:image href="https://archive.org/download/20240915-dark-day/20240915_Dark_Day.JPG"/>
+      <link>https://archive.org/details/20240915-dark-day</link>
+      <guid>https://archive.org/details/20240915-dark-day</guid>
     </item>
 
     <item>
