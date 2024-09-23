@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Growing Cold</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240923-growing-cold/20240923_Growing_Cold.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 23 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>52</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240923-growing-cold/20240923_Growing_Cold.JPG"/>
+      <link>https://archive.org/details/20240923-growing-cold</link>
+      <guid>https://archive.org/details/20240923-growing-cold</guid>
+    </item>
+
+    <item>
       <title>Dead Dogs</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240922-dead-dogs/20240922_Dead_Dogs.mp3" type="audio/mpeg" length="12345"/>
