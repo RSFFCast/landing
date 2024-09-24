@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Lamemt of the Man Who Picks Up Dead Animals</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240924-lament-of-the-man-who-picks-up-dead-animals/20240924_Lament_of_the_Man_Who_Picks_Up_Dead_Animals.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 24 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>53</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240924-lament-of-the-man-who-picks-up-dead-animals/20240924_Lament_of_the_Man_Who_Picks_Up_Dead_Animals.JPG"/>
+      <link>https://archive.org/details/20240924-lament-of-the-man-who-picks-up-dead-animals</link>
+      <guid>https://archive.org/details/20240924-lament-of-the-man-who-picks-up-dead-animals</guid>
+    </item>
+
+    <item>
       <title>Growing Cold</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240923-growing-cold/20240923_Growing_Cold.mp3" type="audio/mpeg" length="12345"/>
