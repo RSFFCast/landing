@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Things We Don't Often Think Of</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240927-things-we-dont-often-think-of/20240927_Things_We_Don%E2%80%99t_Often_Think_Of.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 27 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>56</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240927-things-we-dont-often-think-of/20240927_Things_We_Don%E2%80%99t_Often_Think_Of.JPG"/>
+      <link>https://archive.org/details/20240927-things-we-dont-often-think-of</link>
+      <guid>https://archive.org/details/20240927-things-we-dont-often-think-of</guid>
+    </item>
+
+    <item>
       <title>Ode to Flour</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240926-ode-to-flour/20240926_Ode_to_Flour.mp3" type="audio/mpeg" length="12345"/>
