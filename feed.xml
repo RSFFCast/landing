@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Film of the Building of a Coffin Viewed in Reverse</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240928-film-of-the-building-of-a-coffin-viewed-in-reverse/20240928_Film_of_the_Building_of_a_Coffin_Viewed_in_Reverse.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 28 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>57</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240928-film-of-the-building-of-a-coffin-viewed-in-reverse/20240928_Film_of_the_Building_of_a_Coffin_Viewed_in_Reverse.JPG"/>
+      <link>https://archive.org/details/20240928-film-of-the-building-of-a-coffin-viewed-in-reverse</link>
+      <guid>https://archive.org/details/20240928-film-of-the-building-of-a-coffin-viewed-in-reverse</guid>
+    </item>
+
+    <item>
       <title>Things We Don't Often Think Of</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240927-things-we-dont-often-think-of/20240927_Things_We_Don%E2%80%99t_Often_Think_Of.mp3" type="audio/mpeg" length="12345"/>
