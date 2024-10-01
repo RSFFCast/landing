@@ -15,6 +15,45 @@
     </itunes:owner>
 
     <item>
+      <title>The Light at the End</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20241001-the-light-at-the-end/20241001_The_Light_at_The_End.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 1 Oct 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>60</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20241001-the-light-at-the-end/20241001_The_Light_at_The_End.JPG"/>
+      <link>https://archive.org/details/20241001-the-light-at-the-end</link>
+      <guid>https://archive.org/details/20241001-the-light-at-the-end</guid>
+    </item>
+
+    <item>
+      <title>Feathers</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240930-feathers/20240930_Feathers.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 30 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>59</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240930-feathers/20240930_Feathers.JPG"/>
+      <link>https://archive.org/details/20240930-feathers</link>
+      <guid>https://archive.org/details/20240930-feathers</guid>
+    </item>
+
+    <item>
+      <title>The Twain</title>
+      <description>by Austin Smith in Flyover Country</description>
+      <enclosure url="https://archive.org/download/20240929-the-twain/20240929_The_Twain.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 29 Sep 2024 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>58</itunes:episode>
+      <itunes:author>Austin Smith</itunes:author>
+      <itunes:image href="https://archive.org/download/20240929-the-twain/20240929_The_Twain.JPG"/>
+      <link>https://https://archive.org/details/20240929-the-twain</link>
+      <guid>https://https://archive.org/details/20240929-the-twain</guid>
+    </item>
+
+    <item>
       <title>Film of the Building of a Coffin Viewed in Reverse</title>
       <description>by Austin Smith in Flyover Country</description>
       <enclosure url="https://archive.org/download/20240928-film-of-the-building-of-a-coffin-viewed-in-reverse/20240928_Film_of_the_Building_of_a_Coffin_Viewed_in_Reverse.mp3" type="audio/mpeg" length="12345"/>
