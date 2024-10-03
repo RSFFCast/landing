@@ -15,13 +15,26 @@
     </itunes:owner>
 
     <item>
+      <title>The Warrior</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241003-the-warrior/20241003_The_Warrior.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 3 Oct 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>90</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241003-the-warrior/20241003_The_Warrior.JPG"/>
+      <link>https://archive.org/details/20241003-the-warrior</link>
+      <guid>https://archive.org/details/20241003-the-warrior</guid>
+    </item>
+
+    <item>
       <title>Why Abstain?</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241002-why-abstain/20241002_Why_Abstain%3F.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Wed, 2 Oct 2024 12:00:00 +0000</pubDate>
       <itunes:season>10</itunes:season>
       <itunes:episode>89</itunes:episode>
-      <itunes:author>Austin Smith</itunes:author>
+      <itunes:author>Hafiz</itunes:author>
       <itunes:image href="https://archive.org/download/20241002-why-abstain/20241002_Why_Abstain%3F.JPG"/>
       <link>https://archive.org/details/20241002-why-abstain</link>
       <guid>https://archive.org/details/20241002-why-abstain</guid>
