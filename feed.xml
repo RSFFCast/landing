@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Dividing God</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241004-dividing-god/20241004_Dividing_God.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 4 Oct 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>91</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241004-dividing-god/20241004_Dividing_God.JPG"/>
+      <link>https://archive.org/details/20241004-dividing-god</link>
+			<guid>https://archive.org/details/20241004-dividing-god</guid>
+    </item>
+
+    <item>
       <title>The Warrior</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241003-the-warrior/20241003_The_Warrior.mp3" type="audio/mpeg" length="12345"/>
