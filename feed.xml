@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Muhammad's Twin</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241006-muhammads-twin/20241006_Muhammad%E2%80%99s_Twin.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 6 Oct 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>93</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241006-muhammads-twin/20241006_Muhammad%E2%80%99s_Twin.JPG"/>
+      <link>https://archive.org/details/20241006-muhammads-twin</link>
+			<guid>https://archive.org/details/20241006-muhammads-twin</guid>
+    </item>
+
+    <item>
       <title>I Saw Two Birds</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241005-i-saw-two-birds/20241005_I_Saw_Two_Birds.mp3" type="audio/mpeg" length="12345"/>
