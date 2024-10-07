@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Tiny Gods</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241007-tiny-gods/20241007_Tiny_Gods.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 7 Oct 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>94</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241007-tiny-gods/20241007_Tiny_Gods.JPG"/>
+      <link>https://archive.org/details/20241007-tiny-gods</link>
+			<guid>https://archive.org/details/20241007-tiny-gods</guid>
+    </item>
+
+    <item>
       <title>Muhammad's Twin</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241006-muhammads-twin/20241006_Muhammad%E2%80%99s_Twin.mp3" type="audio/mpeg" length="12345"/>
