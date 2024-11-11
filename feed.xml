@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>That Tree We Planted</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241111-that-tree-we-planted/20241111_That_Tree_We_Planted.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 11 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>123</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241111-that-tree-we-planted/20241111_That_Tree_We_Planted.JPG"/>
+      <link>https://archive.org/details/20241111-that-tree-we-planted</link>
+      <guid>https://archive.org/details/20241111-that-tree-we-planted</guid>
+    </item>
+
+    <item>
       <title>Reverence</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241110-reverence/20241110_Reverence.mp3" type="audio/mpeg" length="12345"/>
