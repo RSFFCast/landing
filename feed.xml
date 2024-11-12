@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>I Vote for You for God</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241112-i-vote-for-you-for-god/20241112_I_Vote_for_You_for_God.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 12 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>124</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241112-i-vote-for-you-for-god/20241112_I_Vote_for_You_for_God.JPG"/>
+      <link>https://archive.org/details/20241112-i-vote-for-you-for-god</link>
+      <guid>https://archive.org/details/20241112-i-vote-for-you-for-god</guid>
+    </item>
+
+    <item>
       <title>That Tree We Planted</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241111-that-tree-we-planted/20241111_That_Tree_We_Planted.mp3" type="audio/mpeg" length="12345"/>
