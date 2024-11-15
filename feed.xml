@@ -15,19 +15,6 @@
     </itunes:owner>
 
     <item>
-      <title>A One-Story House</title>
-      <description>by Hafiz in The Gift</description>
-      <enclosure url="https://archive.org/download/20241113-a-one-story-house/20241113_A_One-Story_House.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Wed, 13 Nov 2024 12:00:00 +0000</pubDate>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>125</itunes:episode>
-      <itunes:author>Hafiz</itunes:author>
-      <itunes:image href="https://archive.org/download/20241113-a-one-story-house/20241113_A_One-Story_House.JPG"/>
-      <link>https://archive.org/details/20241113-a-one-story-house</link>
-      <guid>https://archive.org/details/20241113-a-one-story-house</guid>
-    </item>
-
-    <item>
       <title>What Happens to the Guest</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241115-what-happens-to-the-guest/20241115_What_Happens_to_the_Guest.mp3" type="audio/mpeg" length="12345"/>
