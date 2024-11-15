@@ -106,6 +106,19 @@
     </item>
 
     <item>
+      <title>Ehrin's Poem</title>
+      <description>by Ehrin</description>
+      <enclosure url="https://archive.org/download/20241025-ehrins-poem/20241025_Ehrin%E2%80%99s_Poem.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 25 Oct 2024 12:00:00 +0000</pubDate>
+      <itunes:season>99</itunes:season>
+      <itunes:episode>99</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241025-ehrins-poem/20241025_Ehrin%E2%80%99s_Poem.JPG"/>
+      <link>https://archive.org/details/20241025-ehrins-poem</link>
+      <guid>https://archive.org/details/20241025-ehrins-poem</guid>
+    </item>
+
+    <item>
       <title>When You Can Endure</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241009-when-you-can-endure/20241009_When_You_Can_Endure.mp3" type="audio/mpeg" length="12345"/>
