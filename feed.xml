@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Like Passionate Lips</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241117-like-passionate-lips/20241117_Like_Passionate_Lips.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 17 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>129</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241117-like-passionate-lips/20241117_Like_Passionate_Lips.JPG"/>
+      <link>https://archive.org/details/20241117-like-passionate-lips</link>
+      <guid>https://archive.org/details/20241117-like-passionate-lips</guid>
+    </item>
+
+    <item>
+      <title>I Want Both of Us</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241116-i-want-both-of-us/20241116_I_Want_Both_of_Us.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 16 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>128</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241116-i-want-both-of-us/20241116_I_Want_Both_of_Us.JPG"/>
+      <link>https://archive.org/details/20241116-i-want-both-of-us</link>
+      <guid>https://archive.org/details/20241116-i-want-both-of-us</guid>
+    </item>
+
+    <item>
       <title>What Happens to the Guest</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241115-what-happens-to-the-guest/20241115_What_Happens_to_the_Guest.mp3" type="audio/mpeg" length="12345"/>
