@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Cucumbers and Prayers</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241119-cucumbers-and-prayers/20241119_Cucumbers_and_Prayers.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 18 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>130</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241119-cucumbers-and-prayers/20241119_Cucumbers_and_Prayers.JPG"/>
+      <link>https://archive.org/details/20241119-cucumbers-and-prayers</link>
+      <guid>https://archive.org/details/20241119-cucumbers-and-prayers</guid>
+    </item>
+
+    <item>
       <title>Like Passionate Lips</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241117-like-passionate-lips/20241117_Like_Passionate_Lips.mp3" type="audio/mpeg" length="12345"/>
