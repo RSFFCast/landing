@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>A Cushion for Your Head</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241119-a-cushion-for-your-head/20241119_A_Cushion_for_Your_Head.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 19 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>131</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241119-a-cushion-for-your-head/20241119_A_Cushion_for_Your_Head.JPG"/>
+      <link>https://archive.org/details/20241119-a-cushion-for-your-head</link>
+      <guid>https://archive.org/details/20241119-a-cushion-for-your-head</guid>
+    </item>
+
+    <item>
       <title>Cucumbers and Prayers</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241119-cucumbers-and-prayers/20241119_Cucumbers_and_Prayers.mp3" type="audio/mpeg" length="12345"/>
