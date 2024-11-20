@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>These Beautiful Love Games</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241120-these-beautiful-love-games/20241120_These_Beautiful_Love_Games.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 20 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>132</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241120-these-beautiful-love-games/20241120_These_Beautiful_Love_Games.JPG"/>
+      <link>https://archive.org/details/20241120-these-beautiful-love-games</link>
+      <guid>https://archive.org/details/20241120-these-beautiful-love-games</guid>
+    </item>
+
+    <item>
       <title>A Cushion for Your Head</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241119-a-cushion-for-your-head/20241119_A_Cushion_for_Your_Head.mp3" type="audio/mpeg" length="12345"/>
