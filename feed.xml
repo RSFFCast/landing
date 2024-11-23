@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>The Ambience of Love</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241122-the-ambience-of-love/20241122_The_Ambience_of_Love.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 22 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>134</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241122-the-ambience-of-love/20241122_The_Ambience_of_Love.JPG"/>
+      <link>https://archive.org/details/20241122-the-ambience-of-love</link>
+      <guid>https://archive.org/details/20241122-the-ambience-of-love</guid>
+    </item>
+
+    <item>
+      <title>The Bag Lady</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241121-the-bag-lady/20241121_The_Bag_Lady.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 21 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>133</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241121-the-bag-lady/20241121_The_Bag_Lady.JPG"/>
+      <link>https://archive.org/details/20241121-the-bag-lady</link>
+      <guid>https://archive.org/details/20241121-the-bag-lady</guid>
+    </item>
+
+    <item>
       <title>These Beautiful Love Games</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241120-these-beautiful-love-games/20241120_These_Beautiful_Love_Games.mp3" type="audio/mpeg" length="12345"/>
