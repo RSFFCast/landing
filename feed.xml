@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Tired of Speaking Sweetly</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241123-tired-of-speaking-sweetly/20241123_Tired_of_Speaking_Sweetly.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 23 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>135</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241123-tired-of-speaking-sweetly/20241123_Tired_of_Speaking_Sweetly.JPG"/>
+      <link>https://archive.org/details/20241123-tired-of-speaking-sweetly</link>
+      <guid>https://archive.org/details/20241123-tired-of-speaking-sweetly</guid>
+    </item>
+
+    <item>
       <title>The Ambience of Love</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241122-the-ambience-of-love/20241122_The_Ambience_of_Love.mp3" type="audio/mpeg" length="12345"/>
