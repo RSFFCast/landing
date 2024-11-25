@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>A Root in Each Act and Creature</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241125-a-root-in-each-act-and-creature/20241125_A_Root_in_Each_Act_and_Creature.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 24 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>136</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241125-a-root-in-each-act-and-creature/20241125_A_Root_in_Each_Act_and_Creature.JPG"/>
+      <link>https://archive.org/details/20241125-a-root-in-each-act-and-creature</link>
+      <guid>https://archive.org/details/20241125-a-root-in-each-act-and-creature</guid>
+    </item>
+
+    <item>
       <title>Tired of Speaking Sweetly</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241123-tired-of-speaking-sweetly/20241123_Tired_of_Speaking_Sweetly.mp3" type="audio/mpeg" length="12345"/>
