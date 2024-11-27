@@ -15,10 +15,23 @@
     </itunes:owner>
 
     <item>
+      <title>Turn Left a Thousand Feet From Here</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241127-turn-left-a-thousand-feet-from-here/20241127_Turn_Left_a_Thousand_Feet_From_Here.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 27 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>138</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241127-turn-left-a-thousand-feet-from-here/20241127_Turn_Left_a_Thousand_Feet_From_Here.JPG"/>
+      <link>https://archive.org/details/20241127-turn-left-a-thousand-feet-from-here</link>
+      <guid>https://archive.org/details/20241127-turn-left-a-thousand-feet-from-here</guid>
+    </item>
+
+    <item>
       <title>Our Hearts Should Do This More</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241126-our-hearts-should-do-this-more/20241126_Our_Hearts_Should_Do_This_More.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Tue, 25 Nov 2024 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Nov 2024 12:00:00 +0000</pubDate>
       <itunes:season>10</itunes:season>
       <itunes:episode>137</itunes:episode>
       <itunes:author>Hafiz</itunes:author>
@@ -31,7 +44,7 @@
       <title>A Root in Each Act and Creature</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241125-a-root-in-each-act-and-creature/20241125_A_Root_in_Each_Act_and_Creature.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 24 Nov 2024 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Nov 2024 12:00:00 +0000</pubDate>
       <itunes:season>10</itunes:season>
       <itunes:episode>136</itunes:episode>
       <itunes:author>Hafiz</itunes:author>
