@@ -1146,6 +1146,19 @@
     </item>
 
     <item>
+      <title>Mushrooms</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210320-mushrooms/20210320_Mushrooms.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 20 Mar 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210320-mushrooms/20210320_Mushrooms.jpg"/>
+      <link>https://archive.org/details/20210320-mushrooms</link>
+      <guid>https://archive.org/details/20210320-mushrooms</guid>
+    </item>
+
+    <item>
       <title>August</title>
       <description>by Mary Oliver in American Primitive</description>
       <enclosure url="https://archive.org/download/20210319-august/20210319_August.mp3" type="audio/mpeg" length="12345"/>
