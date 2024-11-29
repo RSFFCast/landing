@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Throw Me on a Scale</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241129-throw-me-on-scale/20241129_Throw_Me_on_Scale.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 29 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>140</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241129-throw-me-on-scale/20241129_Throw_Me_on_Scale.JPG"/>
+      <link>https://archive.org/details/20241129-throw-me-on-scale</link>
+      <guid>https://archive.org/details/20241129-throw-me-on-scale</guid>
+    </item>
+
+    <item>
       <title>Imagination Does Not Exist</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241128-imagination-does-not-exist/20241128_Imagination_Does_Not_Exist.mp3" type="audio/mpeg" length="12345"/>
@@ -1143,6 +1156,19 @@
       <itunes:image href="https://archive.org/download/20240719-to-go-to-lena_202408/20240719_To_Go_to_Lena.jpg"/>
       <link>https://archive.org/details/20240719-to-go-to-lena_202408</link>
       <guid>https://archive.org/details/20240719-to-go-to-lena_202408</guid>
+    </item>
+
+    <item>
+      <title>The Kitten</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210321-the-kitten/20210321_The_Kitten.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 21 Mar 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210321-the-kitten/20210321_The_Kitten.jpg"/>
+      <link>https://archive.org/details/20210321-the-kitten</link>
+      <guid>https://archive.org/details/20210321-the-kitten</guid>
     </item>
 
     <item>
