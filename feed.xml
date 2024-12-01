@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Damn Thirsty</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241201-damn-thirsty/20241201_Damn_Thirsty.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 1 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>142</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241201-damn-thirsty/20241201_Damn_Thirsty.JPG"/>
+      <link>https://archive.org/details/20241201-damn-thirsty</link>
+      <guid>https://archive.org/details/20241201-damn-thirsty</guid>
+    </item>
+
+    <item>
+      <title>The Hatcheck Girl</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241130-the-hatcheck-girl/20241130_The_Hatcheck_Girl.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 30 Nov 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>141</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241130-the-hatcheck-girl/20241130_The_Hatcheck_Girl.JPG"/>
+      <link>https://archive.org/details/20241130-the-hatcheck-girl</link>
+      <guid>https://archive.org/details/20241130-the-hatcheck-girl</guid>
+    </item>
+
+    <item>
       <title>Throw Me on a Scale</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241129-throw-me-on-scale/20241129_Throw_Me_on_Scale.mp3" type="audio/mpeg" length="12345"/>
