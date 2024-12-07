@@ -15,6 +15,45 @@
     </itunes:owner>
 
     <item>
+      <title>Until</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241207-until/20241207_Until.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 7 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>148</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241207-until/20241207_Until.JPG"/>
+      <link>https://archive.org/details/20241207-until</link>
+      <guid>https://archive.org/details/20241207-until</guid>
+    </item>
+
+    <item>
+      <title>Scratching My Back</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241203-scratching-my-back/20241203_Scratching_My_Back.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 3 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>144</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241203-scratching-my-back/20241203_Scratching_My_Back.JPG"/>
+      <link>https://archive.org/details/20241203-scratching-my-back</link>
+      <guid>https://archive.org/details/20241203-scratching-my-back</guid>
+    </item>
+
+    <item>
+      <title>Two Giant Fat People</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241202-two-giant-fat-people/20241202_Two_Giant_Fat_People.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 2 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>143</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241202-two-giant-fat-people/20241202_Two_Giant_Fat_People.JPG"/>
+      <link>https://archive.org/details/20241202-two-giant-fat-people</link>
+      <guid>https://archive.org/details/20241202-two-giant-fat-people</guid>
+    </item>
+
+    <item>
       <title>Damn Thirsty</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241201-damn-thirsty/20241201_Damn_Thirsty.mp3" type="audio/mpeg" length="12345"/>
