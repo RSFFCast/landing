@@ -1276,6 +1276,32 @@
     </item>
 
     <item>
+      <title>In the Pinewoods, Crows and Owl</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210323-in-the-pinewoods-crows-and-owl/20210323_In_the_Pinewoods%2C_Crows_and_Owl.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 23 Mar 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210323-in-the-pinewoods-crows-and-owl/20210323_In_the_Pinewoods%2C_Crows_and_Owl.jpg"/>
+      <link>https://archive.org/details/20210323-in-the-pinewoods-crows-and-owl</link>
+      <guid>https://archive.org/details/20210323-in-the-pinewoods-crows-and-owl</guid>
+    </item>
+
+    <item>
+      <title>Lightning</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210322-lightning/20210322_Lightning.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 22 Mar 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210322-lightning/20210322_Lightning.jpg"/>
+      <link>https://archive.org/details/20210322-lightning</link>
+      <guid>https://archive.org/details/20210322-lightning</guid>
+    </item>
+
+    <item>
       <title>The Kitten</title>
       <description>by Mary Oliver in American Primitive</description>
       <enclosure url="https://archive.org/download/20210321-the-kitten/20210321_The_Kitten.mp3" type="audio/mpeg" length="12345"/>
