@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Why Aren't We Screaming Drunks?</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241208-why-arent-we-screaming-drunks/20241208_Why_Aren%E2%80%99t_We_Screaming_Drunks.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 8 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>149</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241208-why-arent-we-screaming-drunks/20241208_Why_Aren%E2%80%99t_We_Screaming_Drunks.JPG"/>
+      <link>https://archive.org/details/20241208-why-arent-we-screaming-drunks</link>
+      <guid>https://archive.org/details/20241208-why-arent-we-screaming-drunks</guid>
+    </item>
+
+    <item>
       <title>Until</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241207-until/20241207_Until.mp3" type="audio/mpeg" length="12345"/>
