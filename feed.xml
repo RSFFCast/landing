@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Dropping Keys</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241209-dropping-keys/20241209_Dropping_Keys.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 9 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>150</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241209-dropping-keys/20241209_Dropping_Keys.JPG"/>
+      <link>https://archive.org/details/20241209-dropping-keys</link>
+      <guid>https://archive.org/details/20241209-dropping-keys</guid>
+    </item>
+
+    <item>
       <title>Why Aren't We Screaming Drunks?</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241208-why-arent-we-screaming-drunks/20241208_Why_Aren%E2%80%99t_We_Screaming_Drunks.mp3" type="audio/mpeg" length="12345"/>
