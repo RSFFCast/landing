@@ -1315,6 +1315,32 @@
     </item>
 
     <item>
+      <title>The Lost Children</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210325-the-lost-children/20210325_The_Lost_Children.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 25 Mar 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210325-the-lost-children/20210325_The_Lost_Children.jpg"/>
+      <link>https://archive.org/details/20210325-the-lost-children</link>
+      <guid>https://archive.org/details/20210325-the-lost-children</guid>
+    </item>
+
+    <item>
+      <title>Moles</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210324-moles/20210324_Moles.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 24 Mar 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210324-moles/20210324_Moles.jpg"/>
+      <link>https://archive.org/details/20210324-moles</link>
+      <guid>https://archive.org/details/20210324-moles</guid>
+    </item>
+
+    <item>
       <title>In the Pinewoods, Crows and Owl</title>
       <description>by Mary Oliver in American Primitive</description>
       <enclosure url="https://archive.org/download/20210323-in-the-pinewoods-crows-and-owl/20210323_In_the_Pinewoods%2C_Crows_and_Owl.mp3" type="audio/mpeg" length="12345"/>
