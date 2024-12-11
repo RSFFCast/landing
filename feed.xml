@@ -1315,6 +1315,45 @@
     </item>
 
     <item>
+      <title>Egrets</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210330-egrets/20210330_Egrets.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 30 Mar 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210330-egrets/20210330_Egrets.jpg"/>
+      <link>https://archive.org/details/20210330-egrets</link>
+      <guid>https://archive.org/details/20210330-egrets</guid>
+    </item>
+
+    <item>
+      <title>Fall Song</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210329-fall-song/20210329_Fall_Song.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 29 Mar 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210329-fall-song/20210329_Fall_Song.jpg"/>
+      <link>https://archive.org/details/20210329-fall-song</link>
+      <guid>https://archive.org/details/20210329-fall-song</guid>
+    </item>
+
+    <item>
+      <title>The Bobcat</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210327-the-bobcat/20210327_The_Bobcat.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 27 Mar 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210327-the-bobcat/20210327_The_Bobcat.jpg"/>
+      <link>https://archive.org/details/20210327-the-bobcat</link>
+      <guid>https://archive.org/details/20210327-the-bobcat</guid>
+    </item>
+
+    <item>
       <title>The Lost Children</title>
       <description>by Mary Oliver in American Primitive</description>
       <enclosure url="https://archive.org/download/20210325-the-lost-children/20210325_The_Lost_Children.mp3" type="audio/mpeg" length="12345"/>
