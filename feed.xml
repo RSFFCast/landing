@@ -1315,6 +1315,19 @@
     </item>
 
     <item>
+      <title>Clapp's Pond</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210401-clapps-pond/20210401_Clapp%27s_Pond.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 1 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210401-clapps-pond/20210401_Clapp%27s_Pond.jpg"/>
+      <link>https://archive.org/details/20210401-clapps-pond</link>
+      <guid>https://archive.org/details/20210401-clapps-pond</guid>
+    </item>
+
+    <item>
       <title>Egrets</title>
       <description>by Mary Oliver in American Primitive</description>
       <enclosure url="https://archive.org/download/20210330-egrets/20210330_Egrets.mp3" type="audio/mpeg" length="12345"/>
