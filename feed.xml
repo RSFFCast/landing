@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>I Imagine Now for Ages</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241212-i-imagine-now-for-ages/20241212_I_Imagine_Now_for_Ages.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>153</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241212-i-imagine-now-for-ages/20241212_I_Imagine_Now_for_Ages.JPG"/>
+      <link>https://archive.org/details/20241212-i-imagine-now-for-ages</link>
+      <guid>https://archive.org/details/20241212-i-imagine-now-for-ages</guid>
+    </item>
+
+    <item>
       <title>The Great Expanse</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241211-the-great-expanse/20241211_The_Great_Expanse.mp3" type="audio/mpeg" length="12345"/>
@@ -1312,6 +1325,19 @@
       <itunes:image href="https://archive.org/download/20240719-to-go-to-lena_202408/20240719_To_Go_to_Lena.jpg"/>
       <link>https://archive.org/details/20240719-to-go-to-lena_202408</link>
       <guid>https://archive.org/details/20240719-to-go-to-lena_202408</guid>
+    </item>
+
+    <item>
+      <title>Tasting the Wild Grapes</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210403-tasting-the-wild-grapes/20210403_Tasting_the_Wild_Grapes.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 3 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210403-tasting-the-wild-grapes/20210403_Tasting_the_Wild_Grapes.jpg"/>
+      <link>https://archive.org/details/20210403-tasting-the-wild-grapes</link>
+      <guid>https://archive.org/details/20210403-tasting-the-wild-grapes</guid>
     </item>
 
     <item>
