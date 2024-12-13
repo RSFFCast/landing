@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Spiced Manna</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241212-spiced-manna/20241212_Spiced_Manna.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 13 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>154</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241212-spiced-manna/20241212_Spiced_Manna.JPG"/>
+      <link>https://archive.org/details/20241212-spiced-manna</link>
+      <guid>https://archive.org/details/20241212-spiced-manna</guid>
+    </item>
+
+    <item>
       <title>I Imagine Now for Ages</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241212-i-imagine-now-for-ages/20241212_I_Imagine_Now_for_Ages.mp3" type="audio/mpeg" length="12345"/>
