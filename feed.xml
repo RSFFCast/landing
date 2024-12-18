@@ -15,6 +15,58 @@
     </itunes:owner>
 
     <item>
+      <title>The Suburbs</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241218-the-suburbs/20241218_The_Suburbs.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>158</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241218-the-suburbs/20241218_The_Suburbs.JPG"/>
+      <link>https://archive.org/details/20241218-the-suburbs</link>
+      <guid>https://archive.org/details/20241218-the-suburbs</guid>
+    </item>
+
+    <item>
+      <title>Sometimes I Say to a Poem</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241217-sometimes-i-say-to-a-poem/20241217_Sometimes_I_Say_to_a_Poem.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>157</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://https://archive.org/download/20241217-sometimes-i-say-to-a-poem/20241217_Sometimes_I_Say_to_a_Poem.JPG"/>
+      <link>https://archive.org/details/20241217-sometimes-i-say-to-a-poem</link>
+      <guid>https://archive.org/details/20241217-sometimes-i-say-to-a-poem</guid>
+    </item>
+
+    <item>
+      <title>And for No Reason</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241216-and-for-no-reason/20241216_And_for_No_Reason.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>156</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241216-and-for-no-reason/20241216_And_for_No_Reason.JPG"/>
+      <link>https://archive.org/details/20241216-and-for-no-reason</link>
+      <guid>https://archive.org/details/20241216-and-for-no-reason</guid>
+    </item>
+
+    <item>
+      <title>A Hard Decree</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241214-a-hard-decree/20241214_A_Hard_Decree.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 14 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>155</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241214-a-hard-decree/20241214_A_Hard_Decree.JPG"/>
+      <link>https://archive.org/details/20241214-a-hard-decree</link>
+      <guid>https://archive.org/details/20241214-a-hard-decree</guid>
+    </item>
+
+    <item>
       <title>Spiced Manna</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241212-spiced-manna/20241212_Spiced_Manna.mp3" type="audio/mpeg" length="12345"/>
