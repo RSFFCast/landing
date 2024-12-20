@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>We Might Have to Medicate You</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241220-we-might-have-to-medicate-you/20241220_We_Might_Have_to_Medicate_You.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 20 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>160</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241220-we-might-have-to-medicate-you/20241220_We_Might_Have_to_Medicate_You.JPG"/>
+      <link>https://archive.org/details/20241220-we-might-have-to-medicate-you</link>
+      <guid>https://archive.org/details/20241220-we-might-have-to-medicate-you</guid>
+    </item>
+
+    <item>
       <title>She Responded</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241219-she-responded/20241219_She_Responded.mp3" type="audio/mpeg" length="12345"/>
@@ -24,7 +37,7 @@
       <itunes:author>Hafiz</itunes:author>
       <itunes:image href="https://archive.org/download/20241219-she-responded/20241219_She_Responded.JPG"/>
       <link>https://archive.org/details/20241219-she-responded</link>
-      <guid>https://archive.org/details/20241219-she-responded/guid>
+      <guid>https://archive.org/details/20241219-she-responded</guid>
     </item>
 
     <item>
