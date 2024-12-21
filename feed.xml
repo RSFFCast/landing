@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Idiot's Warehouse</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241221-the-idiots-warehouse/20241221_The_Idiot%E2%80%99s_Warehouse.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 21 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>161</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241221-the-idiots-warehouse/20241221_The_Idiot%E2%80%99s_Warehouse.mp3"/>
+      <link>https://archive.org/details/20241221-the-idiots-warehouse</link>
+      <guid>https://archive.org/details/20241221-the-idiots-warehouse</guid>
+    </item>
+
+    <item>
       <title>We Might Have to Medicate You</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241220-we-might-have-to-medicate-you/20241220_We_Might_Have_to_Medicate_You.mp3" type="audio/mpeg" length="12345"/>
@@ -1416,6 +1429,45 @@
       <itunes:image href="https://archive.org/download/20240719-to-go-to-lena_202408/20240719_To_Go_to_Lena.jpg"/>
       <link>https://archive.org/details/20240719-to-go-to-lena_202408</link>
       <guid>https://archive.org/details/20240719-to-go-to-lena_202408</guid>
+    </item>
+
+    <item>
+      <title>Ghosts</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210406-ghosts/20210406_Ghosts.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 6 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210406-ghosts/20210406_Ghosts.jpg"/>
+      <link>https://archive.org/details/20210406-ghosts</link>
+      <guid>https://archive.org/details/20210406-ghosts</guid>
+    </item>
+
+    <item>
+      <title>First Snow</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210405-first-snow/20210405_First_Snow.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 5 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210405-first-snow/20210405_First_Snow.jpg"/>
+      <link>https://archive.org/details/20210405-first-snow</link>
+      <guid>https://archive.org/details/20210405-first-snow</guid>
+    </item>
+
+    <item>
+      <title>John Chapman</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210404-john-chapman/20210404_John_Chapman.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 4 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210404-john-chapman/20210404_John_Chapman.jpg"/>
+      <link>https://archive.org/details/20210404-john-chapman</link>
+      <guid>https://archive.org/details/20210404-john-chapman</guid>
     </item>
 
     <item>
