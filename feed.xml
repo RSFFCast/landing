@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>This Teaching Business Isn't Easy</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241223-this-teaching-business-isnt-easy/20241223_This_Teaching_Business_Isn%E2%80%99t_Easy.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 23 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>163</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241223-this-teaching-business-isnt-easy/20241223_This_Teaching_Business_Isn%E2%80%99t_Easy.JPG"/>
+      <link>https://archive.org/details/20241223-this-teaching-business-isnt-easy</link>
+      <guid>https://archive.org/details/20241223-this-teaching-business-isnt-easy</guid>
+    </item>
+
+    <item>
       <title>When You Wake</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241222-when-you-wake/20241222_When_You_Wake.mp3" type="audio/mpeg" length="12345"/>
