@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Mountain Got Tired of Sitting</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241224-the-mountain-got-tired-of-sitting/20241224_The_Mountain_Got_Tired_of_Sitting.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 24 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>164</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://https://archive.org/download/20241224-the-mountain-got-tired-of-sitting/20241224_The_Mountain_Got_Tired_of_Sitting.JPG"/>
+      <link>https://archive.org/details/20241224-the-mountain-got-tired-of-sitting</link>
+      <guid>https://archive.org/details/20241224-the-mountain-got-tired-of-sitting</guid>
+    </item>
+
+    <item>
       <title>This Teaching Business Isn't Easy</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241223-this-teaching-business-isnt-easy/20241223_This_Teaching_Business_Isn%E2%80%99t_Easy.mp3" type="audio/mpeg" length="12345"/>
@@ -48,7 +61,7 @@
       <itunes:season>10</itunes:season>
       <itunes:episode>161</itunes:episode>
       <itunes:author>Hafiz</itunes:author>
-      <itunes:image href="https://archive.org/download/20241221-the-idiots-warehouse/20241221_The_Idiot%E2%80%99s_Warehouse.mp3"/>
+      <itunes:image href="https://archive.org/download/20241221-the-idiots-warehouse/20241221_The_Idiot%E2%80%99s_Warehouse.JPG"/>
       <link>https://archive.org/details/20241221-the-idiots-warehouse</link>
       <guid>https://archive.org/details/20241221-the-idiots-warehouse</guid>
     </item>
