@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Where Is the Door to the Tavern?</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241224-where-is-the-door-to-the-tavern/20241224_Where_Is_the_Door_to_the_Tavern%3F.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 25 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>165</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241224-where-is-the-door-to-the-tavern/20241224_Where_Is_the_Door_to_the_Tavern%3F.JPG"/>
+      <link>https://archive.org/details/20241224-where-is-the-door-to-the-tavern</link>
+      <guid>https://archive.org/details/20241224-where-is-the-door-to-the-tavern</guid>
+    </item>
+
+    <item>
       <title>The Mountain Got Tired of Sitting</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241224-the-mountain-got-tired-of-sitting/20241224_The_Mountain_Got_Tired_of_Sitting.mp3" type="audio/mpeg" length="12345"/>
