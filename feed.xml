@@ -1484,6 +1484,71 @@
     </item>
 
     <item>
+      <title>Vultures</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210418-vultures/20210418_Vultures.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 18 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210418-vultures/20210418_Vultures.jpg"/>
+      <link>https://archive.org/details/20210418-vultures</link>
+      <guid>https://archive.org/details/20210418-vultures</guid>
+    </item>
+
+    <item>
+      <title>Postcard from Flamingo</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210416-postcard-from-flamingo/20210416_Postcard_from_Flamingo.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 16 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210416-postcard-from-flamingo/20210416_Postcard_from_Flamingo.jpg"/>
+      <link>https://archive.org/details/20210416-postcard-from-flamingo</link>
+      <guid>https://archive.org/details/20210416-postcard-from-flamingo</guid>
+    </item>
+
+    <item>
+      <title>Flying</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210415-flying/20210415_Flying.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 15 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210415-flying/20210415_Flying.jpg"/>
+      <link>https://archive.org/details/20210415-flying</link>
+      <guid>https://archive.org/details/20210415-flying</guid>
+    </item>
+
+    <item>
+      <title>A Poem for the Blue Heron</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210414-a-poem-for-the-blue-heron/20210414_A_Poem_for_the_Blue_Heron.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 14 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210414-a-poem-for-the-blue-heron/20210414_A_Poem_for_the_Blue_Heron.jpg"/>
+      <link>https://archive.org/details/20210414-a-poem-for-the-blue-heron</link>
+      <guid>https://archive.org/details/20210414-a-poem-for-the-blue-heron</guid>
+    </item>
+
+    <item>
+      <title>Cold Poem</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210408-cold-poem/20210408_Cold_Poem.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 8 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210408-cold-poem/20210408_Cold_Poem.jpg"/>
+      <link>https://archive.org/details/20210408-cold-poem</link>
+      <guid>https://archive.org/details/20210408-cold-poem</guid>
+    </item>
+
+    <item>
       <title>Ghosts</title>
       <description>by Mary Oliver in American Primitive</description>
       <enclosure url="https://archive.org/download/20210406-ghosts/20210406_Ghosts.mp3" type="audio/mpeg" length="12345"/>
