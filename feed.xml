@@ -15,6 +15,45 @@
     </itunes:owner>
 
     <item>
+      <title>The Heart's Coronation</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241228-the-hearts-coronation/20241228_The_Heart%E2%80%99s_Coronation.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 28 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>168</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241228-the-hearts-coronation/20241228_The_Heart%E2%80%99s_Coronation.JPG"/>
+      <link>https://archive.org/download/20241228-the-hearts-coronation/20241228_The_Heart%E2%80%99s_Coronation.JPG</link>
+      <guid>https://archive.org/download/20241228-the-hearts-coronation/20241228_The_Heart%E2%80%99s_Coronation.JPG/guid>
+    </item>
+
+    <item>
+      <title>In Need of the Breath</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241227-in-need-of-the-breath/20241227_In_Need_of_the_Breath.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 17 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>167</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241227-in-need-of-the-breath/20241227_In_Need_of_the_Breath.JPG"/>
+      <link>https://archive.org/details/20241227-in-need-of-the-breath</link>
+      <guid>https://archive.org/details/20241227-in-need-of-the-breath</guid>
+    </item>
+
+    <item>
+      <title>Becoming Human</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241226-becoming-human/20241226_Becoming_Human.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 26 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>166</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241226-becoming-human/20241226_Becoming_Human.jpg"/>
+      <link>https://archive.org/details/20241226-becoming-human</link>
+      <guid>https://archive.org/details/20241226-becoming-human</guid>
+    </item>
+
+    <item>
       <title>Where Is the Door to the Tavern?</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241224-where-is-the-door-to-the-tavern/20241224_Where_Is_the_Door_to_the_Tavern%3F.mp3" type="audio/mpeg" length="12345"/>
