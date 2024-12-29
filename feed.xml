@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Thousand-Stringed Instrument</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241229-the-thousand-stringed-instrument./20241229_The_Thousand-Stringed_Instrument..mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 29 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>169</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241229-the-thousand-stringed-instrument./20241229_The_Thousand-Stringed_Instrument..JPG"/>
+      <link>https://https://archive.org/details/20241229-the-thousand-stringed-instrument.</link>
+      <guid>https://archive.org/details/20241229-the-thousand-stringed-instrument.</guid>
+    </item>
+
+    <item>
       <title>The Heart's Coronation</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241228-the-hearts-coronation/20241228_The_Heart%E2%80%99s_Coronation.mp3" type="audio/mpeg" length="12345"/>
@@ -23,8 +36,8 @@
       <itunes:episode>168</itunes:episode>
       <itunes:author>Hafiz</itunes:author>
       <itunes:image href="https://archive.org/download/20241228-the-hearts-coronation/20241228_The_Heart%E2%80%99s_Coronation.JPG"/>
-      <link>https://archive.org/download/20241228-the-hearts-coronation/20241228_The_Heart%E2%80%99s_Coronation.JPG</link>
-      <guid>https://archive.org/download/20241228-the-hearts-coronation/20241228_The_Heart%E2%80%99s_Coronation.JPG/guid>
+      <link>https://archive.org/details/20241228-the-hearts-coronation</link>
+      <guid>https://archive.org/details/20241228-the-hearts-coronation>/guid>
     </item>
 
     <item>
