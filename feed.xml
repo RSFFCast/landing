@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>And Then You Are</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241231-and-then-you-are/20241231_And_Then_You_Are.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 31 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>171</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241231-and-then-you-are/20241231_And_Then_You_Are.JPG"/>
+      <link>https://archive.org/details/20241231-and-then-you-are</link>
+      <guid>https://archive.org/details/20241231-and-then-you-are</guid>
+    </item>
+
+    <item>
+      <title>Then Winks</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20241230-then-winks/20241230_Then_Winks.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 30 Dec 2024 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>170</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20241230-then-winks/20241230_Then_Winks.JPG"/>
+      <link>https://archive.org/details/20241230-then-winks</link>
+      <guid>https://archive.org/details/20241230-then-winks</guid>
+    </item>
+
+    <item>
       <title>The Thousand-Stringed Instrument</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241229-the-thousand-stringed-instrument./20241229_The_Thousand-Stringed_Instrument..mp3" type="audio/mpeg" length="12345"/>
