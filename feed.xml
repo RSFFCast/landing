@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Intelligent Man</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20250101-the-intelligent-man/20250101_The_Intelligent_Man.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 1 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>172</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20250101-the-intelligent-man/20250101_The_Intelligent_Man.JPG"/>
+      <link>https://archive.org/details/20250101-the-intelligent-man</link>
+      <guid>https://archive.org/details/20250101-the-intelligent-man</guid>
+    </item>
+
+    <item>
       <title>And Then You Are</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20241231-and-then-you-are/20241231_And_Then_You_Are.mp3" type="audio/mpeg" length="12345"/>
