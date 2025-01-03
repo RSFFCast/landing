@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Find a Better Job</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20250103-find-a-better-job/20250103_Find_a_Better_Job.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 3 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>174</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20250103-find-a-better-job/20250103_Find_a_Better_Job.JPG"/>
+      <link>https://archive.org/details/20250103-find-a-better-job</link>
+      <guid>https://archive.org/details/20250103-find-a-better-job</guid>
+    </item>
+
+    <item>
+      <title>The Chorus In the Eye</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20250102-the-chorus-in-the-eye/20250102_The_Chorus_in_the_Eye.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 2 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>173</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20250102-the-chorus-in-the-eye/20250102_The_Chorus_in_the_Eye.JPG"/>
+      <link>https://https://archive.org/details/20250102-the-chorus-in-the-eye</link>
+      <guid>https://https://archive.org/details/20250102-the-chorus-in-the-eye</guid>
+    </item>
+
+    <item>
       <title>The Intelligent Man</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20250101-the-intelligent-man/20250101_The_Intelligent_Man.mp3" type="audio/mpeg" length="12345"/>
