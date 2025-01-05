@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>When the Sun Conceived a Man</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20250105-when-the-sun-conceived-a-man/20250105_When_the_Sun_Conceived_a_Man.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 5 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>176</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20250105-when-the-sun-conceived-a-man/20250105_When_the_Sun_Conceived_a_Man.JPG"/>
+      <link>https://archive.org/details/20250105-when-the-sun-conceived-a-man</link>
+      <guid>https://archive.org/details/20250105-when-the-sun-conceived-a-man</guid>
+    </item>
+
+    <item>
+      <title>The Lute Will Beg</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20250104-the-lute-will-beg/20250104_The_Lute_Will_Beg.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 4 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>175</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20250104-the-lute-will-beg/20250104_The_Lute_Will_Beg.JPG"/>
+      <link>https://archive.org/details/20250104-the-lute-will-beg</link>
+      <guid>https://archive.org/details/20250104-the-lute-will-beg</guid>
+    </item>
+
+    <item>
       <title>Find a Better Job</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20250103-find-a-better-job/20250103_Find_a_Better_Job.mp3" type="audio/mpeg" length="12345"/>
