@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>A Mime</title>
+      <description>by Hafiz in The Gift</description>
+      <enclosure url="https://archive.org/download/20250107-a-mime/20250107_A_Mime.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 7 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>177</itunes:episode>
+      <itunes:author>Hafiz</itunes:author>
+      <itunes:image href="https://archive.org/download/20250107-a-mime/20250107_A_Mime.JPG"/>
+      <link>https://archive.org/details/20250107-a-mime</link>
+      <guid>https://archive.org/details/20250107-a-mime</guid>
+    </item>
+
+    <item>
       <title>When the Sun Conceived a Man</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20250105-when-the-sun-conceived-a-man/20250105_When_the_Sun_Conceived_a_Man.mp3" type="audio/mpeg" length="12345"/>
