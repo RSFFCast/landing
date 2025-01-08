@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Suffering-Accumulation and Some Clean Water</title>
+      <description>by Rats Alice Trujillo in Insurrection Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250108-suffering-accumulation-and-some-clean-water/20250108_Suffering-Accumulation_and_Some_Clean_Water.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 8 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250108-suffering-accumulation-and-some-clean-water/20250108_Suffering-Accumulation_and_Some_Clean_Water.JPG"/>
+      <link>https://archive.org/details/20250108-suffering-accumulation-and-some-clean-water</link>
+      <guid>https://archive.org/details/20250108-suffering-accumulation-and-some-clean-water</guid>
+    </item>
+
+    <item>
       <title>A Mime</title>
       <description>by Hafiz in The Gift</description>
       <enclosure url="https://archive.org/download/20250107-a-mime/20250107_A_Mime.mp3" type="audio/mpeg" length="12345"/>
