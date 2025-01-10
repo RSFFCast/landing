@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Arbitrary, Dislocated</title>
+      <description>by Rats Alice Trujillo in Insurrection Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250110-arbitrary-dislocated/20250110_Arbitrary_Dislocated.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 10 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250110-arbitrary-dislocated/20250110_Arbitrary_Dislocated.JPG"/>
+      <link>https://archive.org/details/20250110-arbitrary-dislocated</link>
+      <guid>https://archive.org/details/20250110-arbitrary-dislocated</guid>
+    </item>
+
+    <item>
       <title>Drawn Under Locust</title>
       <description>by Rats Alice Trujillo in Insurrection Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250109-drawn-under-locust/20250109_Drawn_Under_Locust.mp3" type="audio/mpeg" length="12345"/>
