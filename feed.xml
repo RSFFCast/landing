@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>For You, Self-Destroyed</title>
+      <description>by Rats Alice Trujillo in Insurrection Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250111-for-you-self-destroyed/20250111_For_You_Self_Destroyed.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 11 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250111-for-you-self-destroyed/20250111_For_You_Self_Destroyed.JPG"/>
+      <link>https://archive.org/details/20250111-for-you-self-destroyed</link>
+      <guid>https://archive.org/details/20250111-for-you-self-destroyed</guid>
+    </item>
+
+    <item>
       <title>Arbitrary, Dislocated</title>
       <description>by Rats Alice Trujillo in Insurrection Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250110-arbitrary-dislocated/20250110_Arbitrary_Dislocated.mp3" type="audio/mpeg" length="12345"/>
