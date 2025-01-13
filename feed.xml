@@ -15,8 +15,34 @@
     </itunes:owner>
 
     <item>
+      <title>Lowering</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250113-lowering/20250113_Lowering.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 13 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250113-lowering/20250113_Lowering.JPG"/>
+      <link>https://archive.org/details/20250113-lowering</link>
+      <guid>https://archive.org/details/20250113-lowering</guid>
+    </item>
+
+    <item>
+      <title>Extinction Romantic</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250112-extinction-romantic/20250112_Extinction_Romantic.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 12 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250112-extinction-romantic/20250112_Extinction_Romantic.JPG"/>
+      <link>https://archive.org/details/20250112-extinction-romantic</link>
+      <guid>https://archive.org/details/20250112-extinction-romantic</guid>
+    </item>
+
+    <item>
       <title>For You, Self-Destroyed</title>
-      <description>by Rats Alice Trujillo in Insurrection Auto-Vivisection</description>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250111-for-you-self-destroyed/20250111_For_You_Self_Destroyed.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 11 Jan 2025 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
@@ -29,7 +55,7 @@
 
     <item>
       <title>Arbitrary, Dislocated</title>
-      <description>by Rats Alice Trujillo in Insurrection Auto-Vivisection</description>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250110-arbitrary-dislocated/20250110_Arbitrary_Dislocated.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 10 Jan 2025 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
@@ -42,7 +68,7 @@
 
     <item>
       <title>Drawn Under Locust</title>
-      <description>by Rats Alice Trujillo in Insurrection Auto-Vivisection</description>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250109-drawn-under-locust/20250109_Drawn_Under_Locust.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Thu, 9 Jan 2025 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
@@ -55,7 +81,7 @@
 
     <item>
       <title>Suffering-Accumulation and Some Clean Water</title>
-      <description>by Rats Alice Trujillo in Insurrection Auto-Vivisection</description>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250108-suffering-accumulation-and-some-clean-water/20250108_Suffering-Accumulation_and_Some_Clean_Water.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Wed, 8 Jan 2025 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
