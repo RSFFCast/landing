@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>My Stomach My Thoughts My Skin and My Heart</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250118-my-stomach-my-thoughts-my-skin-and-my-heart/20250118_My_Stomach_My_Thoughts_My_Skin_and_My_Heart.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 18 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250118-my-stomach-my-thoughts-my-skin-and-my-heart/20250118_My_Stomach_My_Thoughts_My_Skin_and_My_Heart.JPG"/>
+      <link>https://archive.org/details/20250118-my-stomach-my-thoughts-my-skin-and-my-heart</link>
+      <guid>https://archive.org/details/20250118-my-stomach-my-thoughts-my-skin-and-my-heart</guid>
+    </item>
+
+    <item>
       <title>Lowering</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250113-lowering/20250113_Lowering.mp3" type="audio/mpeg" length="12345"/>
