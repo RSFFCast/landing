@@ -15,6 +15,45 @@
     </itunes:owner>
 
     <item>
+      <title>Sirens of Undertow</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250121-sirens-of-undertow/20250121_Sirens_of_Undertow.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 21 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250121-sirens-of-undertow/20250121_Sirens_of_Undertow.JPG"/>
+      <link>https://archive.org/details/20250121-sirens-of-undertow</link>
+      <guid>https://archive.org/details/20250121-sirens-of-undertow</guid>
+    </item>
+
+    <item>
+      <title>Room in the Blue Air</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250120-room-in-the-blue-air/20250120_Room_in_the_Blue_Air.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 20 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250120-room-in-the-blue-air/20250120_Room_in_the_Blue_Air.JPG"/>
+      <link>https://archive.org/details/20250120-room-in-the-blue-air</link>
+      <guid>https://archive.org/details/20250120-room-in-the-blue-air</guid>
+    </item>
+
+    <item>
+      <title>Vasectomy</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250119-vasectomy/20250119_Vasectomy.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 19 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250119-vasectomy/20250119_Vasectomy.JPG"/>
+      <link>https://archive.org/details/20250119-vasectomy</link>
+      <guid>https://archive.org/details/20250119-vasectomy</guid>
+    </item>
+
+    <item>
       <title>My Stomach My Thoughts My Skin and My Heart</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250118-my-stomach-my-thoughts-my-skin-and-my-heart/20250118_My_Stomach_My_Thoughts_My_Skin_and_My_Heart.mp3" type="audio/mpeg" length="12345"/>
