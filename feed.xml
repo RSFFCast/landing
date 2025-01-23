@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Forfeit</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250123-forfeit/20250123_Forfeit.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 22 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250123-forfeit/20250123_Forfeit.JPG"/>
+      <link>https://archive.org/details/20250123-forfeit</link>
+      <guid>https://archive.org/details/20250123-forfeit</guid>
+    </item>
+
+    <item>
       <title>Sirens of Undertow</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250121-sirens-of-undertow/20250121_Sirens_of_Undertow.mp3" type="audio/mpeg" length="12345"/>
