@@ -15,10 +15,23 @@
     </itunes:owner>
 
     <item>
+      <title>We Murdered Will Know Each Other</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250124-we-murdered-will-know-each-other/20250124_We_Murdered_Will_Know_Each_Other.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 24 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250124-we-murdered-will-know-each-other/20250124_We_Murdered_Will_Know_Each_Other.JPG"/>
+      <link>https://archive.org/details/20250124-we-murdered-will-know-each-other</link>
+      <guid>https://archive.org/details/20250124-we-murdered-will-know-each-other</guid>
+    </item>
+
+    <item>
       <title>Forfeit</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250123-forfeit/20250123_Forfeit.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Thu, 22 Jan 2025 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
       <itunes:season>15</itunes:season>
       <itunes:episode>11</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
