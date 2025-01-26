@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Empty Image</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250126-empty-image/20250126_Empty_Image.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 26 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250126-empty-image/20250126_Empty_Image.JPG"/>
+      <link>https://archive.org/details/20250126-empty-image</link>
+      <guid>https://archive.org/details/20250126-empty-image</guid>
+    </item>
+
+    <item>
       <title>The Owl</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250125-the-owl/20250125_The_Owl.mp3" type="audio/mpeg" length="12345"/>
