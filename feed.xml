@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Exile as etc.</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250130-exile-as-etc/20250130_Exile_as_etc.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250130-exile-as-etc/20250130_Exile_as_etc.JPG"/>
+      <link>https://archive.org/details/20250130-exile-as-etc</link>
+      <guid>https://archive.org/details/20250130-exile-as-etc</guid>
+    </item>
+
+    <item>
       <title>Incongruous Reflection</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250129-incongruous-reflection/20250129_Incongruous_Reflection.mp3" type="audio/mpeg" length="12345"/>
