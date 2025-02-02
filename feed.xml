@@ -15,7 +15,20 @@
     </itunes:owner>
 
     <item>
-      <title>20250201 October 2020 Premonition, or The Storm Drains Are Spilling Over The Streets</title>
+      <title>Fragmentation</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250202-fragmentation/20250202_Fragmentation.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 2 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250202-fragmentation/20250202_Fragmentation.JPG"/>
+      <link>https://archive.org/details/20250202-fragmentation</link>
+      <guid>https://archive.org/details/20250202-fragmentation</guid>
+    </item>
+
+    <item>
+      <title>October 2020 Premonition, or The Storm Drains Are Spilling Over The Streets</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250201-october-2020-premonition/20250201_October_2020_Premonition.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 1 Feb 2025 12:00:00 +0000</pubDate>
