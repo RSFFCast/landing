@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>As We Become Into Dandruff</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250205-as-we-become-into-dandruff/20250205_As_We_Become_Into_Dandruff.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 5 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250205-as-we-become-into-dandruff/20250205_As_We_Become_Into_Dandruff.JPG"/>
+      <link>https://archive.org/details/20250205-as-we-become-into-dandruff</link>
+      <guid>https://archive.org/details/20250205-as-we-become-into-dandruff</guid>
+    </item>
+
+    <item>
+      <title>Alone is long water</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250204-alone-is-long-water/20250204_Alone_is_long_water.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 4 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250204-alone-is-long-water/20250204_Alone_is_long_water.JPG"/>
+      <link>https://archive.org/details/20250204-alone-is-long-water</link>
+      <guid>https://archive.org/details/20250204-alone-is-long-water</guid>
+    </item>
+
+    <item>
       <title>Gambled Incisions</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250203-gambled-incisions/20250203_Gambled_Incisions.mp3" type="audio/mpeg" length="12345"/>
