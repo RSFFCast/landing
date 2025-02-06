@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Substitutions</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250206-substitutions/20250206_Substitutions.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 6 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250206-substitutions/20250206_Substitutions.JPG"/>
+      <link>https://archive.org/details/20250206-substitutions</link>
+      <guid>https://archive.org/details/20250206-substitutions</guid>
+    </item>
+
+    <item>
       <title>As We Become Into Dandruff</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250205-as-we-become-into-dandruff/20250205_As_We_Become_Into_Dandruff.mp3" type="audio/mpeg" length="12345"/>
