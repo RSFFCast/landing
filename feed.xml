@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Vanishing Rooms</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250210-the-vanishing-rooms/20250210_The_Vanishing_Rooms.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 10 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250210-the-vanishing-rooms/20250210_The_Vanishing_Rooms.JPG"/>
+      <link>https://archive.org/details/20250210-the-vanishing-rooms</link>
+      <guid>https://archive.org/details/20250210-the-vanishing-rooms</guid>
+    </item>
+
+    <item>
       <title>Generation</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250209-generation/20250209_Generation.mp3" type="audio/mpeg" length="12345"/>
