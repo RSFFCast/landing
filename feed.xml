@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>A Series of Throats</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250211-a-series-of-throats/20250211_A_Series_of_Throats.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 11 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250211-a-series-of-throats/20250211_A_Series_of_Throats.JPG"/>
+      <link>https://archive.org/details/20250211-a-series-of-throats</link>
+      <guid>https://archive.org/details/20250211-a-series-of-throats</guid>
+    </item>
+
+    <item>
       <title>The Vanishing Rooms</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250210-the-vanishing-rooms/20250210_The_Vanishing_Rooms.mp3" type="audio/mpeg" length="12345"/>
