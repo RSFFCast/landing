@@ -15,11 +15,76 @@
     </itunes:owner>
 
     <item>
+      <title>Nausea Sympathetic</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250222-nausea-sympathetic/20250222_Nausea_Sympathetic.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 22 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250222-nausea-sympathetic/20250222_Nausea_Sympathetic.JPG"/>
+      <link>https://archive.org/details/20250222-nausea-sympathetic</link>
+      <guid>https://archive.org/details/20250222-nausea-sympathetic</guid>
+    </item>
+
+    <item>
+      <title>Distantly</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250221-distantly/20250221_Distantly.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 21 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250221-distantly/20250221_Distantly.JPG"/>
+      <link>https://archive.org/details/20250221-distantly</link>
+      <guid>https://archive.org/details/20250221-distantly</guid>
+    </item>
+
+    <item>
+      <title>My Skull as a Cup of Ocean</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250220-my-skull-as-a-cup-of-ocean/20250220_My_Skull_as_a_Cup_of_Ocean.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 20 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250220-my-skull-as-a-cup-of-ocean/20250220_My_Skull_as_a_Cup_of_Ocean.JPG"/>
+      <link>https://archive.org/details/20250220-my-skull-as-a-cup-of-ocean</link>
+      <guid>https://archive.org/details/20250220-my-skull-as-a-cup-of-ocean</guid>
+    </item>
+
+    <item>
+      <title>I Fell Asleep Startled</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250218-i-fell-asleep-startled/20250218_I_Fell_Asleep_Startled.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 18 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250218-i-fell-asleep-startled/20250218_I_Fell_Asleep_Startled.jpg"/>
+      <link>https://archive.org/details/20250218-i-fell-asleep-startled</link>
+      <guid>https://archive.org/details/20250218-i-fell-asleep-startled</guid>
+    </item>
+
+    <item>
+      <title>Kitchen Window Cowboy</title>
+      <description>by Jan Swanwood in Cowboy Poetry</description>
+      <enclosure url="https://archive.org/download/20250217-kitchen-window-cowboy/20250217_Kitchen_Window_Cowboy.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 17 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>99</itunes:season>
+      <itunes:episode>99</itunes:episode>
+      <itunes:author>Jan Swanwood</itunes:author>
+      <itunes:image href="https://archive.org/download/20250217-kitchen-window-cowboy/20250217_Kitchen_Window_Cowboy.JPG"/>
+      <link>https://archive.org/details/20250217-kitchen-window-cowboy</link>
+      <guid>https://archive.org/details/20250217-kitchen-window-cowboy</guid>
+    </item>
+
+    <item>
       <title>Beside the White River</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250216-beside-the-white-river/20250216_Beside_the_White_River.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sat, 15 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <pubDate>Sun, 16 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
       <itunes:episode>32</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250216-beside-the-white-river/20250216_Beside_the_White_River.JPG"/>
@@ -32,7 +97,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250212-disquiet-travels/20250212_Disquiet_Travels.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Wed, 12 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>31</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250212-disquiet-travels/20250212_Disquiet_Travels.JPG"/>
@@ -45,7 +110,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250211-a-series-of-throats/20250211_A_Series_of_Throats.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Tue, 11 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>30</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250211-a-series-of-throats/20250211_A_Series_of_Throats.JPG"/>
@@ -58,7 +123,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250210-the-vanishing-rooms/20250210_The_Vanishing_Rooms.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 10 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>29</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250210-the-vanishing-rooms/20250210_The_Vanishing_Rooms.JPG"/>
@@ -71,7 +136,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250209-generation/20250209_Generation.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sun, 9 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>28</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250209-generation/20250209_Generation.JPG"/>
@@ -84,7 +149,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250208-roses/20250208_Roses.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 8 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>27</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250208-roses/20250208_Roses.JPG"/>
@@ -97,7 +162,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250207-bestial/20250207_Bestial.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 7 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>26</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250207-bestial/20250207_Bestial.JPG"/>
@@ -110,7 +175,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250206-substitutions/20250206_Substitutions.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Thu, 6 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>25</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250206-substitutions/20250206_Substitutions.JPG"/>
@@ -123,7 +188,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250205-as-we-become-into-dandruff/20250205_As_We_Become_Into_Dandruff.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Wed, 5 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>24</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250205-as-we-become-into-dandruff/20250205_As_We_Become_Into_Dandruff.JPG"/>
@@ -136,7 +201,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250204-alone-is-long-water/20250204_Alone_is_long_water.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Tue, 4 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>23</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250204-alone-is-long-water/20250204_Alone_is_long_water.JPG"/>
@@ -149,7 +214,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250203-gambled-incisions/20250203_Gambled_Incisions.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 3 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>22</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250203-gambled-incisions/20250203_Gambled_Incisions.JPG"/>
@@ -162,7 +227,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250202-fragmentation/20250202_Fragmentation.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sun, 2 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>21</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250202-fragmentation/20250202_Fragmentation.JPG"/>
@@ -175,7 +240,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250201-october-2020-premonition/20250201_October_2020_Premonition.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 1 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>20</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250201-october-2020-premonition/20250201_October_2020_Premonition.JPG"/>
@@ -188,7 +253,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250131-evelyn-your-eyes/20250131_Evelyn_your_eyes.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 31 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>19</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250131-evelyn-your-eyes/20250131_Evelyn_your_eyes.JPG"/>
@@ -201,7 +266,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250130-exile-as-etc/20250130_Exile_as_etc.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>18</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250130-exile-as-etc/20250130_Exile_as_etc.JPG"/>
@@ -214,7 +279,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250129-incongruous-reflection/20250129_Incongruous_Reflection.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>17</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250129-incongruous-reflection/20250129_Incongruous_Reflection.JPG"/>
@@ -227,7 +292,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250128-dying-memory/20250128_Dying_Memory.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>16</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250128-dying-memory/20250128_Dying_Memory.JPG"/>
@@ -240,7 +305,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250127-body-donation/20250127_Body_Donation.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>15</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250127-body-donation/20250127_Body_Donation.JPG"/>
@@ -253,7 +318,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250126-empty-image/20250126_Empty_Image.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sun, 26 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>14</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250126-empty-image/20250126_Empty_Image.JPG"/>
@@ -266,7 +331,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250125-the-owl/20250125_The_Owl.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 25 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>13</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250125-the-owl/20250125_The_Owl.JPG"/>
@@ -279,7 +344,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250124-we-murdered-will-know-each-other/20250124_We_Murdered_Will_Know_Each_Other.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 24 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>12</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250124-we-murdered-will-know-each-other/20250124_We_Murdered_Will_Know_Each_Other.JPG"/>
@@ -292,7 +357,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250123-forfeit/20250123_Forfeit.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Thu, 23 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>11</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250123-forfeit/20250123_Forfeit.JPG"/>
@@ -305,7 +370,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250121-sirens-of-undertow/20250121_Sirens_of_Undertow.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Tue, 21 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>10</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250121-sirens-of-undertow/20250121_Sirens_of_Undertow.JPG"/>
@@ -318,7 +383,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250120-room-in-the-blue-air/20250120_Room_in_the_Blue_Air.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 20 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>9</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250120-room-in-the-blue-air/20250120_Room_in_the_Blue_Air.JPG"/>
@@ -331,7 +396,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250119-vasectomy/20250119_Vasectomy.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sun, 19 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>8</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250119-vasectomy/20250119_Vasectomy.JPG"/>
@@ -344,7 +409,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250118-my-stomach-my-thoughts-my-skin-and-my-heart/20250118_My_Stomach_My_Thoughts_My_Skin_and_My_Heart.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 18 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>7</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250118-my-stomach-my-thoughts-my-skin-and-my-heart/20250118_My_Stomach_My_Thoughts_My_Skin_and_My_Heart.JPG"/>
@@ -357,7 +422,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250113-lowering/20250113_Lowering.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 13 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>6</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250113-lowering/20250113_Lowering.JPG"/>
@@ -370,7 +435,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250112-extinction-romantic/20250112_Extinction_Romantic.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sun, 12 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>5</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250112-extinction-romantic/20250112_Extinction_Romantic.JPG"/>
@@ -383,7 +448,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250111-for-you-self-destroyed/20250111_For_You_Self_Destroyed.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 11 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>4</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250111-for-you-self-destroyed/20250111_For_You_Self_Destroyed.JPG"/>
@@ -396,7 +461,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250110-arbitrary-dislocated/20250110_Arbitrary_Dislocated.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 10 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250110-arbitrary-dislocated/20250110_Arbitrary_Dislocated.JPG"/>
@@ -409,7 +474,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250109-drawn-under-locust/20250109_Drawn_Under_Locust.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Thu, 9 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>2</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250109-drawn-under-locust/20250109_Drawn_Under_Locust.JPG"/>
@@ -422,7 +487,7 @@
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250108-suffering-accumulation-and-some-clean-water/20250108_Suffering-Accumulation_and_Some_Clean_Water.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Wed, 8 Jan 2025 12:00:00 +0000</pubDate>
-      <itunes:season>15</itunes:season>
+      <itunes:season>16</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:author>Rats Alice Trujillo</itunes:author>
       <itunes:image href="https://archive.org/download/20250108-suffering-accumulation-and-some-clean-water/20250108_Suffering-Accumulation_and_Some_Clean_Water.JPG"/>
