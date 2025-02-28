@@ -15,6 +15,84 @@
     </itunes:owner>
 
     <item>
+      <title>Wire Snare</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250228-wire-snare/20250228_Wire_Snare.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 28 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250228-wire-snare/20250228_Wire_Snare.JPG"/>
+      <link>https://archive.org/details/20250228-wire-snare</link>
+      <guid>https://archive.org/details/20250228-wire-snare</guid>
+    </item>
+
+    <item>
+      <title>Without Myself</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250227-without-myself/20250227_Without_Myself.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 27 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250227-without-myself/20250227_Without_Myself.JPG"/>
+      <link>https://archive.org/details/20250227-without-myself</link>
+      <guid>https://archive.org/details/20250227-without-myself</guid>
+    </item>
+
+    <item>
+      <title>Crossing</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250226-crossing/20250226_Crossing.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 26 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250226-crossing/20250226_Crossing.JPG"/>
+      <link>https://archive.org/details/20250226-crossing</link>
+      <guid>https://archive.org/details/20250226-crossing</guid>
+    </item>
+
+    <item>
+      <title>Nervous System</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250225-nervous-system/20250225_Nervous_System.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 25 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250225-nervous-system/20250225_Nervous_System.JPG"/>
+      <link>https://archive.org/details/20250225-nervous-system</link>
+      <guid>https://archive.org/details/20250225-nervous-system</guid>
+    </item>
+
+    <item>
+      <title>We Are As Beautiful</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250224-we-are-as-beautiful/20250224_We_Are_As_Beautiful.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 24 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250224-we-are-as-beautiful/20250224_We_Are_As_Beautiful.JPG"/>
+      <link>https://archive.org/details/20250224-we-are-as-beautiful</link>
+      <guid>https://archive.org/details/20250224-we-are-as-beautiful</guid>
+    </item>
+
+    <item>
+      <title>Dread</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250223-dread/20250223_Dread.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 23 Feb 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250223-dread/20250223_Dread.JPG"/>
+      <link>https://archive.org/details/20250223-dread</link>
+      <guid>https://archive.org/details/20250223-dread</guid>
+    </item>
+
+    <item>
       <title>Nausea Sympathetic</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250222-nausea-sympathetic/20250222_Nausea_Sympathetic.mp3" type="audio/mpeg" length="12345"/>
