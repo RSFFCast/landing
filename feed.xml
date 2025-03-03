@@ -15,6 +15,45 @@
     </itunes:owner>
 
     <item>
+      <title>Conscript</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250303-conscript/20250303_Conscript.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 3 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250303-conscript/20250303_Conscript.JPG"/>
+      <link>https://archive.org/details/20250303-conscript</link>
+      <guid>https://archive.org/details/20250303-conscript</guid>
+    </item>
+
+    <item>
+      <title>Paintwater</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250302-paintwater/20250302_Paintwater.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 2 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:author>Rats Alice Trujillo</itunes:author>
+      <itunes:image href="https://archive.org/download/20250302-paintwater/20250302_Paintwater.JPG"/>
+      <link>https://archive.org/details/20250302-paintwater</link>
+      <guid>https://archive.org/details/20250302-paintwater</guid>
+    </item>
+
+    <item>
+      <title>Grouse Creek</title>
+      <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
+      <enclosure url="https://archive.org/download/20250301-grouse-creek/20250301_Grouse_Creek.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 1 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>99</itunes:season>
+      <itunes:episode>99</itunes:episode>
+      <itunes:author>Phoebe</itunes:author>
+      <itunes:image href="https://archive.org/download/20250301-grouse-creek/20250301_Grouse_Creek.JPG"/>
+      <link>https://archive.org/details/20250301-grouse-creek</link>
+      <guid>https://archive.org/details/20250301-grouse-creek</guid>
+    </item>
+
+    <item>
       <title>Wire Snare</title>
       <description>by Rats Alice Trujillo in Insurrectionary Auto-Vivisection</description>
       <enclosure url="https://archive.org/download/20250228-wire-snare/20250228_Wire_Snare.mp3" type="audio/mpeg" length="12345"/>
