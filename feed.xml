@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Interference Call</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250306-interference-call/20250306_Interference_Call.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 6 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250306-interference-call/20250306_Interference_Call.JPG"/>
+      <link>https://archive.org/details/20250306-interference-call</link>
+      <guid>https://archive.org/details/20250306-interference-call</guid>
+    </item>
+
+    <item>
       <title>Dream of a Dead Son</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250305-dream-of-a-dead-son/20250305_Dream_of_a_Dead_Son.mp3" type="audio/mpeg" length="12345"/>
