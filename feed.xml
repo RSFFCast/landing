@@ -2277,6 +2277,136 @@
     </item>
 
     <item>
+      <title>Sometthing</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210517-something/20210517_Something.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 17 May 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210517-something/20210517_Something.jpg"/>
+      <link>https://archive.org/details/20210517-something</link>
+      <guid>https://archive.org/details/20210517-something</guid>
+    </item>
+
+    <item>
+      <title>Blossom</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210514-blossom/20210514_Blossom.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 14 May 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210514-blossom/20210514_Blossom.jpg"/>
+      <link>https://archive.org/details/20210514-blossom</link>
+      <guid>https://archive.org/details/20210514-blossom</guid>
+    </item>
+
+    <item>
+      <title>The Snakes</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210503-the-snakes/20210503_The_Snakes.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 3 May 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210503-the-snakes/20210503_The_Snakes.jpg"/>
+      <link>https://archive.org/details/20210503-the-snakes</link>
+      <guid>https://archive.org/details/20210503-the-snakes</guid>
+    </item>
+
+    <item>
+      <title>Morning at Great Pong</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210430-morning-at-great-pond/20210430_Morning_at_Great_Pond.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 30 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210430-morning-at-great-pond/20210430_Morning_at_Great_Pond.jpg"/>
+      <link>https://archive.org/details/20210430-morning-at-great-pond</link>
+      <guid>https://archive.org/details/20210430-morning-at-great-pond</guid>
+    </item>
+
+    <item>
+      <title>Spring</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210428-spring/20210428_Spring.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 28 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210428-spring/20210428_Spring.jpg"/>
+      <link>https://archive.org/details/20210428-spring</link>
+      <guid>https://archive.org/details/20210428-spring</guid>
+    </item>
+
+    <item>
+      <title>Skunk Cabbage</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210426-skunk-cabbage/20210426_Skunk_Cabbage.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 26 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210426-skunk-cabbage/20210426_Skunk_Cabbage.jpg"/>
+      <link>https://archive.org/details/20210426-skunk-cabbage</link>
+      <guid>https://archive.org/details/20210426-skunk-cabbage</guid>
+    </item>
+
+    <item>
+      <title>University Hospital, Boston</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210424-university-hospital-boston/20210424_University_Hospital%2C_Boston.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 24 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210424-university-hospital-boston/20210424_University_Hospital%2C_Boston.jpg"/>
+      <link>https://archive.org/details/20210424-university-hospital-boston</link>
+      <guid>https://archive.org/details/20210424-university-hospital-boston</guid>
+    </item>
+
+    <item>
+      <title>Web</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210422-web/20210422_Web.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 22 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210422-web/20210422_Web.jpg"/>
+      <link>https://archive.org/details/20210422-web</link>
+      <guid>https://archive.org/details/20210422-web</guid>
+    </item>
+
+    <item>
+      <title>Rain in Ohio</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210421-rain-in-ohio/20210421_Rain_in_Ohio.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 21 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210421-rain-in-ohio/20210421_Rain_in_Ohio.jpg"/>
+      <link>https://archive.org/details/20210421-rain-in-ohio</link>
+      <guid>https://archive.org/details/20210421-rain-in-ohio</guid>
+    </item>
+
+    <item>
+      <title>An Old Whorehouse</title>
+      <description>by Mary Oliver in American Primitive</description>
+      <enclosure url="https://archive.org/download/20210419-an-old-whorehouse/20210419_An_Old_Whorehouse.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 19 Apr 2021 12:00:00 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:author>Mary Oliver</itunes:author>
+      <itunes:image href="https://archive.org/download/20210419-an-old-whorehouse/20210419_An_Old_Whorehouse.jpg"/>
+      <link>https://archive.org/details/20210419-an-old-whorehouse</link>
+      <guid>https://archive.org/details/20210419-an-old-whorehouse</guid>
+    </item>
+
+    <item>
       <title>Vultures</title>
       <description>by Mary Oliver in American Primitive</description>
       <enclosure url="https://archive.org/download/20210418-vultures/20210418_Vultures.mp3" type="audio/mpeg" length="12345"/>
