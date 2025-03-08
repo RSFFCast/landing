@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Missing the Nail</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250308-missing-the-nail/20250308_Missing_the_Nail.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 8 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250308-missing-the-nail/20250308_Missing_the_Nail.JPG"/>
+      <link>https://archive.org/details/20250308-missing-the-nail</link>
+      <guid>https://archive.org/details/20250308-missing-the-nail</guid>
+    </item>
+
+    <item>
       <title>Atoning</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250307-atoning/20250307_Atoning.mp3" type="audio/mpeg" length="12345"/>
