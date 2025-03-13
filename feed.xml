@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Cold Secret</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250313-the-cold-secret/20250313_The_Cold_Secret.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250313-the-cold-secret/20250313_The_Cold_Secret.JPG"/>
+      <link>https://archive.org/details/20250313-the-cold-secret</link>
+      <guid>https://archive.org/details/20250313-the-cold-secret</guid>
+    </item>
+
+    <item>
       <title>Upon Being Told of an Unexpected Death</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250312-upon-being-told-of-an-unexpected-death/20250312_Upon_Being_Told_of_an_Unexpected_Death.mp3" type="audio/mpeg" length="12345"/>
