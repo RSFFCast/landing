@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Doing Duty</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250314-doing-duty/20250314_Doing_Duty.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 14 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250314-doing-duty/20250314_Doing_Duty.JPG"/>
+      <link>https://archive.org/details/20250314-doing-duty</link>
+      <guid>https://archive.org/details/20250314-doing-duty</guid>
+    </item>
+
+    <item>
       <title>The Cold Secret</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250313-the-cold-secret/20250313_The_Cold_Secret.mp3" type="audio/mpeg" length="12345"/>
