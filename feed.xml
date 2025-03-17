@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Cosmic Dark</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250317-cosmic-dark/20250317_Cosmic_Dark.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 17 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250317-cosmic-dark/20250317_Cosmic_Dark.JPG"/>
+      <link>https://archive.org/details/20250317-cosmic-dark</link>
+      <guid>https://archive.org/details/20250317-cosmic-dark</guid>
+    </item>
+
+    <item>
+      <title>Stevie</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250316-stevie/20250316_Stevie.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 16 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250316-stevie/20250316_Stevie.JPG"/>
+      <link>https://archive.org/details/20250316-stevie</link>
+      <guid>https://archive.org/details/20250316-stevie</guid>
+    </item>
+
+    <item>
       <title>Not Yet</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250315-not-yet/20250315_Not_Yet.mp3" type="audio/mpeg" length="12345"/>
