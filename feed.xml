@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Like a Tarzan</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250318-like-a-tarzan/20250318_Like_a_Tarzan.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 18 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250318-like-a-tarzan/20250318_Like_a_Tarzan.JPG"/>
+      <link>https://archive.org/details/20250318-like-a-tarzan</link>
+      <guid>https://archive.org/details/20250318-like-a-tarzan</guid>
+    </item>
+
+    <item>
       <title>Cosmic Dark</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250317-cosmic-dark/20250317_Cosmic_Dark.mp3" type="audio/mpeg" length="12345"/>
