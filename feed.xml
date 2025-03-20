@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Posted</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250320-posted/20250320_Posted.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 20 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250320-posted/20250320_Posted.JPG"/>
+      <link>https://archive.org/details/20250320-posted</link>
+      <guid>https://archive.org/details/20250320-posted</guid>
+    </item>
+
+    <item>
       <title>Deaf Ears</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250319-deaf-ears/20250319_Deaf_Ears.mp3" type="audio/mpeg" length="12345"/>
