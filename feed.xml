@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>That Beggar</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250323-that-beggar/20250323_That_Beggar.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 22 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250323-that-beggar/20250323_That_Beggar.JPG"/>
+      <link>https://archive.org/details/20250323-that-beggar</link>
+      <guid>https://archive.org/details/20250323-that-beggar</guid>
+    </item>
+
+    <item>
       <title>Take My Hand, Lord</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250322-take-my-hand-lord/20250322_Take_My_Hand_Lord.mp3" type="audio/mpeg" length="12345"/>
