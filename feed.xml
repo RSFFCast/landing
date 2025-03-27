@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Consuela Talks about Pain</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250327-consuela-talks-about-pain/20250327_Consuela_Talks_about_Pain.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 27 Mar 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250327-consuela-talks-about-pain/20250327_Consuela_Talks_about_Pain.JPG"/>
+      <link>https://archive.org/details/20250327-consuela-talks-about-pain</link>
+      <guid>https://archive.org/details/20250327-consuela-talks-about-pain</guid>
+    </item>
+
+    <item>
       <title>That Beggar</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250323-that-beggar/20250323_That_Beggar.mp3" type="audio/mpeg" length="12345"/>
