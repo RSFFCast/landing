@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Week Moments</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250401-week-moments/20250401_Week_Moments.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 1 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250401-week-moments/20250401_Week_Moments.JPG"/>
+      <link>https://archive.org/details/20250401-week-moments</link>
+      <guid>https://archive.org/details/20250401-week-moments</guid>
+    </item>
+
+    <item>
       <title>On Burial</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250331-on-burial/20250331_On_Burial.mp3" type="audio/mpeg" length="12345"/>
