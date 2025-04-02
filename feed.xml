@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Bedtime</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250402-bedtime/20250402_Bedtime.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 2 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250402-bedtime/20250402_Bedtime.JPG"/>
+      <link>https://archive.org/details/20250402-bedtime</link>
+      <guid>https://archive.org/details/20250402-bedtime</guid>
+    </item>
+
+    <item>
       <title>Week Moments</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250401-week-moments/20250401_Week_Moments.mp3" type="audio/mpeg" length="12345"/>
