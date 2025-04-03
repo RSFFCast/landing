@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>After the Party</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250403-after-the-party/20250403_After_the_Party.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 3 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250403-after-the-party/20250403_After_the_Party.JPG"/>
+      <link>https://archive.org/details/20250403-after-the-party</link>
+      <guid>https://archive.org/details/20250403-after-the-party</guid>
+    </item>
+
+    <item>
       <title>Bedtime</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250402-bedtime/20250402_Bedtime.mp3" type="audio/mpeg" length="12345"/>
