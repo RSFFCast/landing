@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Privilege</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250404-the-privilege/20250404_The_Privilege.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 4 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250404-the-privilege/20250404_The_Privilege.JPG"/>
+      <link>https://archive.org/details/20250404-the-privilege</link>
+      <guid>https://archive.org/details/20250404-the-privilege</guid>
+    </item>
+
+    <item>
       <title>After the Party</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250403-after-the-party/20250403_After_the_Party.mp3" type="audio/mpeg" length="12345"/>
