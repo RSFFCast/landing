@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Bas Start of a Weekend</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250405-bad-start-of-a-weekend/20250405_Bad_Start_of_a_Weekend.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 5 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250405-bad-start-of-a-weekend/20250405_Bad_Start_of_a_Weekend.JPG"/>
+      <link>https://archive.org/details/20250405-bad-start-of-a-weekend</link>
+      <guid>https://archive.org/details/20250405-bad-start-of-a-weekend</guid>
+    </item>
+
+    <item>
       <title>The Privilege</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250404-the-privilege/20250404_The_Privilege.mp3" type="audio/mpeg" length="12345"/>
