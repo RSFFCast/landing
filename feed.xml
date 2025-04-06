@@ -15,7 +15,20 @@
     </itunes:owner>
 
     <item>
-      <title>Bas Start of a Weekend</title>
+      <title>Do Tell</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250406-do-tell/20250406_Do_Tell.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 6 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250406-do-tell/20250406_Do_Tell.JPG"/>
+      <link>https://archive.org/details/20250406-do-tell</link>
+      <guid>https://archive.org/details/20250406-do-tell</guid>
+    </item>
+
+    <item>
+      <title>Bad Start of a Weekend</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250405-bad-start-of-a-weekend/20250405_Bad_Start_of_a_Weekend.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 5 Apr 2025 12:00:00 +0000</pubDate>
