@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Muck of Days</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250407-muck-of-days/20250407_Muck_of_Days.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 7 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250407-muck-of-days/20250407_Muck_of_Days.JPG"/>
+      <link>https://archive.org/details/20250407-muck-of-days</link>
+      <guid>https://archive.org/details/20250407-muck-of-days</guid>
+    </item>
+
+    <item>
       <title>Do Tell</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250406-do-tell/20250406_Do_Tell.mp3" type="audio/mpeg" length="12345"/>
