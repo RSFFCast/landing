@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Portrait of Selves</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250408-portraits-of-selves/20250408_Portraits_of_Selves.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 8 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250408-portraits-of-selves/20250408_Portraits_of_Selves.JPG"/>
+      <link>https://archive.org/details/20250408-portraits-of-selves</link>
+      <guid>https://archive.org/details/20250408-portraits-of-selves</guid>
+    </item>
+
+    <item>
       <title>Muck of Days</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250407-muck-of-days/20250407_Muck_of_Days.mp3" type="audio/mpeg" length="12345"/>
