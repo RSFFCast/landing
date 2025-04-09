@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Everett</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250409-everett/20250409_Everett.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 9 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://https://archive.org/download/20250409-everett/20250409_Everett.JPG"/>
+      <link>https://archive.org/details/20250409-everett</link>
+      <guid>https://archive.org/details/20250409-everett</guid>
+    </item>
+
+    <item>
       <title>Portrait of Selves</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250408-portraits-of-selves/20250408_Portraits_of_Selves.mp3" type="audio/mpeg" length="12345"/>
