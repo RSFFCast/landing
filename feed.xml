@@ -14,6 +14,32 @@
       <itunes:email>readstuffforfriends@gmail.com</itunes:email>
     </itunes:owner>
 
+  <item>
+      <title>One with Stone</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250411-one-with-stone/20250411_One_with_Stone.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 10 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250411-one-with-stone/20250411_One_with_Stone.JPG"/>
+      <link>https://archive.org/details/20250411-one-with-stone</link>
+      <guid>https://archive.org/details/20250411-one-with-stone</guid>
+    </item>
+
+  <item>
+      <title>Anesthesia Dream</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250410-anesthesia-dream/20250410_Anesthesia_Dream.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 10 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250410-anesthesia-dream/20250410_Anesthesia_Dream.JPG"/>
+      <link>https://archive.org/details/20250410-anesthesia-dream</link>
+      <guid>https://archive.org/details/20250410-anesthesia-dream</guid>
+    </item>
+
     <item>
       <title>Everett</title>
       <description>by Bruce Noll in Circumference of Light</description>
