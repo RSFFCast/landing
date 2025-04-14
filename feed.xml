@@ -15,6 +15,19 @@
     </itunes:owner>
 
   <item>
+      <title>Intrusion</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250414-intrusion/20250414_Intrusion.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 14 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250414-intrusion/20250414_Intrusion.JPG"/>
+      <link>https://archive.org/details/20250414-intrusion</link>
+      <guid>https://archive.org/details/20250414-intrusion</guid>
+    </item>
+
+  <item>
       <title>Journey</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250413-journey/20250413_Journey.mp3" type="audio/mpeg" length="12345"/>
