@@ -15,6 +15,19 @@
     </itunes:owner>
 
   <item>
+      <title>Men's Faculty Locker Room</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250415-mens-faculty-locker-room/20250415_Mens_Faculty_Locker_Room.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 15 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250415-mens-faculty-locker-room/20250415_Mens_Faculty_Locker_Room.JPG"/>
+      <link>https://archive.org/details/20250415-mens-faculty-locker-room</link>
+      <guid>https://archive.org/details/20250415-mens-faculty-locker-room</guid>
+    </item>
+
+  <item>
       <title>Intrusion</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250414-intrusion/20250414_Intrusion.mp3" type="audio/mpeg" length="12345"/>
