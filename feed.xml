@@ -15,6 +15,19 @@
     </itunes:owner>
 
   <item>
+      <title>Human Body Exposition</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250416-human-body-exposition/20250416_Human_Body_Exposition.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 15 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250416-human-body-exposition/20250416_Human_Body_Exposition.JPG"/>
+      <link>https://archive.org/details/20250416-human-body-exposition</link>
+      <guid>https://archive.org/details/20250416-human-body-exposition</guid>
+    </item>
+
+  <item>
       <title>Men's Faculty Locker Room</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250415-mens-faculty-locker-room/20250415_Mens_Faculty_Locker_Room.mp3" type="audio/mpeg" length="12345"/>
