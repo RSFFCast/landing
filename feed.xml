@@ -14,6 +14,19 @@
       <itunes:email>readstuffforfriends@gmail.com</itunes:email>
     </itunes:owner>
 
+    <item>
+      <title>Etymology Lesson</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250417-etymology-lesson/20250417_Etymology_Lesson.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 16 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250417-etymology-lesson/20250417_Etymology_Lesson.JPG"/>
+      <link>https://archive.org/details/20250417-etymology-lesson</link>
+      <guid>https://archive.org/details/20250417-etymology-lesson</guid>
+    </item>
+
   <item>
       <title>Human Body Exposition</title>
       <description>by Bruce Noll in Circumference of Light</description>
