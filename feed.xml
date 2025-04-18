@@ -15,10 +15,23 @@
     </itunes:owner>
 
     <item>
+      <title>Soft Shell</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250418-soft-shell/20250418_Soft_Shell.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 18 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250418-soft-shell/20250418_Soft_Shell.JPG"/>
+      <link>https://archive.org/details/20250418-soft-shell</link>
+      <guid>https://archive.org/details/20250418-soft-shell</guid>
+    </item>
+
+    <item>
       <title>Etymology Lesson</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250417-etymology-lesson/20250417_Etymology_Lesson.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Thu, 16 Apr 2025 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Apr 2025 12:00:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>37</itunes:episode>
       <itunes:author>Bruce Noll</itunes:author>
@@ -31,7 +44,7 @@
       <title>Human Body Exposition</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250416-human-body-exposition/20250416_Human_Body_Exposition.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Wed, 15 Apr 2025 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>36</itunes:episode>
       <itunes:author>Bruce Noll</itunes:author>
