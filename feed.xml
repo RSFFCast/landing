@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>In Costume</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250419-in-costume/20250419_In_Costume.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 19 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250419-in-costume/20250419_In_Costume.JPG"/>
+      <link>https://archive.org/details/20250419-in-costume</link>
+      <guid>https://archive.org/details/20250419-in-costume</guid>
+    </item>
+
+    <item>
       <title>Soft Shell</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250418-soft-shell/20250418_Soft_Shell.mp3" type="audio/mpeg" length="12345"/>
