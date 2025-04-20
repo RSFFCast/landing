@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Making Impressions</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250420-making-impressions/20250420_Making_Impressions.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 20 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250420-making-impressions/20250420_Making_Impressions.JPG"/>
+      <link>https://archive.org/details/20250420-making-impressions</link>
+      <guid>https://archive.org/details/20250420-making-impressions</guid>
+    </item>
+
+    <item>
       <title>In Costume</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250419-in-costume/20250419_In_Costume.mp3" type="audio/mpeg" length="12345"/>
