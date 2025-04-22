@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>What Was Done Today</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250422-what-was-done-today/20250422_What_Was_Done_Today.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 22 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250422-what-was-done-today/20250422_What_Was_Done_Today.JPG"/>
+      <link>https://archive.org/details/20250422-what-was-done-today</link>
+      <guid>https://archive.org/details/20250422-what-was-done-today</guid>
+    </item>
+
+    <item>
       <title>Readiness</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250421-readiness/20250421_Readiness.mp3" type="audio/mpeg" length="12345"/>
