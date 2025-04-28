@@ -15,10 +15,49 @@
     </itunes:owner>
 
     <item>
+      <title>Toad Stool</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250428-toad-stool/20250428_Toad_Stool.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 28 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250428-toad-stool/20250428_Toad_Stool.JPG"/>
+      <link>https://archive.org/details/20250428-toad-stool</link>
+      <guid>https://archive.org/details/20250428-toad-stool</guid>
+    </item>
+
+    <item>
+      <title>Small Praises of Spring</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250427-small-praises-of-spring/20250427_Small_Praises_of_Spring.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 27 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250427-small-praises-of-spring/20250427_Small_Praises_of_Spring.JPG"/>
+      <link>https://archive.org/details/20250427-small-praises-of-spring</link>
+      <guid>https://archive.org/details/20250427-small-praises-of-spring</guid>
+    </item>
+
+    <item>
+      <title>Book Find</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250426-book-find/20250426_Book_Find.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 26 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250426-book-find/20250426_Book_Find.JPG"/>
+      <link>https://archive.org/details/20250426-book-find</link>
+      <guid>https://archive.org/details/20250426-book-find</guid>
+    </item>
+
+    <item>
       <title>Not Quite the Twenty-Third</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250425-not-quite-the-twenty-third/20250425_Not_Quite_the_Twenty_Third.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Fri, 26 Apr 2025 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Apr 2025 12:00:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>45</itunes:episode>
       <itunes:author>Bruce Noll</itunes:author>
