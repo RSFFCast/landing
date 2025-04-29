@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Phylogeny of Me</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250429-phylogeny-of-me/20250429_Phylogeny_of_Me.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 29 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250429-phylogeny-of-me/20250429_Phylogeny_of_Me.JPG"/>
+      <link>https://archive.org/details/20250429-phylogeny-of-me</link>
+      <guid>https://archive.org/details/20250429-phylogeny-of-me</guid>
+    </item>
+
+    <item>
       <title>Toad Stool</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250428-toad-stool/20250428_Toad_Stool.mp3" type="audio/mpeg" length="12345"/>
