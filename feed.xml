@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Backyard Pond Cleaning</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250501-backyard-pond-cleaning/20250501_Backyard_Pond_Cleaning.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 1 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>51</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250501-backyard-pond-cleaning/20250501_Backyard_Pond_Cleaning.JPG"/>
+      <link>https://archive.org/details/20250501-backyard-pond-cleaning</link>
+      <guid>https://archive.org/details/20250501-backyard-pond-cleaning</guid>
+    </item>
+
+    <item>
+      <title>Tradition</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250430-tradition/20250430_Tradition.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 30 Apr 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250430-tradition/20250430_Tradition.JPG"/>
+      <link>https://archive.org/details/20250430-tradition</link>
+      <guid>https://archive.org/details/20250430-tradition</guid>
+    </item>
+
+    <item>
       <title>Phylogeny of Me</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250429-phylogeny-of-me/20250429_Phylogeny_of_Me.mp3" type="audio/mpeg" length="12345"/>
