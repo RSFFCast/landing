@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Junk Drawer</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250504-junk-drawer/20250504_Junk_Drawer.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 4 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>54</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250504-junk-drawer/20250504_Junk_Drawer.JPG"/>
+      <link>https://archive.org/details/20250504-junk-drawer</link>
+      <guid>https://archive.org/details/20250504-junk-drawer</guid>
+    </item>
+
+    <item>
       <title>To Mary Oliver</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250503-to-mary-oliver/20250503_To_Mary_Oliver.mp3" type="audio/mpeg" length="12345"/>
