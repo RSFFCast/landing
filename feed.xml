@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Overdue</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250505-overdue/20250505_Overdue.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 5 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>55</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250505-overdue/20250505_Overdue.JPG"/>
+      <link>https://archive.org/details/20250505-overdue</link>
+      <guid>https://archive.org/details/20250505-overdue</guid>
+    </item>
+
+    <item>
       <title>Junk Drawer</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250504-junk-drawer/20250504_Junk_Drawer.mp3" type="audio/mpeg" length="12345"/>
