@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Stone Pines</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250509-stone-pines/20250509_Stone_Pines.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 9 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>59</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250509-stone-pines/20250509_Stone_Pines.JPG"/>
+      <link>https://archive.org/details/20250509-stone-pines</link>
+      <guid>https://archive.org/details/20250509-stone-pines</guid>
+    </item>
+
+    <item>
+      <title>Little Red</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250508-little-red/20250508_Little_Red.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 8 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>58</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250508-little-red/20250508_Little_Red.JPG"/>
+      <link>https://archive.org/details/20250508-little-red</link>
+      <guid>https://archive.org/details/20250508-little-red</guid>
+    </item>
+
+    <item>
       <title>Giving in to Wild</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250507-giving-in-to-wild/20250507_Giving_in_to_Wild.mp3" type="audio/mpeg" length="12345"/>
