@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Nature's Nonchalance</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250511-natures-nonchalance/20250511_Natures_Nonchalance.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 11 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>61</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250511-natures-nonchalance/20250511_Natures_Nonchalance.JPG"/>
+      <link>https://archive.org/details/20250511-natures-nonchalance</link>
+      <guid>https://archive.org/details/20250511-natures-nonchalance</guid>
+    </item>
+
+    <item>
       <title>Watchers</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250510-watchers/20250510_Watchers.mp3" type="audio/mpeg" length="12345"/>
