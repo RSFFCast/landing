@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Double Play</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250513-double-play/20250513_Double_Play.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 13 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>63</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250513-double-play/20250513_Double_Play.JPG"/>
+      <link>https://archive.org/details/20250513-double-play</link>
+      <guid>https://archive.org/details/20250513-double-play</guid>
+    </item>
+
+    <item>
+      <title>Robin Hope</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250512-robin-hope/20250512_Robin_Hope.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 12 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>62</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250512-robin-hope/20250512_Robin_Hope.jpg"/>
+      <link>https://archive.org/details/20250512-robin-hope</link>
+      <guid>https://archive.org/details/20250512-robin-hopey</guid>
+    </item>
+
+    <item>
       <title>Nature's Nonchalance</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250511-natures-nonchalance/20250511_Natures_Nonchalance.mp3" type="audio/mpeg" length="12345"/>
