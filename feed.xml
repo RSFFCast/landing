@@ -15,6 +15,45 @@
     </itunes:owner>
 
     <item>
+      <title>Royal Bisit</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250516-royal-visit/20250516_Royal_Visit.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 16 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>66</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250516-royal-visit/20250516_Royal_Visit.JPG"/>
+      <link>https://archive.org/details/20250516-royal-visit</link>
+      <guid>https://archive.org/details/20250516-royal-visit</guid>
+    </item>
+
+    <item>
+      <title>Party's End</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250515-partys-end/20250515_Partys_End.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 15 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>65</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250515-partys-end/20250515_Partys_End.JPG"/>
+      <link>https://archive.org/details/20250515-partys-end</link>
+      <guid>https://archive.org/details/20250515-partys-end</guid>
+    </item>
+
+    <item>
+      <title>Ear to the Big Bang</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250514-ear-to-the-big-bang/20250514_Ear_to_the_Big_Bang.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 14 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>64</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250514-ear-to-the-big-bang/20250514_Ear_to_the_Big_Bang.JPG"/>
+      <link>https://archive.org/details/20250514-ear-to-the-big-bang</link>
+      <guid>https://archive.org/details/20250514-ear-to-the-big-bang</guid>
+    </item>
+
+    <item>
       <title>Double Play</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250513-double-play/20250513_Double_Play.mp3" type="audio/mpeg" length="12345"/>
