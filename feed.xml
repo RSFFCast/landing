@@ -15,7 +15,20 @@
     </itunes:owner>
 
     <item>
-      <title>Royal Bisit</title>
+      <title>Gentle Passing</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250517-gentle-passing/20250517_Gentle_Passing.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 17 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>67</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250517-gentle-passing/20250517_Gentle_Passing.JPG"/>
+      <link>https://archive.org/details/20250517-gentle-passing</link>
+      <guid>https://archive.org/details/20250517-gentle-passing</guid>
+    </item>
+
+    <item>
+      <title>Royal Visit</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250516-royal-visit/20250516_Royal_Visit.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 16 May 2025 12:00:00 +0000</pubDate>
