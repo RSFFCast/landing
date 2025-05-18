@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Found Art</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250518-found-art/20250518_Found_Art.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 18 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>68</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250518-found-art/20250518_Found_Art.JPG"/>
+      <link>https://archive.org/details/20250518-found-art</link>
+      <guid>https://archive.org/details/20250518-found-art</guid>
+    </item>
+
+    <item>
       <title>Gentle Passing</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250517-gentle-passing/20250517_Gentle_Passing.mp3" type="audio/mpeg" length="12345"/>
