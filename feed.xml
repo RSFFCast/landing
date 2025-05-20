@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Surety</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250520-surety/20250520_Surety.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 20 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>70</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250520-surety/20250520_Surety.JPG"/>
+      <link>https://archive.org/details/20250520-surety</link>
+      <guid>https://archive.org/details/20250520-surety</guid>
+    </item>
+
+    <item>
       <title>Light Play</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250519-light-play/20250519_Light_Play.mp3" type="audio/mpeg" length="12345"/>
