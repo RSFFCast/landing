@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Still Looking</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250524-still-looking/20250524_Still_Looking.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 24 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>73</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250524-still-looking/20250524_Still_Looking.JPG"/>
+      <link>https://archive.org/details/20250524-still-looking</link>
+      <guid>https://archive.org/details/20250524-still-looking</guid>
+    </item>
+
+    <item>
+      <title>The Night Listens</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250522-the-night-listens/20250522_The_Night_Listens.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 22 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>72</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250522-the-night-listens/20250522_The_Night_Listens.JPG"/>
+      <link>https://archive.org/details/20250522-the-night-listens</link>
+      <guid>https://archive.org/details/20250522-the-night-listens</guid>
+    </item>
+
+    <item>
       <title>Circumference of Light</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250521-circumference-of-light/20250521_Circumference_of_Light.mp3" type="audio/mpeg" length="12345"/>
