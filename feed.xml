@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Need for Clearing</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250525-need-for-clearing/20250525_Need_for_Clearing.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 25 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>74</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250525-need-for-clearing/20250525_Need_for_Clearing.JPG"/>
+      <link>https://archive.org/details/20250525-need-for-clearing</link>
+      <guid>https://archive.org/details/20250525-need-for-clearing</guid>
+    </item>
+
+    <item>
       <title>Still Looking</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250524-still-looking/20250524_Still_Looking.mp3" type="audio/mpeg" length="12345"/>
