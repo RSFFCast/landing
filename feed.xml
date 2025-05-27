@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Three Miles East od Mitchell</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250527-three-miles-east-of-mitchell/20250527_Three_Miles_East_of_Mitchell.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>76</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250527-three-miles-east-of-mitchell/20250527_Three_Miles_East_of_Mitchell.JPG"/>
+      <link>https://archive.org/details/20250527-three-miles-east-of-mitchell</link>
+      <guid>https://archive.org/details/20250527-three-miles-east-of-mitchell</guid>
+    </item>
+
+    <item>
       <title>Welcome Sign</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250526-welcome-sign/20250526_Welcome_Sign.mp3" type="audio/mpeg" length="12345"/>
