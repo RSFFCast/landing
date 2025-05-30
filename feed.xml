@@ -15,7 +15,46 @@
     </itunes:owner>
 
     <item>
-      <title>Three Miles East od Mitchell</title>
+      <title>Urge to Move</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250530-urge-to-move/20250530_Urge_to_Move.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 30 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>79</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250530-urge-to-move/20250530_Urge_to_Move.JPG"/>
+      <link>https://archive.org/details/20250530-urge-to-move</link>
+      <guid>https://archive.org/details/20250530-urge-to-move</guid>
+    </item>
+
+    <item>
+      <title>the mind dissolves</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250529-the-mind-dissolves/20250529_the_mind_dissolves.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>78</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250529-the-mind-dissolves/20250529_the_mind_dissolves.JPG"/>
+      <link>https://archive.org/details/20250529-the-mind-dissolves</link>
+      <guid>https://archive.org/details/20250529-the-mind-dissolves</guid>
+    </item>
+
+    <item>
+      <title>Longing in November</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250528-longing-in-november/20250528_Longing_in_November.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 28 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>77</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250528-longing-in-november/20250528_Longing_in_November.JPG"/>
+      <link>https://archive.org/details/20250528-longing-in-november</link>
+      <guid>https://archive.org/details/20250528-longing-in-november</guid>
+    </item>
+
+    <item>
+      <title>Three Miles East of Mitchell</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250527-three-miles-east-of-mitchell/20250527_Three_Miles_East_of_Mitchell.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
