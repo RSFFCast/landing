@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Row Your Boat Gently</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250601-row-your-boat-gently/20250601_Row_Your_Boat_Gently.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 1 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>81</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250601-row-your-boat-gently/20250601_Row_Your_Boat_Gently.JPG"/>
+      <link>https://archive.org/details/20250601-row-your-boat-gently</link>
+      <guid>https://archive.org/details/20250601-row-your-boat-gently</guid>
+    </item>
+
+    <item>
+      <title>Parting of Water, Parting of Air</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250531-parting-of-water-parting-of-air_202506/20250531_Parting_of_Water_Parting_of_Air.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 31 May 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>80</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250531-parting-of-water-parting-of-air_202506/20250531_Parting_of_Water_Parting_of_Air.JPG"/>
+      <link>https://archive.org/details/20250531-parting-of-water-parting-of-air_202506</link>
+      <guid>https://archive.org/details/20250531-parting-of-water-parting-of-air_202506</guid>
+    </item>
+
+    <item>
       <title>Urge to Move</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250530-urge-to-move/20250530_Urge_to_Move.mp3" type="audio/mpeg" length="12345"/>
