@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>The Time</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250603-the-time/20250603_The_Time.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 3 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>83</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250603-the-time/20250603_The_Time.JPG"/>
+      <link>https://archive.org/details/20250603-the-time</link>
+      <guid>https://archive.org/details/20250603-the-time</guid>
+    </item>
+
+    <item>
       <title>Circle Line Tour</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250602-circle-line-tour/20250602_Circle_Line_Tour.mp3" type="audio/mpeg" length="12345"/>
