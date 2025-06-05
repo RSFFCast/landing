@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Preparation Thoughts</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250605-preparation-thoughts/20250605_Preparation_Thoughts.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 5 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>85</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250605-preparation-thoughts/20250605_Preparation_Thoughts.JPG"/>
+      <link>https://archive.org/details/20250605-preparation-thoughts</link>
+      <guid>https://archive.org/details/20250605-preparation-thoughts</guid>
+    </item>
+
+    <item>
       <title>Finding Way</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250604-finding-way/20250604_Finding_Way.mp3" type="audio/mpeg" length="12345"/>
