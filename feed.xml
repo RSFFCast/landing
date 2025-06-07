@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Rising</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250606-rising/20250606_Rising.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 6 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>86</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250606-rising/20250606_Rising.JPG"/>
+      <link>https://archive.org/details/20250606-rising</link>
+      <guid>https://archive.org/details/20250606-rising</guid>
+    </item>
+
+    <item>
       <title>Preparation Thoughts</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250605-preparation-thoughts/20250605_Preparation_Thoughts.mp3" type="audio/mpeg" length="12345"/>
