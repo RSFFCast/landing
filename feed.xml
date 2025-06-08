@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Book One, (I), 1</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250608-book-one-i-1/20250608_Book_One_I_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 8 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250608-book-one-i-1/20250608_Book_One_I_1.JPG"/>
+      <link>https://archive.org/details/20250608-book-one-i-1</link>
+      <guid>https://archive.org/details/20250608-book-one-i-1</guid>
+    </item>
+
+    <item>
+      <title>Thought on Walt Whitman</title>
+      <description>by Bruce Noll in Circumference of Light</description>
+      <enclosure url="https://archive.org/download/20250607-thought-on-walt-whitman/20250607_Thought_on_Walt_Whitman.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 7 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>87</itunes:episode>
+      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:image href="https://archive.org/download/20250607-thought-on-walt-whitman/20250607_Thought_on_Walt_Whitman.JPG"/>
+      <link>https://archive.org/details/20250607-thought-on-walt-whitman</link>
+      <guid>https://archive.org/details/20250607-thought-on-walt-whitman</guid>
+    </item>
+
+    <item>
       <title>Rising</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250606-rising/20250606_Rising.mp3" type="audio/mpeg" length="12345"/>
