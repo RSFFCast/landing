@@ -15,13 +15,26 @@
     </itunes:owner>
 
     <item>
+      <title>Book One, (I), 3</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250610-book-one-i-3/20250610_Book_One_I_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 10 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250610-book-one-i-3/20250610_Book_One_I_3.JPG"/>
+      <link>https://archive.org/details/20250610-book-one-i-3</link>
+      <guid>https://archive.org/details/20250610-book-one-i-3</guid>
+    </item>
+
+    <item>
       <title>Book One, (I), 2</title>
-      <description>by Bruce Noll in Circumference of Light</description>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250609-book-one-i-2/20250609_Book_One_I_2.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 9 Jun 2025 12:00:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:author>Derek Walcott</itunes:author>
       <itunes:image href="https://archive.org/download/20250609-book-one-i-2/20250609_Book_One_I_2.JPG"/>
       <link>https://archive.org/details/20250609-book-one-i-2</link>
       <guid>https://archive.org/details/20250609-book-one-i-2</guid>
@@ -29,12 +42,12 @@
 
     <item>
       <title>Book One, (I), 1</title>
-      <description>by Bruce Noll in Circumference of Light</description>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250608-book-one-i-1/20250608_Book_One_I_1.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sun, 8 Jun 2025 12:00:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <itunes:author>Bruce Noll</itunes:author>
+      <itunes:author>Derek Walcott</itunes:author>
       <itunes:image href="https://archive.org/download/20250608-book-one-i-1/20250608_Book_One_I_1.JPG"/>
       <link>https://archive.org/details/20250608-book-one-i-1</link>
       <guid>https://archive.org/details/20250608-book-one-i-1</guid>
