@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Book One, (III), 3</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250619-book-one-iii-3/20250619_Book_One_III_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 19 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250619-book-one-iii-3/20250619_Book_One_III_3.JPG"/>
+      <link>https://archive.org/details/20250619-book-one-iii-3</link>
+      <guid>https://archive.org/details/20250619-book-one-iii-3</guid>
+    </item>
+
+    <item>
       <title>Book One, (III), 2</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250618-book-one-iii-2/20250618_Book_One_III_2.mp3" type="audio/mpeg" length="12345"/>
