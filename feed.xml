@@ -15,6 +15,45 @@
     </itunes:owner>
 
     <item>
+      <title>Book One, (III), 2</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250618-book-one-iii-2/20250618_Book_One_III_2.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 18 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250618-book-one-iii-2/20250618_Book_One_III_2.JPG"/>
+      <link>https://archive.org/details/20250618-book-one-iii-2</link>
+      <guid>https://archive.org/details/20250618-book-one-iii-2</guid>
+    </item>
+
+    <item>
+      <title>Book One, (III), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250617-book-one-iii-1/20250617_Book_One_III_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250617-book-one-iii-1/20250617_Book_One_III_1.JPG"/>
+      <link>https://archive.org/details/20250617-book-one-iii-1</link>
+      <guid>https://archive.org/details/20250617-book-one-iii-1</guid>
+    </item>
+
+    <item>
+      <title>Book One, (II), 4</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250616-book-one-ii-4/20250616_Book_One_II_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 16 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250616-book-one-ii-4/20250616_Book_One_II_4.JPG"/>
+      <link>https://archive.org/details/20250616-book-one-ii-4</link>
+      <guid>https://archive.org/details/20250616-book-one-ii-4</guid>
+    </item>
+
+    <item>
       <title>Book One, (II), 3</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250615-book-one-ii-3/20250615_Book_One_II_3.mp3" type="audio/mpeg" length="12345"/>
