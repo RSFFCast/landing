@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Book One, (IV), 4</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250626-book-one-iv-4/20250626_Book_One_IV_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250626-book-one-iv-4/20250626_Book_One_IV_4.JPG"/>
+      <link>https://archive.org/details/20250626-book-one-iv-4</link>
+      <guid>https://archive.org/details/20250626-book-one-iv-4</guid>
+    </item>
+
+    <item>
       <title>Book One, (IV), 3</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250625-book-one-iv-3/20250625_Book_One_IV_3.mp3" type="audio/mpeg" length="12345"/>
