@@ -15,7 +15,33 @@
     </itunes:owner>
 
     <item>
-      <title>Book One, (V), 5</title>
+      <title>Book One, (V), 3</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250629-book-one-v-3/20250629_Book_One_V_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 29 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250629-book-one-v-3/20250629_Book_One_V_3.JPG"/>
+      <link>https://archive.org/details/20250629-book-one-v-3</link>
+      <guid>https://archive.org/details/20250629-book-one-v-3</guid>
+    </item>
+
+    <item>
+      <title>Book One, (V), 2</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250628-book-one-v-2/20250628_Book_One_V_2.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 28 Jun 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250628-book-one-v-2/20250628_Book_One_V_2.JPG"/>
+      <link>https://archive.org/details/20250628-book-one-v-2</link>
+      <guid>https://archive.org/details/20250628-book-one-v-2</guid>
+    </item>
+
+    <item>
+      <title>Book One, (V), 1</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250627-book-one-v-1/20250627_Book_One_V_1.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 27 Jun 2025 12:00:00 +0000</pubDate>
