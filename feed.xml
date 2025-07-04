@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Book Two, (VI), 4</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250704-book-two-vi-4/20250704_Book_Two_VI_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 4 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250704-book-two-vi-4/20250704_Book_Two_VI_4.JPG"/>
+      <link>https://archive.org/details/20250704-book-two-vi-4</link>
+      <guid>https://archive.org/details/20250704-book-two-vi-4</guid>
+    </item>
+
+    <item>
       <title>Book Two, (VI), 3</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20260703-book-two-vi-3/20260703_Book_Two_VI_3.mp3" type="audio/mpeg" length="12345"/>
