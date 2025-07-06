@@ -15,6 +15,32 @@
     </itunes:owner>
 
     <item>
+      <title>Book Two, (VII), 2</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250706-book-two-vii-2/20250706_Book_Two_VII_2.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 6 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250706-book-two-vii-2/20250706_Book_Two_VII_2.JPG"/>
+      <link>https://archive.org/details/20250706-book-two-vii-2</link>
+      <guid>https://archive.org/details/20250706-book-two-vii-2</guid>
+    </item>
+
+    <item>
+      <title>Book Two, (VII), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250705-book-two-vii-1/20250705_Book_Two_VII_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 5 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250705-book-two-vii-1/20250705_Book_Two_VII_1.JPG"/>
+      <link>https://archive.org/details/20250705-book-two-vii-1</link>
+      <guid>https://archive.org/details/20250705-book-two-vii-1</guid>
+    </item>
+
+    <item>
       <title>Book Two, (VI), 4</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250704-book-two-vi-4/20250704_Book_Two_VI_4.mp3" type="audio/mpeg" length="12345"/>
