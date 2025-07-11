@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Book Two, (VIII), 3</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250711-book-two-viii-3/20250711_Book_Two_VIII_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 11 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250711-book-two-viii-3/20250711_Book_Two_VIII_3.JPG"/>
+      <link>https://archive.org/details/20250711-book-two-viii-3</link>
+      <guid>https://archive.org/details/20250711-book-two-viii-3</guid>
+    </item>
+
+    <item>
       <title>Book Two, (VIII), 2</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250710-book-two-viii-2/20250710_Book_Two_VIII_2.mp3" type="audio/mpeg" length="12345"/>
