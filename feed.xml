@@ -3759,6 +3759,45 @@
     </item>
 
     <item>
+      <title>The Rabbit Catcher</title>
+      <description>by Sylvia Plath in Ariel</description>
+      <enclosure url="https://archive.org/download/20210915-the-rabbit-catcher/20210915_The_Rabbit_Catcher.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 +0000</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Sylvia Plath</itunes:author>
+      <itunes:image href="https://archive.org/download/20210915-the-rabbit-catcher/20210915_The_Rabbit_Catcher.jpg"/>
+      <link>https://archive.org/details/20210915-the-rabbit-catcher</link>
+      <guid>https://archive.org/details/20210915-the-rabbit-catcher</guid>
+    </item>
+
+    <item>
+      <title>The Couriers</title>
+      <description>by Sylvia Plath in Ariel</description>
+      <enclosure url="https://archive.org/download/20210913-the-couriers/20210913_The_Couriers.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 13 Sep 2021 12:00:00 +0000</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Sylvia Plath</itunes:author>
+      <itunes:image href="https://archive.org/download/20210913-the-couriers/20210913_The_Couriers.jpg"/>
+      <link>https://archive.org/details/20210913-the-couriers</link>
+      <guid>https://archive.org/details/20210913-the-couriers</guid>
+    </item>
+
+    <item>
+      <title>Morning Song</title>
+      <description>by Sylvia Plath in Ariel</description>
+      <enclosure url="https://archive.org/download/20210909-morning-song/20210909_Morning_Song.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 9 Sep 2021 12:00:00 +0000</pubDate>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Sylvia Plath</itunes:author>
+      <itunes:image href="https://archive.org/download/20210909-morning-song/20210909_Morning_Song.jpg"/>
+      <link>https://archive.org/details/20210909-morning-song</link>
+      <guid>https://archive.org/details/20210909-morning-song</guid>
+    </item>
+
+    <item>
       <title>Right of First Refugium</title>
       <description>by Kyce Bello in Refugia</description>
       <enclosure url="https://archive.org/download/20210907-right-of-first-refugium/20210907_Right_of_First_Refugium.mp3" type="audio/mpeg" length="12345"/>
