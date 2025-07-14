@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Now that I live...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250714-now-that-i-live/20250714_Now_that_I_live.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 14 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250714-now-that-i-live/20250714_Now_that_I_live.JPG"/>
+      <link>https://archive.org/details/20250714-now-that-i-live</link>
+      <guid>https://archive.org/details/20250714-now-that-i-live</guid>
+    </item>
+
+    <item>
       <title>The train blew through...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250713-the-train-blew-through.../20250713_The_train_blew_through%E2%80%A6.mp3" type="audio/mpeg" length="12345"/>
