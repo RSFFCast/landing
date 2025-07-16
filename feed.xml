@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>We met at a birthday party...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250716-we-met-at-a-birthday-party/20250716_We_met_at_a_birthday_party.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 26 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250716-we-met-at-a-birthday-party/20250716_We_met_at_a_birthday_party.JPG"/>
+      <link>https://archive.org/details/20250716-we-met-at-a-birthday-party</link>
+      <guid>https://archive.org/details/20250716-we-met-at-a-birthday-party</guid>
+    </item>
+
+    <item>
       <title>The capon exploded...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250715-the-capon-exploded/20250715_The_capon_exploded.mp3" type="audio/mpeg" length="12345"/>
