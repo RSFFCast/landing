@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>I rarely leave...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250718-i-rarely-leave/20250718_I_rarely_leave.mp3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250718-i-rarely-leave/20250718_I_rarely_leave.JPG"/>
+      <link>https://archive.org/details/20250718-i-rarely-leave</link>
+      <guid>https://archive.org/details/20250718-i-rarely-leave</guid>
+    </item>
+
+    <item>
       <title>The rain has stopped...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250717-the-rain-has-stopped/20250717_The_rain_has_stopped.mp3" type="audio/mpeg" length="12345"/>
