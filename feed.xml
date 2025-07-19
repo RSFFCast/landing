@@ -15,19 +15,6 @@
     </itunes:owner>
 
     <item>
-      <title>You are floating...</title>
-      <description>by Eve Joseph in Quarrels</description>
-      <enclosure url="https://archive.org/download/20250719-you-are-floating/20250719_You_are_floating.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
-      <itunes:season>19</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <itunes:author>Eve Joseph</itunes:author>
-      <itunes:image href="https://archive.org/download/20250718-i-rarely-leave/20250718_I_rarely_leave.JPG"/>
-      <link>https://archive.org/details/20250718-i-rarely-leave</link>
-      <guid>https://archive.org/details/20250718-i-rarely-leave</guid>
-    </item>
-
-    <item>
       <title>I rarely leave...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250718-i-rarely-leave/20250718_I_rarely_leave.mp3" type="audio/mpeg" length="12345"/>
@@ -38,6 +25,19 @@
       <itunes:image href="https://archive.org/download/20250719-you-are-floating/20250719_You_are_floating.JPG"/>
       <link>https://archive.org/details/20250719-you-are-floating</link>
       <guid>https://archive.org/details/20250719-you-are-floating</guid>
+    </item>
+
+    <item>
+      <title>You are floating...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250719-you-are-floating/20250719_You_are_floating.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250718-i-rarely-leave/20250718_I_rarely_leave.JPG"/>
+      <link>https://archive.org/details/20250718-i-rarely-leave</link>
+      <guid>https://archive.org/details/20250718-i-rarely-leave</guid>
     </item>
 
     <item>
@@ -1383,7 +1383,7 @@
       <title>On Burial</title>
       <description>by Bruce Noll in Circumference of Light</description>
       <enclosure url="https://archive.org/download/20250331-on-burial/20250331_On_Burial.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 30 Mar 2025 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Mar 2025 12:00:00 +0000</pubDate>
       <itunes:season>17</itunes:season>
       <itunes:episode>21</itunes:episode>
       <itunes:author>Bruce Noll</itunes:author>
