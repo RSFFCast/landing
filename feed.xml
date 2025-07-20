@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>Where have all...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250720-where-have-all/20250720_Where_have_all.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 20 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250720-where-have-all/20250720_Where_have_all.JPG"/>
+      <link>https://archive.org/details/20250720-where-have-all</link>
+      <guid>https://archive.org/details/20250720-where-have-all</guid>
+    </item>
+
+    <item>
       <title>I rarely leave...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250718-i-rarely-leave/20250718_I_rarely_leave.mp3" type="audio/mpeg" length="12345"/>
