@@ -3915,6 +3915,45 @@
     </item>
 
     <item>
+      <title>Daigu Sochiku</title>
+      <description>by Yoel Hoffman in Japanese Death Poems</description>
+      <enclosure url="https://archive.org/download/20240411-daigu-sochiku/20240411_Daigu_Sochiku.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 11 Apr 2024 12:00:00 +0000</pubDate>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Yoel Hoffman</itunes:author>
+      <itunes:image href="https://archive.org/download/20240411-daigu-sochiku/20240411_Daigu_Sochiku.jpg"/>
+      <link>https://archive.org/details/20240411-daigu-sochiku</link>
+      <guid>https://archive.org/details/20240411-daigu-sochiku</guid>
+    </item>
+
+    <item>
+      <title>Daido Ichi'i</title>
+      <description>by Yoel Hoffman in Japanese Death Poems</description>
+      <enclosure url="https://archive.org/download/20240410-daido-ichii/20240410_Daido_Ichii.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Yoel Hoffman</itunes:author>
+      <itunes:image href="https://archive.org/download/20240410-daido-ichii/20240410_Daido_Ichii.jpg"/>
+      <link>https://archive.org/details/20240410-daido-ichii</link>
+      <guid>https://archive.org/details/20240410-daido-ichii</guid>
+    </item>
+
+    <item>
+      <title>Bassui Tokusho</title>
+      <description>by Yoel Hoffman in Japanese Death Poems</description>
+      <enclosure url="https://archive.org/download/20240410-bassui-tokusho/20240410_Bassui_Tokusho.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 9 Apr 2024 12:00:00 +0000</pubDate>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Yoel Hoffman</itunes:author>
+      <itunes:image href="https://archive.org/download/20240410-bassui-tokusho/20240410_Bassui_Tokusho.jpg"/>
+      <link>https://archive.org/details/20240410-bassui-tokusho</link>
+      <guid>https://archive.org/details/20240410-bassui-tokusho</guid>
+    </item>
+
+    <item>
       <title>The Rabbit Catcher</title>
       <description>by Sylvia Plath in Ariel</description>
       <enclosure url="https://archive.org/download/20210915-the-rabbit-catcher/20210915_The_Rabbit_Catcher.mp3" type="audio/mpeg" length="12345"/>
@@ -4892,12 +4931,12 @@
     <item>
       <title>Lightning</title>
       <description>by Mary Oliver in American Primitive</description>
-      <enclosure url="https://archive.org/download/20210322-lightning/20210322_Lightning.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20210322-lightning/20210322_Lightning.mp3" type="audio/mpeg" length="1258291"/>
       <pubDate>Mon, 22 Mar 2021 12:00:00 +0000</pubDate>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
       <itunes:author>Mary Oliver</itunes:author>
-      <itunes:image href="https://archive.org/download/20210322-lightning/20210322_Lightning.png"/>
+      <itunes:image href="https://archive.org/download/20210322-lightning/20210322_Lightning.JPG"/>
       <link>https://archive.org/details/20210322-lightning</link>
       <guid>https://archive.org/details/20210322-lightning</guid>
     </item>
