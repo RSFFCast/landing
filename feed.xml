@@ -15,6 +15,19 @@
     </itunes:owner>
 
     <item>
+      <title>I wait for snow...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250724-i-wait-for-snow/20250724_I_wait_for_snow.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250724-i-wait-for-snow/20250724_I_wait_for_snow.JPG"/>
+      <link>https://archive.org/details/20250724-i-wait-for-snow</link>
+      <guid>https://archive.org/details/20250724-i-wait-for-snow</guid>
+    </item>
+
+    <item>
       <title>Frogs fell from the sky...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250723-frogs-fell-from-the-sky/20250723_Frogs_fell_from_the_sky.mp3" type="audio/mpeg" length="12345"/>
