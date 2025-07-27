@@ -5111,14 +5111,14 @@
     </item>
 
     <item>
-      <title>old confession & new</title>
+      <title>old confession &amp; new</title>
       <description>by Danez in Smith</description>
-      <enclosure url="https://archive.org/download/20220104-old-confession-new/20220104_old_confession_%26_new.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20220104-old-confession-new/20220104_old_confession_&amp;_new.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Thu, 4 Nov 2021 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>28</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
-      <itunes:image href="https://archive.org/download/20220104-old-confession-new/20220104_old_confession_%26_new.jpg"/>
+      <itunes:image href="https://archive.org/download/20220104-old-confession-new/20220104_old_confession_&amp;_new.jpg"/>
       <link>https://archive.org/details/20220104-old-confession-new</link>
       <guid>https://archive.org/details/20220104-old-confession-new</guid>
     </item>
