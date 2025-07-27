@@ -3,6 +3,9 @@
   <channel>
     <title>read stuff for friends</title>
     <link>https://rsffcast.github.io/landing/</link>
+    <atom:link href="https://rsffcast.github.io/landing/feed.xml"
+               rel="self"
+               type="application/rss+xml" />
     <description>voices reading stuff</description>
     <language>en-us</language>
     <itunes:category text="Arts"/>
@@ -5127,7 +5130,7 @@
       <title>C. R. E. A. M.</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220101-c.-r.-e.-a.-m./20220101_C.R.E.A.M..mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sat, 1 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 1 Nov 2021 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>27</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6982,6 +6985,5 @@
       <link>https://archive.org/details/20210319-august</link>
       <guid>https://archive.org/details/20210319-august</guid>
     </item>
-    
   </channel>
 </rss>
