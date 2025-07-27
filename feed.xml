@@ -5306,9 +5306,9 @@
     </item>
 
     <item>
-      <title>self-portrait as a '90s R& B video</title>
+      <title>self-portrait as a '90s R&amp;B video</title>
       <description>by Danez in Smith</description>
-      <enclosure url="https://archive.org/download/20211214-self-portrait-as-a-90s-r-b-video/20211214_self-portrait_as_a_%2790s_R%26B_video.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20211214-self-portrait-as-a-90s-r-b-video/20211214_self-portrait_as_a_%2790s_R%amp;B_video.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Tue, 14 Dec 2021 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>13</itunes:episode>
@@ -5788,14 +5788,14 @@
     </item>
 
     <item>
-      <title>Death & Co.</title>
+      <title>Death &amp; Co.</title>
       <description>by Sylvia Plath in Ariel</description>
-      <enclosure url="https://archive.org/download/20211005-death-co./20211005_Death_%26_Co..mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20211005-death-co./20211005_Death_&amp;_Co..mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Tue, 5 Oct 2021 12:00:00 +0000</pubDate>
       <itunes:season>3</itunes:season>
       <itunes:episode>16</itunes:episode>
       <itunes:author>Sylvia Plath</itunes:author>
-      <itunes:image href="https://archive.org/download/20211005-death-co./20211005_Death_%26_Co..jpg"/>
+      <itunes:image href="https://archive.org/download/20211005-death-co./20211005_Death_&amp;_Co..jpg"/>
       <link>https://archive.org/details/20211005-death-co.</link>
       <guid>https://archive.org/details/20211005-death-co.</guid>
     </item>
