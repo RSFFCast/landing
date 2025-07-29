@@ -20,6 +20,45 @@
     </itunes:owner>
 
     <item>
+      <title>Because they said...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20270729-because-they-said/20270729_Because_they_said.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 29 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20270729-because-they-said/20270729_Because_they_said.JPG"/>
+      <link>https://archive.org/details/20270729-because-they-said</link>
+      <guid>https://archive.org/details/20270729-because-they-said</guid>
+    </item>
+
+    <item>
+      <title>The daighter of a...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250728-the-daughter-of-a/20250728_The_daughter_of_a.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 28 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250728-the-daughter-of-a/20250728_The_daughter_of_a.JPG"/>
+      <link>https://archive.org/details/20250728-the-daughter-of-a</link>
+      <guid>https://archive.org/details/20250728-the-daughter-of-a</guid>
+    </item>
+
+    <item>
+      <title>She began wirh the idea...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250727-she-began-with-the-idea/20250727_She_began_with_the_idea.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 27 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250727-she-began-with-the-idea/20250727_She_began_with_the_idea.JPG"/>
+      <link>https://archive.org/details/20250727-she-began-with-the-idea</link>
+      <guid>https://archive.org/details/20250727-she-began-with-the-idea</guid>
+    </item>
+
+    <item>
       <title>Another day in paradise...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250726-another-day-in-paradise/20250726_Another_day_in_paradise.mp3" type="audio/mpeg" length="12345"/>
