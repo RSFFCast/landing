@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>The angel is an argument...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250731-the-angel-is-an-argument/20250731_The_angel_is_an_argument.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 31 Jul 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250731-the-angel-is-an-argument/20250731_The_angel_is_an_argument.JPG"/>
+      <link>https://archive.org/details/20250731-the-angel-is-an-argument</link>
+      <guid>https://archive.org/details/20250731-the-angel-is-an-argument</guid>
+    </item>
+
+    <item>
       <title>You knock on the door...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250730-you-knock-on-the-door/20250730_You_knock_on_the_door.mp3" type="audio/mpeg" length="12345"/>
