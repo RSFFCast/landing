@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Every day, from...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250801-every-day-from/20250801_Every_day_from.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 1 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250801-every-day-from/20250801_Every_day_from.JPG"/>
+      <link>https://archive.org/details/20250801-every-day-from</link>
+      <guid>https://archive.org/details/20250801-every-day-from</guid>
+    </item>
+
+    <item>
       <title>The angel is an argument...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250731-the-angel-is-an-argument/20250731_The_angel_is_an_argument.mp3" type="audio/mpeg" length="12345"/>
@@ -59,7 +72,7 @@
     </item>
 
     <item>
-      <title>The daighter of a...</title>
+      <title>The daughter of a...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250728-the-daughter-of-a/20250728_The_daughter_of_a.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 28 Jul 2025 12:00:00 +0000</pubDate>
