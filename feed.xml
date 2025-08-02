@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Cockroaches swarmed over…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250802-cockroaches-swarmed-over/20250802_Cockroaches_swarmed_over.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 2 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250802-cockroaches-swarmed-over/20250802_Cockroaches_swarmed_over.JPG"/>
+      <link>https://archive.org/details/20250802-cockroaches-swarmed-over</link>
+      <guid>https://archive.org/details/20250802-cockroaches-swarmed-over</guid>
+    </item>
+
+    <item>
       <title>Every day, from...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250801-every-day-from/20250801_Every_day_from.mp3" type="audio/mpeg" length="12345"/>
