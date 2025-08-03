@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>In grade three…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250803-in-grade-three/20250803_In_grade_three.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 3 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250803-in-grade-three/20250803_In_grade_three.JPG"/>
+      <link>https://archive.org/details/20250803-in-grade-three</link>
+      <guid>https://archive.org/details/20250803-in-grade-three</guid>
+    </item>
+
+    <item>
       <title>Cockroaches swarmed over…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250802-cockroaches-swarmed-over/20250802_Cockroaches_swarmed_over.mp3" type="audio/mpeg" length="12345"/>
