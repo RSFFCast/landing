@@ -20,6 +20,32 @@
     </itunes:owner>
 
     <item>
+      <title>My mother took me...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250805-my-mother-took-me/20250805_My_mother_took_me.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 5 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250805-my-mother-took-me/20250805_My_mother_took_me.JPG"/>
+      <link>https://archive.org/details/20250805-my-mother-took-me</link>
+      <guid>https://archive.org/details/20250805-my-mother-took-me</guid>
+    </item>
+
+    <item>
+      <title>What do sailors…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250804-what-do-sailors/20250804_What_do_sailors.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 4 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250804-what-do-sailors/20250804_What_do_sailors.JPG"/>
+      <link>https://archive.org/details/20250804-what-do-sailors</link>
+      <guid>https://archive.org/details/20250804-what-do-sailors</guid>
+    </item>
+
+    <item>
       <title>In grade three…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250803-in-grade-three/20250803_In_grade_three.mp3" type="audio/mpeg" length="12345"/>
