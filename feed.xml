@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>All sons go...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250807-all-sons-go/20250807_All_sons_go.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 7 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250807-all-sons-go/20250807_All_sons_go.JPG"/>
+      <link>https://archive.org/details/20250807-all-sons-go</link>
+      <guid>https://archive.org/details/20250807-all-sons-go</guid>
+    </item>
+
+    <item>
       <title>My mother took me...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250805-my-mother-took-me/20250805_My_mother_took_me.mp3" type="audio/mpeg" length="12345"/>
