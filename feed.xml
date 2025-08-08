@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>The caretaker rescues...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250808-the-caretaker-rescues/20250808_The_caretaker_rescues.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 8 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250808-the-caretaker-rescues/20250808_The_caretaker_rescues.JPG"/>
+      <link>https://archive.org/details/20250808-the-caretaker-rescues</link>
+      <guid>https://archive.org/details/20250808-the-caretaker-rescues</guid>
+    </item>
+
+    <item>
       <title>All sons go...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250807-all-sons-go/20250807_All_sons_go.mp3" type="audio/mpeg" length="12345"/>
