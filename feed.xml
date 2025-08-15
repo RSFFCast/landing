@@ -20,6 +20,84 @@
     </itunes:owner>
 
     <item>
+      <title>The poet keeps a jar…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250815-the-poet-keeps-a-jar/20250815_The_poet_keeps_a_jar.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 15 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250815-the-poet-keeps-a-jar/20250815_The_poet_keeps_a_jar.JPG"/>
+      <link>https://archive.org/details/20250815-the-poet-keeps-a-jar</link>
+      <guid>https://archive.org/details/20250815-the-poet-keeps-a-jar</guid>
+    </item>
+
+    <item>
+      <title>People who suffer…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250814-people-who-suffer/20250814_People_who_suffer.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250814-people-who-suffer/20250814_People_who_suffer.JPG"/>
+      <link>https://archive.org/details/20250814-people-who-suffer</link>
+      <guid>https://archive.org/details/20250814-people-who-suffer</guid>
+    </item>
+
+    <item>
+      <title>I try to follow…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250813-i-try-to-follow/20250813_I_try_to_follow.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 13 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250813-i-try-to-follow/20250813_I_try_to_follow.JPG"/>
+      <link>https://archive.org/details/20250813-i-try-to-follow</link>
+      <guid>https://archive.org/details/20250813-i-try-to-follow</guid>
+    </item>
+
+    <item>
+      <title>In grade school…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250812-in-grade-school/20250812_In_grade_school.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 12 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250812-in-grade-school/20250812_In_grade_school.JPG"/>
+      <link>https://archive.org/details/20250812-in-grade-school</link>
+      <guid>https://archive.org/details/20250812-in-grade-school</guid>
+    </item>
+
+    <item>
+      <title>Darkness arrives without…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250811-darkness-arrives-without/20250811_Darkness_arrives_without.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 11 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250811-darkness-arrives-without/20250811_Darkness_arrives_without.JPG"/>
+      <link>https://archive.org/details/20250811-darkness-arrives-without</link>
+      <guid>https://archive.org/details/20250811-darkness-arrives-without</guid>
+    </item>
+
+    <item>
+      <title>The name I was given…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250810-the-name-i-was-given/20250810_The_name_I_was_given.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 10 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250810-the-name-i-was-given/20250810_The_name_I_was_given.JPG"/>
+      <link>https://archive.org/details/20250810-the-name-i-was-given</link>
+      <guid>https://archive.org/details/20250810-the-name-i-was-given</guid>
+    </item>
+
+    <item>
       <title>My grandfather lay motionless…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250809-my-grandfather-lay-motionless/20250809_My_grandfather_lay_motionless.mp3" type="audio/mpeg" length="12345"/>
