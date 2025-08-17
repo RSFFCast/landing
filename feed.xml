@@ -20,6 +20,32 @@
     </itunes:owner>
 
     <item>
+      <title>I'm three, she said…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250817-im-three-she-said/20250817_Im_three_she_said.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250817-im-three-she-said/20250817_Im_three_she_said.JPG"/>
+      <link>https://archive.org/details/20250817-im-three-she-said</link>
+      <guid>https://archive.org/details/20250817-im-three-she-said</guid>
+    </item>
+
+    <item>
+      <title>All afternoon an elephant…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250816-all-afternoon-an-elephant/20250816_All_afternoon_an_elephant.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 16 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250816-all-afternoon-an-elephant/20250816_All_afternoon_an_elephant.JPG"/>
+      <link>https://archive.org/details/20250816-all-afternoon-an-elephant</link>
+      <guid>https://archive.org/details/20250816-all-afternoon-an-elephant</guid>
+    </item>
+
+    <item>
       <title>The poet keeps a jar…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250815-the-poet-keeps-a-jar/20250815_The_poet_keeps_a_jar.mp3" type="audio/mpeg" length="12345"/>
