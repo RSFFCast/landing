@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Every word he wrote…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250819-every-word-he-wrote/20250819_Every_word_he_wrote.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 19 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250819-every-word-he-wrote/20250819_Every_word_he_wrote.JPG"/>
+      <link>https://archive.org/details/20250819-every-word-he-wrote</link>
+      <guid>https://archive.org/details/20250819-every-word-he-wrote</guid>
+    </item>
+
+    <item>
       <title>From time to time…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250818-from-time-to-time/20250818_From_time_to_time.mp3" type="audio/mpeg" length="12345"/>
