@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>A five-year-old asks…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250820-a-five-year-old-asks/20250820_A_five-year-old_asks.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 20 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250820-a-five-year-old-asks/20250820_A_five-year-old_asks.JPG"/>
+      <link>https://archive.org/details/20250820-a-five-year-old-asks</link>
+      <guid>https://archive.org/details/20250820-a-five-year-old-asks</guid>
+    </item>
+
+    <item>
       <title>Every word he wrote…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250819-every-word-he-wrote/20250819_Every_word_he_wrote.mp3" type="audio/mpeg" length="12345"/>
