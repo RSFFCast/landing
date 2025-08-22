@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Book Two, (IX), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250823-book-two-ix-1/20250823_Book_Two_IX_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 22 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250823-book-two-ix-1/20250823_Book_Two_IX_1.JPG"/>
+      <link>https://archive.org/details/20250823-book-two-ix-1</link>
+      <guid>https://archive.org/details/20250823-book-two-ix-1</guid>
+    </item>
+
+    <item>
       <title>A five-year-old asks…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250820-a-five-year-old-asks/20250820_A_five-year-old_asks.mp3" type="audio/mpeg" length="12345"/>
