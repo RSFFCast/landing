@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Book Two, (X), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250826-book-two-x-1/20250826_Book_Two_X_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 26 Aug 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250826-book-two-x-1/20250826_Book_Two_X_1.JPG"/>
+      <link>https://archive.org/details/20250826-book-two-x-1</link>
+      <guid>https://archive.org/details/20250826-book-two-x-1</guid>
+    </item>
+
+    <item>
       <title>Book Two, (IX), 4</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250825-book-two-ix-4/20250825_Book_Two_IX_4.mp3" type="audio/mpeg" length="12345"/>
