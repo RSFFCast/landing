@@ -20,6 +20,71 @@
     </itunes:owner>
 
     <item>
+      <title>Book Three, (XIII), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250907-book-three-xiii-1/20250907_Book_Three_XIII_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 7 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250907-book-three-xiii-1/20250907_Book_Three_XIII_1.JPG"/>
+      <link>https://archive.org/details/20250907-book-three-xiii-1</link>
+      <guid>https://archive.org/details/20250907-book-three-xiii-1</guid>
+    </item>
+
+    <item>
+      <title>Book Three, (XII), 4</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250906-book-three-xii-4/20250906_Book_Three_XII_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 6 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250906-book-three-xii-4/20250906_Book_Three_XII_4.JPG"/>
+      <link>https://archive.org/details/20250906-book-three-xii-4</link>
+      <guid>https://archive.org/details/20250906-book-three-xii-4</guid>
+    </item>
+
+    <item>
+      <title>Book Three, (XII), 3</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250905-book-three-xii-3/20250905_Book_Three_XII_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 5 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250905-book-three-xii-3/20250905_Book_Three_XII_3.JPG"/>
+      <link>https://archive.org/details/20250905-book-three-xii-3</link>
+      <guid>https://archive.org/details/20250905-book-three-xii-3</guid>
+    </item>
+
+    <item>
+      <title>Book Three, (XII), 2</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250904-book-three-xii-2/20250904_Book_Three_XII_2.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 4 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250904-book-three-xii-2/20250904_Book_Three_XII_2.JPG"/>
+      <link>https://archive.org/details/20250904-book-three-xii-2</link>
+      <guid>https://archive.org/details/20250904-book-three-xii-2</guid>
+    </item>
+
+    <item>
+      <title>Book Three, (XII), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250903-book-three-xii-1/20250903_Book_Three_XII_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 3 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250903-book-three-xii-1/20250903_Book_Three_XII_1.JPG"/>
+      <link>https://archive.org/details/20250903-book-three-xii-1</link>
+      <guid>https://archive.org/details/20250903-book-three-xii-1</guid>
+    </item>
+
+    <item>
       <title>Book Two, (XI), 4</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250902-book-two-xi-4/20250902_Book_Two_XI_4.mp3" type="audio/mpeg" length="12345"/>
