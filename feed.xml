@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Book Three, (XIV), 4</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20250914-book-three-xiv-4/20250914_Book_Three_XIV_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 14 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>57</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20250914-book-three-xiv-4/20250914_Book_Three_XIV_4.JPG"/>
+      <link>https://archive.org/details/20250914-book-three-xiv-4</link>
+      <guid>https://archive.org/details/20250914-book-three-xiv-4</guid>
+    </item>
+
+    <item>
       <title>Book Three, (XIV), 3</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250913-book-three-xiv-3/20250913_Book_Three_XIV_3.mp3" type="audio/mpeg" length="12345"/>
