@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>In our basement...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250915-in-our-basement/20250915_In_our_basement.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 15 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250915-in-our-basement/20250915_In_our_basement.JPG"/>
+      <link>https://archive.org/details/20250915-in-our-basement</link>
+      <guid>https://archive.org/details/20250915-in-our-basement</guid>
+    </item>
+
+    <item>
       <title>Book Three, (XIV), 4</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20250914-book-three-xiv-4/20250914_Book_Three_XIV_4.mp3" type="audio/mpeg" length="12345"/>
