@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>All morning wind...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250916-all-morning-wind/20250916_All_morning_wind.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 16 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250916-all-morning-wind/20250916_All_morning_wind.JPG"/>
+      <link>https://archive.org/details/20250916-all-morning-wind</link>
+      <guid>https://archive.org/details/20250916-all-morning-wind</guid>
+    </item>
+
+    <item>
       <title>In our basement...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250915-in-our-basement/20250915_In_our_basement.mp3" type="audio/mpeg" length="12345"/>
