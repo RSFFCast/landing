@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Prometheus is at it again...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250917-prometheus-is-at-it-again/20250917_Prometheus_is_at_it_again.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 17 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250917-prometheus-is-at-it-again/20250917_Prometheus_is_at_it_again.JPG"/>
+      <link>https://archive.org/details/20250917-prometheus-is-at-it-again</link>
+      <guid>https://archive.org/details/20250917-prometheus-is-at-it-again</guid>
+    </item>
+
+    <item>
       <title>All morning wind...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250916-all-morning-wind/20250916_All_morning_wind.mp3" type="audio/mpeg" length="12345"/>
