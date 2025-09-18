@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Since the stroke...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250918-since-the-stroke/20250918_Since_the_stroke.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 18 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250918-since-the-stroke/20250918_Since_the_stroke.JPG"/>
+      <link>https://archive.org/details/20250918-since-the-stroke</link>
+      <guid>https://archive.org/details/20250918-since-the-stroke</guid>
+    </item>
+
+    <item>
       <title>Prometheus is at it again...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250917-prometheus-is-at-it-again/20250917_Prometheus_is_at_it_again.mp3" type="audio/mpeg" length="12345"/>
