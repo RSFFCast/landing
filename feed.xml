@@ -20,6 +20,32 @@
     </itunes:owner>
 
     <item>
+      <title>My neighbor is a magician...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250920-my-neighbor-is-a-magician/20250920_My_neighbor_is_a_magician.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 20 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250920-my-neighbor-is-a-magician/20250920_My_neighbor_is_a_magician.JPG"/>
+      <link>https://archive.org/details/20250920-my-neighbor-is-a-magician</link>
+      <guid>https://archive.org/details/20250920-my-neighbor-is-a-magician</guid>
+    </item>
+
+    <item>
+      <title>After the flood, creation...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250919-after-the-flood-creation/20250919_After_the_flood_creation.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 19 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250919-after-the-flood-creation/20250919_After_the_flood_creation.JPG"/>
+      <link>https://archive.org/details/20250919-after-the-flood-creation</link>
+      <guid>https://archive.org/details/20250919-after-the-flood-creation</guid>
+    </item>
+
+    <item>
       <title>Since the stroke...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250918-since-the-stroke/20250918_Since_the_stroke.mp3" type="audio/mpeg" length="12345"/>
