@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Five members of the monster club…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250921-five-members-of-the-monster-club/20250921_Five_members_of_the_monster_club.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 21 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250921-five-members-of-the-monster-club/20250921_Five_members_of_the_monster_club.JPG"/>
+      <link>https://archive.org/details/20250921-five-members-of-the-monster-club</link>
+      <guid>https://archive.org/details/20250921-five-members-of-the-monster-club</guid>
+    </item>
+
+    <item>
       <title>My neighbor is a magician...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250920-my-neighbor-is-a-magician/20250920_My_neighbor_is_a_magician.mp3" type="audio/mpeg" length="12345"/>
