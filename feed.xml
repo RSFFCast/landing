@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>His mother dressed him...</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250923-his-mother-dressed-him/20250923_His_mother_dressed_him.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 23 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250922-the-boy-in-the-photo/20250922_The_boy_in_the_photo.JPG"/>
+      <link>https://archive.org/details/20250923-his-mother-dressed-him</link>
+      <guid>https://archive.org/details/20250923-his-mother-dressed-him</guid>
+    </item>
+
+    <item>
       <title>The boy in the photo…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250922-the-boy-in-the-photo/20250922_The_boy_in_the_photo.mp3" type="audio/mpeg" length="12345"/>
