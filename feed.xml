@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Like any giant…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250924-like-any-giant/20250924_Like_any_giant.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 24 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250924-like-any-giant/20250924_Like_any_giant.jpg"/>
+      <link>https://archive.org/details/20250924-like-any-giant</link>
+      <guid>https://archive.org/details/20250924-like-any-giant</guid>
+    </item>
+
+    <item>
       <title>His mother dressed him...</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250923-his-mother-dressed-him/20250923_His_mother_dressed_him.mp3" type="audio/mpeg" length="12345"/>
