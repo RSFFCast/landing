@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Nobody prepared them…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250925-nobody-prepared-them/20250925_Nobody_prepared_them.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250925-nobody-prepared-them/20250925_Nobody_prepared_them.JPG"/>
+      <link>https://archive.org/details/20250925-nobody-prepared-them</link>
+      <guid>https://archive.org/details/20250925-nobody-prepared-them</guid>
+    </item>
+
+    <item>
       <title>Like any giant…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250924-like-any-giant/20250924_Like_any_giant.mp3" type="audio/mpeg" length="12345"/>
