@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Uncanny sisters…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250926-uncanny-sisters/20250926_Uncanny_sisters.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 26 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250926-uncanny-sisters/20250926_Uncanny_sisters.JPG"/>
+      <link>https://archive.org/details/20250926-uncanny-sisters</link>
+      <guid>https://archive.org/details/20250926-uncanny-sisters</guid>
+    </item>
+
+    <item>
       <title>Nobody prepared them…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250925-nobody-prepared-them/20250925_Nobody_prepared_them.mp3" type="audio/mpeg" length="12345"/>
