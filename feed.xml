@@ -20,6 +20,32 @@
     </itunes:owner>
 
     <item>
+      <title>Peace Is This Moment Without Judgement</title>
+      <description>by Dorothy Hunt</description>
+      <enclosure url="https://archive.org/download/20250929-peace-is-this-moment-without-judgement/20250929_Peace_Is_This_Moment_Without_Judgement.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 29 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>99</itunes:season>
+      <itunes:episode>99</itunes:episode>
+      <itunes:author>Dorothy Hunt</itunes:author>
+      <itunes:image href="https://archive.org/download/20250929-peace-is-this-moment-without-judgement/20250929_Peace_Is_This_Moment_Without%20_Judgement.JPG"/>
+      <link>https://archive.org/details/20250929-peace-is-this-moment-without-judgement</link>
+      <guid>https://archive.org/details/20250929-peace-is-this-moment-without-judgement</guid>
+    </item>
+
+    <item>
+      <title>Wind thumbs through…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250928-wind-thumbs-through/20250928_Wind_thumbs_through.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 28 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>52</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250928-wind-thumbs-through/20250928_Wind_thumbs_through.JPG"/>
+      <link>https://archive.org/details/20250928-wind-thumbs-through</link>
+      <guid>https://archive.org/details/20250928-wind-thumbs-through</guid>
+    </item>
+
+    <item>
       <title>A storm is blowing…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250927-a-storm-is-blowing/20250927_A_storm_is_blowing.mp3" type="audio/mpeg" length="12345"/>
