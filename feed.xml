@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>No time to think…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20250930-no-time-to-think/20250930_No_time_to_think.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>53</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20250930-no-time-to-think/20250930_No_time_to_think.JPG"/>
+      <link>https://archive.org/details/20250930-no-time-to-think</link>
+      <guid>https://archive.org/details/20250930-no-time-to-think</guid>
+    </item>
+
+    <item>
       <title>Peace Is This Moment Without Judgement</title>
       <description>by Dorothy Hunt</description>
       <enclosure url="https://archive.org/download/20250929-peace-is-this-moment-without-judgement/20250929_Peace_Is_This_Moment_Without_Judgement.mp3" type="audio/mpeg" length="12345"/>
