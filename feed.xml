@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>You were a boy of excess…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251001-you-were-a-boy-of-excess/20251001_You_were_a_boy_of_excess.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 1 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>54</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251001-you-were-a-boy-of-excess/20251001_You_were_a_boy_of_excess.JPG"/>
+      <link>https://archive.org/details/20251001-you-were-a-boy-of-excess</link>
+      <guid>https://archive.org/details/20251001-you-were-a-boy-of-excess</guid>
+    </item>
+
+    <item>
       <title>No time to think…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20250930-no-time-to-think/20250930_No_time_to_think.mp3" type="audio/mpeg" length="12345"/>
