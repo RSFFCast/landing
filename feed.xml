@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>You’ve been carrying that child…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251002-youve-been-carrying-that-child/20251002_You%E2%80%99ve_been_carrying_that_child.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 2 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>55</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251002-youve-been-carrying-that-child/20251002_You%E2%80%99ve_been_carrying_that_child.JPG"/>
+      <link>https://archive.org/details/20251002-youve-been-carrying-that-child</link>
+      <guid>https://archive.org/details/20251002-youve-been-carrying-that-child</guid>
+    </item>
+
+    <item>
       <title>You were a boy of excess…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20251001-you-were-a-boy-of-excess/20251001_You_were_a_boy_of_excess.mp3" type="audio/mpeg" length="12345"/>
