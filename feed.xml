@@ -5857,10 +5857,23 @@
     </item>
 
     <item>
+      <title>With or Without Me</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220123_With_or_Without_Me/20220123_With_or_Without_Me.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 23 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220123_With_or_Without_Me/20220123_With_or_Without_Me.jpg"/>
+      <link>https://archive.org/details/20220123_With_or_Without_Me</link>
+      <guid>https://archive.org/details/20220123_With_or_Without_Me</guid>
+    </item>
+	  
+    <item>
       <title>acknowledgements</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220119-acknowledgements/20220119_acknowledgements.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Fri, 19 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>37</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -5873,7 +5886,7 @@
       <title>notes</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220118-notes/20220118_notes.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Thu, 18 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>36</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -5886,7 +5899,7 @@
       <title>my nig</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220117-my-nig/20220117_my_nig.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Wed, 17 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>35</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -5899,7 +5912,7 @@
       <title>my poems</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220113-my-poems/20220113_my_poems.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sat, 13 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>34</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -5912,7 +5925,7 @@
       <title>the fat one with the switch</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220112-the-fat-one-with-the-switch/20220112_the_fat_one_with_the_switch.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Thu, 11 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>33</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -5925,7 +5938,7 @@
       <title>waiting on you to die so i can be myself</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220110-waiting-on-you-to-die-so-i-can-be-myself/20220110_waiting_on_you_to_die_so_i_can_be_myself.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Wed, 10 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>32</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -5938,7 +5951,7 @@
       <title>happy hour</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220109-happy-hour/20220109_happy_hour.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Tue, 9 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 9 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>31</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -5951,7 +5964,7 @@
       <title>gay cancer</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220108-gay-cancer/20220108_gay_cancer.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 8 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 8 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>30</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -5964,7 +5977,7 @@
       <title>trees!</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220106-trees/20220106_trees%21.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sat, 6 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 6 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>29</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -5977,7 +5990,7 @@
       <title>old confession &amp; new</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220104-old-confession-new/20220104_old_confession_&amp;_new.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Thu, 4 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 4 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>28</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -5990,7 +6003,7 @@
       <title>C. R. E. A. M.</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220101-c.-r.-e.-a.-m./20220101_C.R.E.A.M..mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 1 Nov 2021 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 1 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>27</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
