@@ -20,6 +20,32 @@
     </itunes:owner>
 
     <item>
+      <title>Bear with me…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251004-bear-with-me/20251004_Bear_with_me.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 4 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>57</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251004-bear-with-me/20251004_Bear_with_me.JPG"/>
+      <link>https://archive.org/details/20251004-bear-with-me</link>
+      <guid>https://archive.org/details/20251004-bear-with-me</guid>
+    </item>
+
+   <item>
+      <title>The Grimm Brothers…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251003-the-grimm-brothers/20251003_The_Grimm_Brothers.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 3 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>56</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251003-the-grimm-brothers/20251003_The_Grimm_Brothers.JPG"/>
+      <link>https://archive.org/details/20251003-the-grimm-brothers</link>
+      <guid>https://archive.org/details/20251003-the-grimm-brothers/guid>
+    </item>
+
+    <item>
       <title>You’ve been carrying that child…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20251002-youve-been-carrying-that-child/20251002_You%E2%80%99ve_been_carrying_that_child.mp3" type="audio/mpeg" length="12345"/>
