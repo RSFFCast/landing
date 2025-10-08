@@ -20,6 +20,32 @@
     </itunes:owner>
 
     <item>
+      <title>At ninety-one…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251006-at-ninety-one/20251006_At_ninety-one.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 6 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>59</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251006-at-ninety-one/20251006_At_ninety-one.JPG"/>
+      <link>https://archive.org/details/20251006-at-ninety-one</link>
+      <guid>https://archive.org/details/20251006-at-ninety-one</guid>
+    </item>
+
+    <item>
+      <title>Riding home in the ambulance…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251005-riding-home-in-the-ambulance/20251005_Riding_home_in_the_ambulance.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 5 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>58</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251005-riding-home-in-the-ambulance/20251005_Riding_home_in_the_ambulance.JPG"/>
+      <link>https://archive.org/details/20251005-riding-home-in-the-ambulance</link>
+      <guid>https://archive.org/details/20251005-riding-home-in-the-ambulance</guid>
+    </item>
+
+    <item>
       <title>Bear with me…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20251004-bear-with-me/20251004_Bear_with_me.mp3" type="audio/mpeg" length="12345"/>
