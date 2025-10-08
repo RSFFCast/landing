@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>He’ll just slip away…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251007-hell-just-slip-away/20251007_He%E2%80%99ll_just_slip_away.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 7 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>60</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251007-hell-just-slip-away/20251007_He%E2%80%99ll_just_slip_away.JPG"/>
+      <link>https://archive.org/details/20251007-hell-just-slip-away</link>
+      <guid>https://archive.org/details/20251007-hell-just-slip-away</guid>
+    </item>
+
+    <item>
       <title>At ninety-one…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20251006-at-ninety-one/20251006_At_ninety-one.mp3" type="audio/mpeg" length="12345"/>
