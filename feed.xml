@@ -20,6 +20,32 @@
     </itunes:owner>
 
     <item>
+      <title>In the living room…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251009-in-the-living-room/20251009_In_the_living_room.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 9 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>62</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251009-in-the-living-room/20251009_In_the_living_room.JPG"/>
+      <link>https://archive.org/details/20251009-in-the-living-room</link>
+      <guid>https://archive.org/details/20251009-in-the-living-room</guid>
+    </item>
+
+    <item>
+      <title>Your lungs—those little sacs…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251008-your-lungs-those-little-sacs/20251008_Your_lungs%E2%80%94those_little_sacs.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 8 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>61</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251008-your-lungs-those-little-sacs/20251008_Your_lungs%E2%80%94those_little_sacs.JPG"/>
+      <link>https://archive.org/details/20251008-your-lungs-those-little-sacs</link>
+      <guid>https://archive.org/details/20251008-your-lungs-those-little-sacs</guid>
+    </item>
+
+    <item>
       <title>He’ll just slip away…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20251007-hell-just-slip-away/20251007_He%E2%80%99ll_just_slip_away.mp3" type="audio/mpeg" length="12345"/>
