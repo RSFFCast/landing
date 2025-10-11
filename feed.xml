@@ -20,6 +20,32 @@
     </itunes:owner>
 
     <item>
+      <title>Gathered at your bedside…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251011-gathered-at-your-bedside/20251011_Gathered_at_your_bedside.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 11 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>64</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251011-gathered-at-your-bedside/20251011_Gathered_at_your_bedside.JPG"/>
+      <link>https://archive.org/details/20251011-gathered-at-your-bedside</link>
+      <guid>https://archive.org/details/20251011-gathered-at-your-bedside</guid>
+    </item>
+
+    <item>
+      <title>Floating on a makeshift raft…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251010-floating-on-a-makeshift-raft/20251010_Floating_on_a_makeshift_raft.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 10 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>63</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251010-floating-on-a-makeshift-raft/20251010_Floating_on_a_makeshift_raft.JPG"/>
+      <link>https://archive.org/details/20251010-floating-on-a-makeshift-raft</link>
+      <guid>https://archive.org/details/20251010-floating-on-a-makeshift-raft</guid>
+    </item>
+
+    <item>
       <title>In the living room…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20251009-in-the-living-room/20251009_In_the_living_room.mp3" type="audio/mpeg" length="12345"/>
