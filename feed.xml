@@ -5987,10 +5987,465 @@
     </item>
 
     <item>
+      <title>Aftermath</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220316_Aftermath/20220316_Aftermath.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 16 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220316_Aftermath/20220316_Aftermath.jpg"/>
+      <link>https://archive.org/details/20220316_Aftermath</link>
+      <guid>https://archive.org/details/20220316_Aftermath</guid>
+    </item>
+
+    <item>
+      <title>American Standard</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220314_American_Standard/20220314_American_Standard.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 14 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220313_Water_Snake/20220313_Water_Snake.jpg"/>
+      <link>https://archive.org/details/20220314_American_Standard</link>
+      <guid>https://archive.org/details/20220314_American_Standard</guid>
+    </item>
+
+    <item>
+      <title>Water Snake</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220313_Water_Snake/20220313_Water_Snake.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 13 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220313_Water_Snake/20220313_Water_Snake.jpg"/>
+      <link>https://archive.org/details/20220313_Water_Snake</link>
+      <guid>https://archive.org/details/20220313_Water_Snake</guid>
+    </item>
+
+    <item>
+      <title>Finding the Trillium</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220312_Finding_the_Trillium/20220312_Finding_the_Trillium.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 12 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220312_Finding_the_Trillium/20220312_Finding_the_Trillium.jpg"/>
+      <link>https://archive.org/details/20220312_Finding_the_Trillium</link>
+      <guid>https://archive.org/details/20220312_Finding_the_Trillium</guid>
+    </item>
+
+    <item>
+      <title>Rodeo Clown</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220311_Rodeo_Clown/20220311_Rodeo_Clown.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 11 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220311_Rodeo_Clown/20220311_Rodeo_Clown.jpg"/>
+      <link>https://archive.org/details/20220311_Rodeo_Clown</link>
+      <guid>https://archive.org/details/20220311_Rodeo_Clown</guid>
+    </item>
+
+    <item>
+      <title>Sneeze</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220310_Sneeze/20220310_Sneeze.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 10 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220310_Sneeze/20220310_Sneeze.jpg"/>
+      <link>https://archive.org/details/20220310_Sneeze</link>
+      <guid>https://archive.org/details/20220310_Sneeze</guid>
+    </item>
+
+    <item>
+      <title>Rice and Lentils</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220309_Rice_and_Lentils/20220309_Rice_and_Lentils.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 9 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220309_Rice_and_Lentils/20220309_Rice_and_Lentils.jpg"/>
+      <link>https://archive.org/details/20220309_Rice_and_Lentils</link>
+      <guid>https://archive.org/details/20220309_Rice_and_Lentils</guid>
+    </item>
+
+    <item>
+      <title>Tired of Birds</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220308_Tired_of_Birds/20220308_Tired_of_Birds.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 8 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220308_Tired_of_Birds/20220308_Tired_of_Birds.jpg"/>
+      <link>https://archive.org/details/20220308_Tired_of_Birds</link>
+      <guid>https://archive.org/details/20220308_Tired_of_Birds</guid>
+    </item>
+
+    <item>
+      <title>A Knot in the Rope at the Front of My Brain</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220307_A_Knot_in_the_Rope_at_the_Front_of_My_Brain/20220307_A_Knot_in_the_Rope_at_the_Front_of_My_Brain.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 7 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220307_A_Knot_in_the_Rope_at_the_Front_of_My_Brain/20220307_A_Knot_in_the_Rope_at_the_Front_of_My_Brain.jpg"/>
+      <link>https://archive.org/details/20220307_A_Knot_in_the_Rope_at_the_Front_of_My_Brain</link>
+      <guid>https://archive.org/details/20220307_A_Knot_in_the_Rope_at_the_Front_of_My_Brain</guid>
+    </item>
+
+    <item>
+      <title>One Fat Grackle</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220306_One_Fat_Grackle/20220306_One_Fat_Grackle.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 6 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220306_One_Fat_Grackle/20220306_One_Fat_Grackle.jpg"/>
+      <link>https://archive.org/details/20220306_One_Fat_Grackle</link>
+      <guid>https://archive.org/details/20220306_One_Fat_Grackle</guid>
+    </item>
+
+    <item>
+      <title>Scraping Mud Daubers</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220305_Scraping_Mud_Daubers/20220305_Scraping_Mud_Daubers.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 5 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220305_Scraping_Mud_Daubers/20220305_Scraping_Mud_Daubers.jpg"/>
+      <link>https://archive.org/details/20220305_Scraping_Mud_Daubers</link>
+      <guid>https://archive.org/details/20220305_Scraping_Mud_Daubers</guid>
+    </item>
+
+    <item>
+      <title>Spinning Honey</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220304_Spinning_Honey/20220304_Spinning_Honey.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 4 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220304_Spinning_Honey/20220304_Spinning_Honey.jpg"/>
+      <link>https://archive.org/details/20220304_Spinning_Honey</link>
+      <guid>https://archive.org/details/20220304_Spinning_Honey</guid>
+    </item>
+
+    <item>
+      <title>Sherri’s Birthday in a Time of Pandemic</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220303-sherris-birthday-in-a-time-of-pandemic/20220303_Sherri%E2%80%99s_Birthday_in_a_Time_of_Pandemic.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 3 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220303-sherris-birthday-in-a-time-of-pandemic/20220303_Sherri%E2%80%99s_Birthday_in_a_Time_of_Pandemic.jpg"/>
+      <link>https://archive.org/details/20220303-sherris-birthday-in-a-time-of-pandemic</link>
+      <guid>https://archive.org/details/20220303-sherris-birthday-in-a-time-of-pandemic</guid>
+    </item>
+
+    <item>
+      <title>Before Vietnam</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220302_Before_Vietnam/20220302_Before_Vietnam.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 2 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220302_Before_Vietnam/20220302_Before_Vietnam.jpg"/>
+      <link>https://archive.org/details/20220302_Before_Vietnam</link>
+      <guid>https://archive.org/details/20220302_Before_Vietnam</guid>
+    </item>
+
+    <item>
+      <title>Eagle Scout as an Old Man</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220301_Eagle_Scout_as_an_Old_Man/20220301_Eagle_Scout_as_an_Old_Man.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 1 Mar 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220301_Eagle_Scout_as_an_Old_Man/20220301_Eagle_Scout_as_an_Old_Man.jpg"/>
+      <link>https://archive.org/details/20220301_Eagle_Scout_as_an_Old_Man</link>
+      <guid>https://archive.org/details/20220301_Eagle_Scout_as_an_Old_Man</guid>
+    </item>
+
+    <item>
+      <title>Hewn from a Dogwood</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220228_Hewn_from_a_Dogwood/20220228_Hewn_from_a_Dogwood.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 28 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220228_Hewn_from_a_Dogwood/20220228_Hewn_from_a_Dogwood.jpg"/>
+      <link>https://archive.org/details/20220228_Hewn_from_a_Dogwood</link>
+      <guid>https://archive.org/details/20220228_Hewn_from_a_Dogwood</guid>
+    </item>
+
+    <item>
+      <title>At Four in the Morning</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220227_At_Four_in_the_Morning/20220227_At_Four_in_the_Morning.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 27 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220227_At_Four_in_the_Morning/20220227_At_Four_in_the_Morning.jpg"/>
+      <link>https://archive.org/details/20220227_At_Four_in_the_Morning</link>
+      <guid>https://archive.org/details/20220227_At_Four_in_the_Morning</guid>
+    </item>
+
+    <item>
+      <title>Clusters</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220214_Clusters/20220214_Clusters.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 14 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220214_Clusters/20220214_Clusters.jpg"/>
+      <link>https://archive.org/details/20220214_Clusters</link>
+      <guid>https://archive.org/details/20220214_Clusters</guid>
+    </item>
+
+    <item>
+      <title>Out of the Nest Feeding</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220213_Out_of_the_Nest_Feeding/20220213_Out_of_the_Nest_Feeding.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 13 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220213_Out_of_the_Nest_Feeding/20220213_Out_of_the_Nest_Feeding.jpg"/>
+      <link>https://archive.org/details/20220213_Out_of_the_Nest_Feeding</link>
+      <guid>https://archive.org/details/20220213_Out_of_the_Nest_Feeding</guid>
+    </item>
+
+    <item>
+      <title>Passover</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220212_Passover/20220212_Passover.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 11 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220212_Passover/20220212_Passover.jpg"/>
+      <link>https://archive.org/details/20220212_Passover</link>
+      <guid>https://archive.org/details/20220212_Passover</guid>
+    </item>
+
+    <item>
+      <title>Fred's One Stop Small Engine Repair</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220210-freds-one-stop-small-engine-repair/20220210_Fred%27s_One_Stop_Small_Engine_Repair.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 10 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220210-freds-one-stop-small-engine-repair/20220210_Fred%27s_One_Stop_Small_Engine_Repair.jpg"/>
+      <link>https://archive.org/details/20220210-freds-one-stop-small-engine-repair</link>
+      <guid>https://archive.org/details/20220210-freds-one-stop-small-engine-repair</guid>
+    </item>
+
+    <item>
+      <title>Essential Business</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220209_Essential_Business/20220209_Essential_Business.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 9 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220209_Essential_Business/20220209_Essential_Business.jpg"/>
+      <link>https://archive.org/details/20220209_Essential_Business</link>
+      <guid>https://archive.org/details/20220209_Essential_Business</guid>
+    </item>
+
+    <item>
+      <title>While Cutting Classes, I Discover the Spanish Flu in a Rural Kansas Cemetary</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220207-while-cutting-classes-i-discover-the-spanish-flu-in-a-rural-kansas-cemetary/20220207_While_Cutting_Classes%2C_I_Discover_the_Spanish_Flu_in_a_Rural_Kansas_Cemetary.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 7 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220207-while-cutting-classes-i-discover-the-spanish-flu-in-a-rural-kansas-cemetary/20220207_While_Cutting_Classes%2C_I_Discover_the_Spanish_Flu_in_a_Rural_Kansas_Cemetary.jpg"/>
+      <link>https://archive.org/details/20220207-while-cutting-classes-i-discover-the-spanish-flu-in-a-rural-kansas-cemetary</link>
+      <guid>https://archive.org/details/20220207-while-cutting-classes-i-discover-the-spanish-flu-in-a-rural-kansas-cemetary</guid>
+    </item>
+
+    <item>
+      <title>Curb Side Groceries</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220206_Curb_Side_Groceries/20220206_Curb_Side_Groceries.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 6 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220206_Curb_Side_Groceries/20220206_Curb_Side_Groceries.jpg"/>
+      <link>https://archive.org/details/20220206_Curb_Side_Groceries</link>
+      <guid>https://archive.org/details/20220206_Curb_Side_Groceries</guid>
+    </item>
+
+    <item>
+      <title>The Flying Cat</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220205_The_Flying_Cat/20220205_The_Flying_Cat.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 5 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220205_The_Flying_Cat/20220205_The_Flying_Cat.jpg"/>
+      <link>https://archive.org/details/20220205_The_Flying_Cat</link>
+      <guid>https://archive.org/details/20220205_The_Flying_Cat</guid>
+    </item>
+
+    <item>
+      <title>Plague Doctor at Sonic with Dandelions</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220204_Plague_Doctor_at_Sonic_with_Dandelions/20220204_Plague_Doctor_at_Sonic_with_Dandelions.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 4 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220204_Plague_Doctor_at_Sonic_with_Dandelions/20220204_Plague_Doctor_at_Sonic_with_Dandelions.jpg"/>
+      <link>https://archive.org/details/20220204_Plague_Doctor_at_Sonic_with_Dandelions</link>
+      <guid>https://archive.org/details/20220204_Plague_Doctor_at_Sonic_with_Dandelions</guid>
+    </item>
+
+    <item>
+      <title>Isolated at a City Park</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220203_Isolated_at_a_City_Park/20220203_Isolated_at_a_City_Park.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 3 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220203_Isolated_at_a_City_Park/20220203_Isolated_at_a_City_Park.jpg"/>
+      <link>https://archive.org/details/20220203_Isolated_at_a_City_Park</link>
+      <guid>https://archive.org/details/20220203_Isolated_at_a_City_Park</guid>
+    </item>
+
+    <item>
+      <title>In My Search for a Poem Today</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220202_In_My_Search_for_a_Poem_Today/20220202_In_My_Search_for_a_Poem_Today.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 2 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220202_In_My_Search_for_a_Poem_Today/20220202_In_My_Search_for_a_Poem_Today.jpg"/>
+      <link>https://archive.org/details/20220202_In_My_Search_for_a_Poem_Today</link>
+      <guid>https://archive.org/details/20220202_In_My_Search_for_a_Poem_Today</guid>
+    </item>
+
+    <item>
+      <title>First Mowing with Sciatica</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220201_First_Mowing_with_Sciatica/20220201_First_Mowing_with_Sciatica.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 1 Feb 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220201_First_Mowing_with_Sciatica/20220201_First_Mowing_with_Sciatica.jpg"/>
+      <link>https://archive.org/details/20220201_First_Mowing_with_Sciatica</link>
+      <guid>https://archive.org/details/20220201_First_Mowing_with_Sciatica</guid>
+    </item>
+
+    <item>
+      <title>Arkansas Vulture</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220128-self-quarantined-with-squirrels-nests/20220128_Self-Quarantined_with_Squirrels%27_Nests.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 30 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220130_Arkansas_Vulture/20220130_Arkansas_Vulture.jpg"/>
+      <link>https://archive.org/details/20220130_Arkansas_Vulture</link>
+      <guid>https://archive.org/details/20220130_Arkansas_Vulture</guid>
+    </item>
+
+    <item>
+      <title>Self Quarantined With Squirrels' Nests</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220128-self-quarantined-with-squirrels-nests/20220128_Self-Quarantined_with_Squirrels%27_Nests.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220128-self-quarantined-with-squirrels-nests/20220128_Self-Quarantined_with_Squirrels%27_Nests.jpg"/>
+      <link>https://archive.org/details/20220128-self-quarantined-with-squirrels-nests</link>
+      <guid>https://archive.org/details/20220128-self-quarantined-with-squirrels-nests</guid>
+    </item>
+
+    <item>
+      <title>St. Francis Kissed Lepers</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220127_St._Francis_Kissed_Lepers/20220127_St._Francis_Kissed_Lepers.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 27 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220127_St._Francis_Kissed_Lepers/20220127_St._Francis_Kissed_Lepers.jpg"/>
+      <link>https://archive.org/details/20220127_St._Francis_Kissed_Lepers</link>
+      <guid>https://archive.org/details/20220127_St._Francis_Kissed_Lepers</guid>
+    </item>
+
+    <item>
+      <title>Distance Between Sparrows</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220126_Distance_Between_Sparrows/20220126_Distance_Between_Sparrows.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 26 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220126_Distance_Between_Sparrows/20220126_Distance_Between_Sparrows.jpg"/>
+      <link>https://archive.org/details/20220126_Distance_Between_Sparrows</link>
+      <guid>https://archive.org/details/20220126_Distance_Between_Sparrows</guid>
+    </item>
+
+    <item>
+      <title>Gunslinger</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220125_Gunslinger/20220125_Gunslinger.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 25 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220125_Gunslinger/20220125_Gunslinger.jpg"/>
+      <link>https://archive.org/details/20220125_Gunslinger</link>
+      <guid>https://archive.org/details/20220125_Gunslinger</guid>
+    </item>
+
+    <item>
+      <title>Everyone Knows a Guy</title>
+      <description>by Al Ortolani in Swimming Shelter</description>
+      <enclosure url="https://archive.org/download/20220124_Everyone_Knows_a_Guy/20220124_Everyone_Knows_a_Guy.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 24 Jan 2022 12:00:00 +0000</pubDate>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Al Ortolani</itunes:author>
+      <itunes:image href="https://archive.org/download/20220124_Everyone_Knows_a_Guy/20220124_Everyone_Knows_a_Guy.jpg"/>
+      <link>https://archive.org/details/20220124_Everyone_Knows_a_Guy</link>
+      <guid>https://archive.org/details/20220124_Everyone_Knows_a_Guy</guid>
+    </item>
+
+    <item>
       <title>With or Without Me</title>
       <description>by Al Ortolani in Swimming Shelter</description>
       <enclosure url="https://archive.org/download/20220123_With_or_Without_Me/20220123_With_or_Without_Me.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sat, 23 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>5</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:author>Al Ortolani</itunes:author>
@@ -6003,7 +6458,7 @@
       <title>acknowledgements</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220119-acknowledgements/20220119_acknowledgements.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Tue, 19 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>37</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6016,7 +6471,7 @@
       <title>notes</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220118-notes/20220118_notes.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 18 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>36</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6029,7 +6484,7 @@
       <title>my nig</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220117-my-nig/20220117_my_nig.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sun, 17 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>35</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6042,7 +6497,7 @@
       <title>my poems</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220113-my-poems/20220113_my_poems.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Wed, 13 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>34</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6055,7 +6510,7 @@
       <title>the fat one with the switch</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220112-the-fat-one-with-the-switch/20220112_the_fat_one_with_the_switch.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 11 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>33</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6068,7 +6523,7 @@
       <title>waiting on you to die so i can be myself</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220110-waiting-on-you-to-die-so-i-can-be-myself/20220110_waiting_on_you_to_die_so_i_can_be_myself.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sun, 10 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>32</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6081,7 +6536,7 @@
       <title>happy hour</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220109-happy-hour/20220109_happy_hour.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sat, 9 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 9 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>31</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6094,7 +6549,7 @@
       <title>gay cancer</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220108-gay-cancer/20220108_gay_cancer.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Fri, 8 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 8 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>30</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6107,7 +6562,7 @@
       <title>trees!</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220106-trees/20220106_trees%21.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Wed, 6 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 6 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>29</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6120,7 +6575,7 @@
       <title>old confession &amp; new</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220104-old-confession-new/20220104_old_confession_&amp;_new.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 4 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 4 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>28</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
@@ -6133,7 +6588,7 @@
       <title>C. R. E. A. M.</title>
       <description>by Danez in Smith</description>
       <enclosure url="https://archive.org/download/20220101-c.-r.-e.-a.-m./20220101_C.R.E.A.M..mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Fri, 1 Jan 2022 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 1 Jan 2022 12:00:00 +0000</pubDate>
       <itunes:season>4</itunes:season>
       <itunes:episode>27</itunes:episode>
       <itunes:author>Danez Smith</itunes:author>
