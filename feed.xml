@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Like Baudelaire’s moon…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251012-like-baudelaires-moon/20251012_Like_Baudelaire%E2%80%99s_moon.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 12 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>65</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251012-like-baudelaires-moon/20251012_Like_Baudelaire%E2%80%99s_moon.JPG"/>
+      <link>https://archive.org/details/20251012-like-baudelaires-moon</link>
+      <guid>https://archive.org/details/20251012-like-baudelaires-moon</guid>
+    </item>
+
+    <item>
       <title>Gathered at your bedside…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20251011-gathered-at-your-bedside/20251011_Gathered_at_your_bedside.mp3" type="audio/mpeg" length="12345"/>
