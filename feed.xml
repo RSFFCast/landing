@@ -20,6 +20,58 @@
     </itunes:owner>
 
     <item>
+      <title>A Prayer of Thanks for the Givers</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251015-aqui-estamos/20251015_Aqui%CC%81_Estamos.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 16 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251016-a-prayer-of-thanks-for-the-givers/20251016_A_Prayer_of_Thanks_for_the_Givers.JPG"/>
+      <link>https://archive.org/details/20251016-a-prayer-of-thanks-for-the-givers</link>
+      <guid>https://archive.org/details/20251016-a-prayer-of-thanks-for-the-givers</guid>
+    </item>
+
+    <item>
+      <title>Aquí Estamos</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251015-aqui-estamos/20251015_Aqui%CC%81_Estamos.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 15 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251015-aqui-estamos/20251015_Aqui%CC%81_Estamos.JPG"/>
+      <link>https://archive.org/details/20251015-aqui-estamos</link>
+      <guid>https://archive.org/details/20251015-aqui-estamos</guid>
+    </item>
+
+    <item>
+      <title>The Color Brown</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251014-the-color-brown/20251014_The_Color_Brown.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251014-the-color-brown/20251014_The_Color_Brown.JPG"/>
+      <link>https://archive.org/details/20251014-the-color-brown</link>
+      <guid>https://archive.org/details/20251014-the-color-brown</guid>
+    </item>
+
+    <item>
+      <title>The Horses…</title>
+      <description>by Eve Joseph in Quarrels</description>
+      <enclosure url="https://archive.org/download/20251013-the-horses/20251013_The_horses.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 13 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>66</itunes:episode>
+      <itunes:author>Eve Joseph</itunes:author>
+      <itunes:image href="https://archive.org/download/20251013-the-horses/20251013_The_horses.JPG"/>
+      <link>https://archive.org/details/20251013-the-horses</link>
+      <guid>https://archive.org/details/20251013-the-horses</guid>
+    </item>
+
+    <item>
       <title>Like Baudelaire’s moon…</title>
       <description>by Eve Joseph in Quarrels</description>
       <enclosure url="https://archive.org/download/20251012-like-baudelaires-moon/20251012_Like_Baudelaire%E2%80%99s_moon.mp3" type="audio/mpeg" length="12345"/>
