@@ -20,6 +20,19 @@
     </itunes:owner>
 
     <item>
+      <title>Water</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251017-water/20251017_Water.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 17 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251017-water/20251017_Water.JPG"/>
+      <link>https://archive.org/details/20251017-water</link>
+      <guid>https://archive.org/details/20251017-water</guid>
+    </item>
+
+    <item>
       <title>A Prayer of Thanks for the Givers</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251015-aqui-estamos/20251015_Aqui%CC%81_Estamos.mp3" type="audio/mpeg" length="12345"/>
