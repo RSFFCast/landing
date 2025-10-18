@@ -272,7 +272,7 @@
       <description>by Dorothy Hunt</description>
       <enclosure url="https://archive.org/download/20250929-peace-is-this-moment-without-judgement/20250929_Peace_Is_This_Moment_Without_Judgement.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 29 Sep 2025 12:00:00 +0000</pubDate>
-      <itunes:season>99</itunes:season>
+      <itunes:season>0</itunes:season>
       <itunes:episode>15</itunes:episode>
       <itunes:author>Dorothy Hunt</itunes:author>
       <itunes:image href="https://archive.org/download/20250929-peace-is-this-moment-without-judgement/20250929_Peace_Is_This_Moment_Without%20_Judgement.JPG"/>
@@ -2846,7 +2846,7 @@
       <description>by Phoebe</description>
       <enclosure url="https://archive.org/download/20250301-grouse-creek/20250301_Grouse_Creek.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 1 Mar 2025 12:00:00 +0000</pubDate>
-      <itunes:season>99</itunes:season>
+      <itunes:season>0</itunes:season>
       <itunes:episode>14</itunes:episode>
       <itunes:author>Phoebe</itunes:author>
       <itunes:image href="https://archive.org/download/20250301-grouse-creek/20250301_Grouse_Creek.JPG"/>
@@ -2989,7 +2989,7 @@
       <description>by Jan Swanwood in Cowboy Poetry</description>
       <enclosure url="https://archive.org/download/20250217-kitchen-window-cowboy/20250217_Kitchen_Window_Cowboy.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 17 Feb 2025 12:00:00 +0000</pubDate>
-      <itunes:season>99</itunes:season>
+      <itunes:season>0</itunes:season>
       <itunes:episode>13</itunes:episode>
       <itunes:author>Jan Swanwood</itunes:author>
       <itunes:image href="https://archive.org/download/20250217-kitchen-window-cowboy/20250217_Kitchen_Window_Cowboy.JPG"/>
@@ -4146,7 +4146,7 @@
       <description>by Ehrin</description>
       <enclosure url="https://archive.org/download/20241025-ehrins-poem/20241025_Ehrin%E2%80%99s_Poem.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 25 Oct 2024 12:00:00 +0000</pubDate>
-      <itunes:season>99</itunes:season>
+      <itunes:season>0</itunes:season>
       <itunes:episode>12</itunes:episode>
       <itunes:author>Ehrin</itunes:author>
       <itunes:image href="https://archive.org/download/20241025-ehrins-poem/20241025_Ehrin%E2%80%99s_Poem.JPG"/>
@@ -5914,7 +5914,7 @@
   <description>by Robert Louis Stevenson</description>
   <enclosure url="https://archive.org/download/20240423_Travel_by_Robert_Louis_Stevenson/20240423_Travel_by_Robert_Louis_Stevenson.mp3" type="audio/mpeg" length="2389331"/>
   <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>11</itunes:episode>
   <itunes:author>Robert Louis Stevenson</itunes:author>
   <itunes:image href="https://archive.org/download/20240423_Travel_by_Robert_Louis_Stevenson/20240423_Travel_by_Robert_Louis_Stevenson.jpg"/>
@@ -6460,7 +6460,7 @@
   <description>reading of poem</description>
   <enclosure url="https://archive.org/download/20240226_The_Journey_by_Mary_Oliver/20240226_The_Journey_by_Mary_Oliver.mp3" type="audio/mpeg" length="1169308"/>
   <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>10</itunes:episode>
   <itunes:author>Mary Oliver</itunes:author>
   <itunes:image href="https://archive.org/download/20240226_The_Journey_by_Mary_Oliver/20240226_The_Journey_by_Mary_Oliver.jpg"/>
@@ -6525,7 +6525,7 @@
   <description>reading of poem</description>
   <enclosure url="https://archive.org/download/20240221_Baxter_Cabin/20240221_Baxter_Cabin.mp3" type="audio/mpeg" length="443731"/>
   <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>9</itunes:episode>
   <itunes:author>Damien</itunes:author>
   <itunes:image href="https://archive.org/download/20240221_Baxter_Cabin/20240221_Baxter_Cabin.jpg"/>
@@ -7526,7 +7526,7 @@
   <description>reading of Mother Teresa's Anyway Poem</description>
   <enclosure url="https://archive.org/download/20231118-mother-teresas-anyway-poem/20231118_Mother_Teresa's_Anyway_Poem.mp3" type="audio/mpeg" length="1312251"/>
   <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>8</itunes:episode>
   <itunes:author>Mother Theresa</itunes:author>
   <itunes:image href="https://archive.org/download/20231118-mother-teresas-anyway-poem/20231118_Mother_Teresa's_Anyway_Poem.jpg"/>
@@ -9099,7 +9099,7 @@
   <description>reading of poem</description>
   <enclosure url="https://archive.org/download/20230529_Sonnet_XI/20230529_Sonnet_XI.mp3" type="audio/mpeg" length="1569213"/>
   <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>7</itunes:episode>
   <itunes:author>unknown</itunes:author>
   <itunes:image href="https://archive.org/download/20230529_Sonnet_XI/20230529_Sonnet_XI.jpg"/>
@@ -9216,7 +9216,7 @@
   <description>reading of poem</description>
   <enclosure url="https://archive.org/download/20230518_There_are_those_who_love_to_get_dirty/20230518_There_are_those_who_love_to_get_dirty.mp3" type="audio/mpeg" length="284278"/>
   <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>6</itunes:episode>
   <itunes:author>unknown</itunes:author>
   <itunes:image href="https://archive.org/download/20230518_There_are_those_who_love_to_get_dirty/20230518_There_are_those_who_love_to_get_dirty.jpg"/>
@@ -9944,7 +9944,7 @@
   <description>reading of poem</description>
   <enclosure url="https://archive.org/download/20230310_The_Mule_Got_Drunk_and_Lost_In_Heaven/20230310_The_Mule_Got_Drunk_and_Lost_In_Heaven.mp3" type="audio/mpeg" length="705633"/>
   <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>5</itunes:episode>
   <itunes:author>unknown</itunes:author>
   <itunes:image href="https://archive.org/download/20230310_The_Mule_Got_Drunk_and_Lost_In_Heaven/20230310_The_Mule_Got_Drunk_and_Lost_In_Heaven.jpg"/>
@@ -9957,7 +9957,7 @@
   <description>reading of poem</description>
   <enclosure url="https://archive.org/download/20230308_Why_Just_Ask_the_Donkey/20230308_Why_Just_Ask_the_Donkey.mp3" type="audio/mpeg" length="789995"/>
   <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>4</itunes:episode>
   <itunes:author>unknown</itunes:author>
   <itunes:image href="https://archive.org/download/20230308_Why_Just_Ask_the_Donkey/20230308_Why_Just_Ask_the_Donkey.jpg"/>
@@ -10518,7 +10518,7 @@
   <description>reading of poem</description>
   <enclosure url="https://archive.org/download/20230116_Genius_by_Mark_Twain/20230116_Genius_by_Mark_Twain.mp3" type="audio/mpeg" length="1394726"/>
   <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>3</itunes:episode>
   <itunes:author>unknown</itunes:author>
   <itunes:image href="https://archive.org/download/20230116_Genius_by_Mark_Twain/20230116_Genius_by_Mark_Twain.jpg"/>
@@ -11402,7 +11402,7 @@
   <description>reading of poem</description>
   <enclosure url="https://archive.org/download/20220925_Season_Overview/20220925_Season_Overview.mp3" type="audio/mpeg" length="398934"/>
   <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>2</itunes:episode>
   <itunes:author>unknown</itunes:author>
   <itunes:image href="https://archive.org/download/20220925_Season_Overview/20220925_Season_Overview.jpg"/>
@@ -12156,7 +12156,7 @@
   <description>by Jake :)</description>
   <enclosure url="https://archive.org/download/20220712-jakes-poem/20220712_Jake's_Poem.mp3" type="audio/mpeg" length="503158"/>
   <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-  <itunes:season>99</itunes:season>
+  <itunes:season>0</itunes:season>
   <itunes:episode>1</itunes:episode>
   <itunes:author>unknown</itunes:author>
   <itunes:image href="https://archive.org/download/20220712-jakes-poem/20220712_Jake's_Poem.jpg"/>
