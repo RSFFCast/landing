@@ -18,6 +18,7 @@
       <itunes:name>random internet person</itunes:name>
       <itunes:email>readstuffforfriends@gmail.com</itunes:email>
     </itunes:owner>
+	<itunes:type>serial</itunes:type>
 
     <item>
       <title>Pillar of Seed</title>
