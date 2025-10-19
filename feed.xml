@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Tierra Encantada</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251019-tierra-encantada/20251019_Tierra_Encantada.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 19 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251019-tierra-encantada/20251019_Tierra_Encantada.JPG"/>
+      <link>https://archive.org/details/20251019-tierra-encantada</link>
+      <guid>https://archive.org/details/20251019-tierra-encantada</guid>
+    </item>
+
+    <item>
       <title>Pillar of Seed</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251018-pillar-of-seed/20251018_Pillar_of_Seed.mp3" type="audio/mpeg" length="12345"/>
