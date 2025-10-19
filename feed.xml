@@ -7748,7 +7748,7 @@
   <enclosure url="https://archive.org/download/20231130_Devotion/20231130_Devotion.mp3" type="audio/mpeg" length="1082792"/>
   <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
   <itunes:season>11</itunes:season>
-  <itunes:episode>32</itunes:episode>
+  <itunes:episode>33</itunes:episode>
   <itunes:author>Ocean Vuong</itunes:author>
   <itunes:image href="https://archive.org/download/20231130_Devotion/20231130_Devotion.jpg"/>
   <link>https://archive.org/details/20231130_Devotion</link>
@@ -7774,7 +7774,7 @@
   <enclosure url="https://archive.org/download/20231128_To_My_Father__To_My_Future_Son/20231128_To_My_Father__To_My_Future_Son.mp3" type="audio/mpeg" length="2510927"/>
   <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
   <itunes:season>11</itunes:season>
-  <itunes:episode>30</itunes:episode>
+  <itunes:episode>31</itunes:episode>
   <itunes:author>Ocean Vuong</itunes:author>
   <itunes:image href="https://archive.org/download/20231128_To_My_Father__To_My_Future_Son/20231128_To_My_Father__To_My_Future_Son.jpg"/>
   <link>https://archive.org/details/20231128_To_My_Father__To_My_Future_Son</link>
@@ -7787,7 +7787,7 @@
   <enclosure url="https://archive.org/download/20231126-detonation/20231126_Deto(nation).mp3" type="audio/mpeg" length="893038"/>
   <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
   <itunes:season>11</itunes:season>
-  <itunes:episode>29</itunes:episode>
+  <itunes:episode>30</itunes:episode>
   <itunes:author>Ocean Vuong</itunes:author>
   <itunes:image href="https://archive.org/download/20231126-detonation/20231126_Deto(nation).jpg"/>
   <link>https://archive.org/details/20231126-detonation</link>
@@ -7800,7 +7800,7 @@
   <enclosure url="https://archive.org/download/20231124_Ode_to_Masturbation/20231124_Ode_to_Masturbation.mp3" type="audio/mpeg" length="3495252"/>
   <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
   <itunes:season>11</itunes:season>
-  <itunes:episode>28</itunes:episode>
+  <itunes:episode>29</itunes:episode>
   <itunes:author>Ocean Vuong</itunes:author>
   <itunes:image href="https://archive.org/download/20231124_Ode_to_Masturbation/20231124_Ode_to_Masturbation.jpg"/>
   <link>https://archive.org/details/20231124_Ode_to_Masturbation</link>
@@ -7813,7 +7813,7 @@
   <enclosure url="https://archive.org/download/20231123_Notebook_Fragments/20231123_Notebook_Fragments.mp3" type="audio/mpeg" length="6662965"/>
   <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
   <itunes:season>11</itunes:season>
-  <itunes:episode>27</itunes:episode>
+  <itunes:episode>28</itunes:episode>
   <itunes:author>Ocean Vuong</itunes:author>
   <itunes:image href="https://archive.org/download/20231123_Notebook_Fragments/20231123_Notebook_Fragments.jpg"/>
   <link>https://archive.org/details/20231123_Notebook_Fragments</link>
@@ -7826,11 +7826,24 @@
   <enclosure url="https://archive.org/download/20231122-the-smallest-measure/20231122_The_Smallest_Measure.mp3" type="audio/mpeg" length="1710985"/>
   <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
   <itunes:season>11</itunes:season>
-  <itunes:episode>26</itunes:episode>
+  <itunes:episode>27</itunes:episode>
   <itunes:author>Ocean Vuong</itunes:author>
   <itunes:image href="https://archive.org/download/20231122-the-smallest-measure/20231122_The_Smallest_Measure.png"/>
   <link>https://archive.org/details/20231122-the-smallest-measure</link>
   <guid>https://archive.org/details/20231122-the-smallest-measure</guid>
+</item>
+
+<item>
+  <title>Daily Bread</title>
+  <description>by Ocean Vuong in Night Sky with Exit Wounds</description>
+  <enclosure url="https://archive.org/download/20231121_Daily_Bread/20231121_Daily_Bread.mp3" type="audio/mpeg" length="3879357"/>
+  <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+  <itunes:season>11</itunes:season>
+  <itunes:episode>26</itunes:episode>
+  <itunes:author>Ocean Vuong</itunes:author>
+  <itunes:image href="https://archive.org/download/20231121_Daily_Bread/20231121_Daily_Bread.jpg"/>
+  <link>https://archive.org/details/20231121_Daily_Bread</link>
+  <guid>https://archive.org/details/20231121_Daily_Bread</guid>
 </item>
 
 <item>
@@ -11707,19 +11720,6 @@
   <itunes:image href="https://archive.org/download/20221002_Gypsy_Hand/20221002_Gypsy_Hand.jpg"/>
   <link>https://archive.org/details/20221002_Gypsy_Hand</link>
   <guid>https://archive.org/details/20221002_Gypsy_Hand</guid>
-</item>
-
-<item>
-  <title>Daily Bread</title>
-  <description>by Ocean Vuong in Night Sky with Exit Wounds</description>
-  <enclosure url="https://archive.org/download/20231121_Daily_Bread/20231121_Daily_Bread.mp3" type="audio/mpeg" length="3879357"/>
-  <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-  <itunes:season>7</itunes:season>
-  <itunes:episode>37</itunes:episode>
-  <itunes:author>Ocean Vuong</itunes:author>
-  <itunes:image href="https://archive.org/download/20231121_Daily_Bread/20231121_Daily_Bread.jpg"/>
-  <link>https://archive.org/details/20231121_Daily_Bread</link>
-  <guid>https://archive.org/details/20231121_Daily_Bread</guid>
 </item>
 
 <item>
