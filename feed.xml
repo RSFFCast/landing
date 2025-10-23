@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>In Praise of Pods</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251023-in-praise-of-pods/20251023_In_Praise_of_Pods.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 23 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251023-in-praise-of-pods/20251023_In_Praise_of_Pods.JPG"/>
+      <link>https://archive.org/details/20251023-in-praise-of-pods</link>
+      <guid>https://archive.org/details/20251023-in-praise-of-pods</guid>
+    </item>
+
+    <item>
       <title>Bosque Walk, Groundhog Day</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251022-bosque-walk-groundhog-day/20251022_Bosque_Walk_Groundhog_Day.mp3" type="audio/mpeg" length="12345"/>
