@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Because the Kitchen</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251024-because-the-kitchen/20251024_Because_the_Kitchen.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251024-because-the-kitchen/20251024_Because_the_Kitchen.JPG"/>
+      <link>https://archive.org/details/20251024-because-the-kitchen</link>
+      <guid>https://archive.org/details/20251024-because-the-kitchen</guid>
+    </item>
+
+    <item>
       <title>In Praise of Pods</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251023-in-praise-of-pods/20251023_In_Praise_of_Pods.mp3" type="audio/mpeg" length="12345"/>
