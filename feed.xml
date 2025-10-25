@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>How to Write about Service</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251025-how-to-write-about-service/20251025_How_to_Write_About_Service.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 25 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251025-how-to-write-about-service/20251025_How_to_Write_About_Service.JPG"/>
+      <link>https://archive.org/details/20251025-how-to-write-about-service</link>
+      <guid>https://archive.org/details/20251025-how-to-write-about-service</guid>
+    </item>
+
+    <item>
       <title>Because the Kitchen</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251024-because-the-kitchen/20251024_Because_the_Kitchen.mp3" type="audio/mpeg" length="12345"/>
