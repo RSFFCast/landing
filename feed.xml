@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Water</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251026-water/20251026_Water.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 26 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251026-water/20251026_Water.JPG"/>
+      <link>https://archive.org/details/20251026-water</link>
+      <guid>https://archive.org/details/20251026-water</guid>
+    </item>
+
+    <item>
       <title>How to Write about Service</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251025-how-to-write-about-service/20251025_How_to_Write_About_Service.mp3" type="audio/mpeg" length="12345"/>
