@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Women’s Work</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251027-womens-work/20251027_Women%E2%80%99s_Work.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 27 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251027-womens-work/20251027_Women%E2%80%99s_Work.JPG"/>
+      <link>https://archive.org/details/20251027-womens-work</link>
+      <guid>https://archive.org/details/20251027-womens-work</guid>
+    </item>
+
+    <item>
       <title>Water</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251026-water/20251026_Water.mp3" type="audio/mpeg" length="12345"/>
