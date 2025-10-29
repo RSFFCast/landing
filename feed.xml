@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Poetry Walk</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251029-poetry-walk/20251029_Poetry_Walk.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 29 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251029-poetry-walk/20251029_Poetry_Walk.JPG"/>
+      <link>https://archive.org/details/20251029-poetry-walk</link>
+      <guid>https://archive.org/details/20251029-poetry-walk</guid>
+    </item>
+
+    <item>
       <title>Untitled</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251028-untitled/20251028_Untitled.mp3" type="audio/mpeg" length="12345"/>
