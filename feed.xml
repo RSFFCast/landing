@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Time</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251030-time/20251030_Time.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 30 Oct 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251030-time/20251030_Time.JPG"/>
+      <link>https://archive.org/details/20251030-time</link>
+      <guid>https://archive.org/details/20251030-time</guid>
+    </item>
+
+    <item>
       <title>Poetry Walk</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251029-poetry-walk/20251029_Poetry_Walk.mp3" type="audio/mpeg" length="12345"/>
