@@ -1674,14 +1674,14 @@
     <item>
       <title>Book One, (IV), 2</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
-      <enclosure url="https://archive.org/download/20250624-book-one-iv-2/20250624_Book_One_IV_2.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20250624-book-one-iv-2-redo/20250624_Book_One_IV_2_redo.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Tue, 24 Jun 2025 12:00:00 +0000</pubDate>
       <itunes:season>18</itunes:season>
       <itunes:episode>14</itunes:episode>
       <itunes:author>Derek Walcott</itunes:author>
-      <itunes:image href="https://archive.org/download/20250624-book-one-iv-2/20250624_Book_One_IV_2.JPG"/>
-      <link>https://archive.org/details/20250624-book-one-iv-2</link>
-      <guid>https://archive.org/details/20250624-book-one-iv-2</guid>
+      <itunes:image href="https://archive.org/download/20250624-book-one-iv-2-redo/20250624_Book_One_IV_2_redo.JPG"/>
+      <link>https://archive.org/details/20250624-book-one-iv-2-redo</link>
+      <guid>https://archive.org/details/20250624-book-one-iv-2-redo</guid>
     </item>
 
     <item>
@@ -3746,7 +3746,7 @@
       <itunes:season>10</itunes:season>
       <itunes:episode>165</itunes:episode>
       <itunes:author>Hafiz</itunes:author>
-      <itunes:image href="https://archive.org/download/20241224-where-is-the-door-to-the-tavern/20241225_Where_Is_the_Door_to_the_Tavern%3F.JPG"/>
+      <itunes:image href="https://archive.org/download/20241224-where-is-the-door-to-the-tavern/20241225_Where_Is_the_Door_to_the_Tavern.JPG"/>
       <link>https://archive.org/details/20241224-where-is-the-door-to-the-tavern</link>
       <guid>https://archive.org/details/20241224-where-is-the-door-to-the-tavern</guid>
     </item>
@@ -4630,7 +4630,7 @@
   <itunes:season>10</itunes:season>
   <itunes:episode>98</itunes:episode>
   <itunes:author>Hafiz</itunes:author>
-  <itunes:image href="https://archive.org/download/20241012-who-will-feed-my-cat/20241012_Who_Will_Feed_My_Cat%3F.JPG"/>
+  <itunes:image href="https://archive.org/download/20241012-who-will-feed-my-cat/20241012_Who_Will_Feed_My_Cat.JPG"/>
   <link>https://archive.org/details/20241012-who-will-feed-my-cat</link>
   <guid>https://archive.org/details/20241012-who-will-feed-my-cat</guid>
 </item>
@@ -4747,7 +4747,7 @@
       <itunes:season>10</itunes:season>
       <itunes:episode>89</itunes:episode>
       <itunes:author>Hafiz</itunes:author>
-      <itunes:image href="https://archive.org/download/20241002-why-abstain/20241002_Why_Abstain%3F.JPG"/>
+      <itunes:image href="https://archive.org/download/20241002-why-abstain/20241002_Why_Abstain.JPG"/>
       <link>https://archive.org/details/20241002-why-abstain</link>
       <guid>https://archive.org/details/20241002-why-abstain</guid>
     </item>
