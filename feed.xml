@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Tierra</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251101-tierra/20251101_Tierra.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 1 Nov 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251101-tierra/20251101_Tierra.JPG"/>
+      <link>https://archive.org/details/20251101-tierra</link>
+      <guid>https://archive.org/details/20251101-tierra</guid>
+    </item>
+
+    <item>
       <title>To Grow a Child on New Mexico</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251031-to-grow-a-child-in-new-mexico/20251031_To_Grow_a_Child_in_New_Mexico.mp3" type="audio/mpeg" length="12345"/>
