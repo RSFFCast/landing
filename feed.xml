@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Ode to the Explorers</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251102-ode-to-the-explorers/20251102_Ode_to_the_Explorers.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 2 Nov 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251102-ode-to-the-explorers/20251102_Ode_to_the_Explorers.jpg"/>
+      <link>https://archive.org/details/20251102-ode-to-the-explorers</link>
+      <guid>https://archive.org/details/20251102-ode-to-the-explorers</guid>
+    </item>
+
+    <item>
       <title>Tierra</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251101-tierra/20251101_Tierra.mp3" type="audio/mpeg" length="12345"/>
