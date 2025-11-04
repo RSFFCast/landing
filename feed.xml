@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Ode to the Makers</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251104-ode-to-the-makers/20251104_Ode_to_the_Makers.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 4 Nov 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251104-ode-to-the-makers/20251104_Ode_to_the_Makers.JPG"/>
+      <link>https://archive.org/details/20251104-ode-to-the-makers</link>
+      <guid>https://archive.org/details/20251104-ode-to-the-makers</guid>
+    </item>
+
+    <item>
       <title>Ode to the Art-Makers</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251103-ode-to-the-art-makers/20251103_Ode_to_the_Art-Makers.mp3" type="audio/mpeg" length="12345"/>
@@ -29,7 +42,7 @@
       <itunes:episode>21</itunes:episode>
       <itunes:author>Michelle Otero</itunes:author>
       <itunes:image href="https://archive.org/download/20251103-ode-to-the-art-makers/20251103_Ode_to_the_Art-Makers.JPG"/>
-      <link>https://archive.org/details/20251103-ode-to-the-art-makers/link>
+      <link>https://archive.org/details/20251103-ode-to-the-art-makers</link>
       <guid>https://archive.org/details/20251103-ode-to-the-art-makers</guid>
     </item>
 
