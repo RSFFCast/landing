@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Where the Border Isn’t a Metaphor</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20251106-where-the-border-isnt-a-metaphor/20251106_Where_the_Border_Isn%E2%80%99t_a_Metaphor.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 6 Nov 2025 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20251106-where-the-border-isnt-a-metaphor/20251106_Where_the_Border_Isn%E2%80%99t_a_Metaphor.JPG"/>
+      <link>https://archive.org/details/20251106-where-the-border-isnt-a-metaphor</link>
+      <guid>https://archive.org/details/20251106-where-the-border-isnt-a-metaphor</guid>
+    </item>
+
+    <item>
       <title>Language</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251105-language/20251105_Language.mp3" type="audio/mpeg" length="12345"/>
