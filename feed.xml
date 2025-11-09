@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Book Three, (XV), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20251107-book-three-xv-1/20251107_Book_Three_XV_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 7 Nov 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>58</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20251107-book-three-xv-1/20251107_Book_Three_XV_1.JPG"/>
+      <link>https://archive.org/details/20251107-book-three-xv-1</link>
+      <guid>https://archive.org/details/20251107-book-three-xv-1</guid>
+    </item>
+
+    <item>
       <title>Where the Border Isn’t a Metaphor</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20251106-where-the-border-isnt-a-metaphor/20251106_Where_the_Border_Isn%E2%80%99t_a_Metaphor.mp3" type="audio/mpeg" length="12345"/>
