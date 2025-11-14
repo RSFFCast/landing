@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Book Three, (XVI), 3</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20251114-book-three-xvi-3/20251114_Book_Three_XVI_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 14 Nov 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>64</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20251114-book-three-xvi-3/20251114_Book_Three_XVI_3.JPG"/>
+      <link>https://archive.org/details/20251114-book-three-xvi-3</link>
+      <guid>https://archive.org/details/20251114-book-three-xvi-3</guid>
+    </item>
+
+    <item>
       <title>Book Three, (XVI), 2</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20251113-book-three-xvi-2/20251113_Book_Three_XVI_2.mp3" type="audio/mpeg" length="12345"/>
