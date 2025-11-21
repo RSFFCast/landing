@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Book Three, (XVIII), 2</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20251121-book-three-xviii-2/20251121_Book_Three_XVIII_2.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>71</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20251121-book-three-xviii-2/20251121_Book_Three_XVIII_2.JPG"/>
+      <link>https://archive.org/details/20251121-book-three-xviii-2</link>
+      <guid>https://archive.org/details/20251121-book-three-xviii-2</guid>
+    </item>
+
+    <item>
+      <title>Book Three, (XVIII), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20251120-book-three-xviii-1/20251120_Book_Three_XVIII_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>70</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20251120-book-three-xviii-1/20251120_Book_Three_XVIII_1.JPG"/>
+      <link>https://archive.org/details/20251120-book-three-xviii-1</link>
+      <guid>https://archive.org/details/20251120-book-three-xviii-1</guid>
+    </item>
+
+    <item>
       <title>Book Three, (XVII), 4</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20251119-book-three-xvii-4/20251119_Book_Three_XVII_4.mp3" type="audio/mpeg" length="12345"/>
