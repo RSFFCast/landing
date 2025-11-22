@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Book Three, (XVIII), 3</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20251122-book-three-xviii-3/20251122_Book_Three_XVIII_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 22 Nov 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>72</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20251122-book-three-xviii-3/20251122_Book_Three_XVIII_3.JPG"/>
+      <link>https://archive.org/details/20251122-book-three-xviii-3</link>
+      <guid>https://archive.org/details/20251122-book-three-xviii-3</guid>
+    </item>
+
+    <item>
       <title>Book Three, (XVIII), 2</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20251121-book-three-xviii-2/20251121_Book_Three_XVIII_2.mp3" type="audio/mpeg" length="12345"/>
