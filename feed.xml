@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Book Four, (XX), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20251128-book-four-xx-1/20251128_Book_Four_XX_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 28 Nov 2025 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>78</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20251128-book-four-xx-1/20251128_Book_Four_XX_1.JPG"/>
+      <link>https://archive.org/details/20251128-book-four-xx-1</link>
+      <guid>https://archive.org/details/20251128-book-four-xx-1</guid>
+    </item>
+
+    <item>
       <title>Book Four, (XIX), 4</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20251127-book-four-xix-4/20251127_Book_Four_XIX_4.mp3" type="audio/mpeg" length="12345"/>
