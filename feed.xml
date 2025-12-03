@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Animal Voices 4</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20251203-animal-voices-4/20251203_Animal_Voices_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 3 Dec 2025 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20251203-animal-voices-4/20251203_Animal_Voices_4.JPG"/>
+      <link>https://archive.org/details/20251203-animal-voices-4</link>
+      <guid>https://archive.org/details/20251203-animal-voices-4</guid>
+    </item>
+
+    <item>
+      <title>Animal Voices 3</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20251202-animal-voices-3/20251202_Animal_Voices_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 2 Dec 2025 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20251202-animal-voices-3/20251202_Animal_Voices_3.JPG"/>
+      <link>https://archive.org/details/20251202-animal-voices-3</link>
+      <guid>https://archive.org/details/20251202-animal-voices-3</guid>
+    </item>
+
+    <item>
       <title>Animal Voices 2</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20251201-animal-voices-2/20251201_Animal_Voices_2.mp3" type="audio/mpeg" length="12345"/>
