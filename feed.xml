@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>A Placebo 1</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20251210-a-placebo-1/20251210_A_Placebo_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 10 Dec 2025 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20251210-a-placebo-1/20251210_A_Placebo_1.JPG"/>
+      <link>https://archive.org/details/20251210-a-placebo-1</link>
+      <guid>https://archive.org/details/20251210-a-placebo-1</guid>
+    </item>
+
+    <item>
       <title>The Mouse 5</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20251209-the-mouse-5/20251209_The_Mouse_5.mp3" type="audio/mpeg" length="12345"/>
