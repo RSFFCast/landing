@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
     <item>
+      <title>Pure Immanence 1</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20251217-pure-immanence-1/20251217_Pure_Immanence_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20251217-pure-immanence-1/20251217_Pure_Immanence_1.JPG"/>
+      <link>https://archive.org/details/20251217-pure-immanence-1</link>
+      <guid>https://archive.org/details/20251217-pure-immanence-1</guid>
+    </item>
+
+    <item>
       <title>Matter 2</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20251216-matter-2/20251216_Matter_2.mp3" type="audio/mpeg" length="12345"/>
