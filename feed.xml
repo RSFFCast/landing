@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>The New Boys 3</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20251227-the-new-boys-3/20251227_The_New_Boys_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 27 Dec 2025 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20251227-the-new-boys-3/20251227_The_New_Boys_3.JPG"/>
+      <link>https://archive.org/details/20251227-the-new-boys-3</link>
+      <guid>https://archive.org/details/20251227-the-new-boys-3</guid>
+    </item>
+
+   <item>
       <title>The New Boys 2</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20251226-the-new-boys-2/20251226_The_New_Boys%202.mp3" type="audio/mpeg" length="12345"/>
