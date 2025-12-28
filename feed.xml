@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>DJ Frogs 1</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20251228-dj-frogs-1/20251228_DJ_Frogs_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 28 Dec 2025 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20251228-dj-frogs-1/20251228_DJ_Frogs_1.JPG"/>
+      <link>https://archive.org/details/20251228-dj-frogs-1</link>
+      <guid>https://archive.org/details/20251228-dj-frogs-1</guid>
+    </item>
+
+   <item>
       <title>The New Boys 3</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20251227-the-new-boys-3/20251227_The_New_Boys_3.mp3" type="audio/mpeg" length="12345"/>
