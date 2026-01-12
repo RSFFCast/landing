@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Slow Down, Now 4</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260112-slow-down-now-4/20260112_Slow_Down_Now_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 12 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260112-slow-down-now-4/20260112_Slow_Down_Now_4.JPG"/>
+      <link>https://archive.org/details/20260112-slow-down-now-4</link>
+      <guid>https://archive.org/details/20260112-slow-down-now-4</guid>
+    </item>
+
+   <item>
+      <title>Slow Down, Now 3</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260111-slow-down-now/20260111_Slow_Down_Now.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 11 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260111-slow-down-now/20260111_Slow_Down_Now.JPG"/>
+      <link>https://archive.org/details/20260111-slow-down-now</link>
+      <guid>https://archive.org/details/20260111-slow-down-now</guid>
+    </item>
+
+   <item>
       <title>Slow Down, Now 2</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20260110-slow-down-now-2/20260110_Slow_Down_Now_2.mp3" type="audio/mpeg" length="12345"/>
