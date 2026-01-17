@@ -21,6 +21,58 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Hello, The Roses 1</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260116-hello-the-roses-1/20260116_Hello_the_Roses_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 16 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260116-hello-the-roses-1/20260116_Hello_the_Roses_1.JPG"/>
+      <link>https://archive.org/details/20260116-hello-the-roses-1</link>
+      <guid>https://archive.org/details/20260116-hello-the-roses-1</guid>
+    </item>
+
+   <item>
+      <title>Verdant Heart 3</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260115-verdant-heart-3/20260115_Verdant_Heart_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 15 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260115-verdant-heart-3/20260115_Verdant_Heart_3.JPG"/>
+      <link>https://archive.org/details/20260115-verdant-heart-3</link>
+      <guid>https://archive.org/details/20260115-verdant-heart-3</guid>
+    </item>
+
+   <item>
+      <title>Verdant Heart 2</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260114-verdant-heart-2/20260114_Verdant_Heart_2.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 14 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260114-verdant-heart-2/20260114_Verdant_Heart_2.JPG"/>
+      <link>https://archive.org/details/20260114-verdant-heart-2</link>
+      <guid>https://archive.org/details/20260114-verdant-heart-2</guid>
+    </item>
+
+   <item>
+      <title>Verdant Heart 1</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260113-verdant-heart-1/20260113_Verdant_Heart_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260113-verdant-heart-1/20260113_Verdant_Heart_1.JPG"/>
+      <link>https://archive.org/details/20260113-verdant-heart-1</link>
+      <guid>https://archive.org/details/20260113-verdant-heart-1</guid>
+    </item>
+
+   <item>
       <title>Slow Down, Now 4</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20260112-slow-down-now-4/20260112_Slow_Down_Now_4.mp3" type="audio/mpeg" length="12345"/>
