@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Her Calendar 1</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260118-her-calendar-1/20260118_Her_Calendar_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 18 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260118-her-calendar-1/20260118_Her_Calendar_1.JPG"/>
+      <link>https://archive.org/details/20260118-her-calendar-1</link>
+      <guid>https://archive.org/details/20260118-her-calendar-1</guid>
+    </item>
+
+   <item>
+      <title>Hello, The Roses 2</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260117-hello-the-roses-2/20260117_Hello_the_Roses_2.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 17 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260117-hello-the-roses-2/20260117_Hello_the_Roses_2.JPG"/>
+      <link>https://archive.org/details/20260117-hello-the-roses-2</link>
+      <guid>https://archive.org/details/20260117-hello-the-roses-2</guid>
+    </item>
+
+   <item>
       <title>Hello, The Roses 1</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20260116-hello-the-roses-1/20260116_Hello_the_Roses_1.mp3" type="audio/mpeg" length="12345"/>
