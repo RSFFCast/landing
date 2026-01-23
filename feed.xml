@@ -34,6 +34,32 @@
     </item>
 
    <item>
+      <title>Her Calendar 4</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260122-her-calendar-4/20260122_Her_Calendar_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>51</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260122-her-calendar-4/20260122_Her_Calendar_4.JPG"/>
+      <link>https://archive.org/details/20260122-her-calendar-4</link>
+      <guid>https://archive.org/details/20260122-her-calendar-4</guid>
+    </item>
+
+   <item>
+      <title>Her Calendar 3</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260121-her-calendar-3/20260121_Her_Calendar_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260121-her-calendar-3/20260121_Her_Calendar_3.JPG"/>
+      <link>https://archive.org/details/20260121-her-calendar-3</link>
+      <guid>https://archive.org/details/20260121-her-calendar-3</guid>
+    </item>
+
+   <item>
       <title>Her Calendar 2</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20260120-her-calendar-2/20260120_Her_Calendar_2.mp3" type="audio/mpeg" length="12345"/>
