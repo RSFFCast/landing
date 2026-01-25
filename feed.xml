@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>The Lit Cloud 3</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260125-the-lit-cloud-3/20260125_The_Lit_Cloud_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 25 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>54</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260125-the-lit-cloud-3/20260125_The_Lit_Cloud_3.JPG"/>
+      <link>https://archive.org/details/20260125-the-lit-cloud-3</link>
+      <guid>https://archive.org/details/20260125-the-lit-cloud-3</guid>
+    </item>
+
+   <item>
       <title>The Lit Cloud 2</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20260124-the-lit-cloud-2/20260124_The_Lit_Cloud_2.mp3" type="audio/mpeg" length="12345"/>
