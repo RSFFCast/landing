@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Turquoise Shade 1</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260130-turquoise-shade/20260130_Turquoise_Shade.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>56</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260130-turquoise-shade/20260130_Turquoise_Shade.JPG"/>
+      <link>https://archive.org/details/20260130-turquoise-shade</link>
+      <guid>https://archive.org/details/20260130-turquoise-shade</guid>
+    </item>
+
+   <item>
+      <title>The Lit Cloud 4</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260127-the-lit-cloud-4/20260127_The_Lit_Cloud_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>55</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260127-the-lit-cloud-4/20260127_The_Lit_Cloud_4.JPG"/>
+      <link>https://archive.org/details/20260127-the-lit-cloud-4</link>
+      <guid>https://archive.org/details/20260127-the-lit-cloud-4</guid>
+    </item>
+
+   <item>
       <title>The Lit Cloud 3</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20260125-the-lit-cloud-3/20260125_The_Lit_Cloud_3.mp3" type="audio/mpeg" length="12345"/>
