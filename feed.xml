@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Karmic Trace 3</title>
+      <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
+      <enclosure url="https://archive.org/download/20260207-karmic-trace-3/20260207_Karmic_Trace_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 6 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>21</itunes:season>
+      <itunes:episode>63</itunes:episode>
+      <itunes:author>Mei-mei Berssenbrugge</itunes:author>
+      <itunes:image href="https://archive.org/download/20260207-karmic-trace-3/20260207_Karmic_Trace_3.JPG"/>
+      <link>https://archive.org/details/20260207-karmic-trace-3</link>
+      <guid>https://archive.org/details/20260207-karmic-trace-3</guid>
+    </item>
+
+   <item>
       <title>Karmic Trace 2</title>
       <description>by Mei-mei Berssenbrugge in Hello, the Roses</description>
       <enclosure url="https://archive.org/download/20260205-karmic-trace-2/20260205_Karmic_Trace_2.mp3" type="audio/mpeg" length="12345"/>
