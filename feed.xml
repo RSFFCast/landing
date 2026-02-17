@@ -21,10 +21,23 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>I Grant You Refuge</title>
+      <description>by Hiba Abu Nada in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260217-i-grant-you-refuge/20260217_I_Grant_You_Refuge.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Hiba Abu Nada</itunes:author>
+      <itunes:image href="https://archive.org/download/20260217-i-grant-you-refuge/20260217_I_Grant_You_Refuge.JPG"/>
+      <link>https://archive.org/details/20260217-i-grant-you-refuge</link>
+      <guid>https://archive.org/details/20260217-i-grant-you-refuge</guid>
+    </item>
+
+   <item>
       <title>Sumbird</title>
       <description>by Fady Joudah in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260216-sunbird/20260216_Sunbird.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sat, 16 Feb 2026 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
       <itunes:season>22</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:author>Fady Joudah</itunes:author>
