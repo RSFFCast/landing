@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Sumbird</title>
+      <description>by Fady Joudah in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260216-sunbird/20260216_Sunbird.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 16 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Fady Joudah</itunes:author>
+      <itunes:image href="https://archive.org/download/20260216-sunbird/20260216_Sunbird.JPG"/>
+      <link>https://archive.org/details/20260216-sunbird</link>
+      <guid>https://archive.org/details/20260216-sunbird</guid>
+    </item>
+
+   <item>
       <title>Untitled</title>
       <description>by Fady Joudah in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260215-untitled/20260215_Untitled.mp3" type="audio/mpeg" length="12345"/>
