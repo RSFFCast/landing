@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Day 38, Nov 14, I Didn’t See the Fall This Year</title>
+      <description>by Olivia Elias in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260218-day-38-nov-14/20260218_Day_38_Nov_14.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Olivia Elias</itunes:author>
+      <itunes:image href="https://archive.org/download/20260218-day-38-nov-14/20260218_Day_38_Nov_14.JPG"/>
+      <link>https://archive.org/details/20260218-day-38-nov-14</link>
+      <guid>https://archive.org/details/20260218-day-38-nov-14</guid>
+    </item>
+
+   <item>
       <title>I Grant You Refuge</title>
       <description>by Hiba Abu Nada in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260217-i-grant-you-refuge/20260217_I_Grant_You_Refuge.mp3" type="audio/mpeg" length="12345"/>
