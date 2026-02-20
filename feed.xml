@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Mamma, I’m fine</title>
+      <description>by Moya Murry in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260220-mamma-im-fine/20260220_Mamma_I%E2%80%99m_fine.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Moya Murry</itunes:author>
+      <itunes:image href="https://archive.org/download/20260220-mamma-im-fine/20260220_Mamma_I%E2%80%99m_fine.JPG"/>
+      <link>https://archive.org/details/20260220-mamma-im-fine</link>
+      <guid>https://archive.org/details/20260220-mamma-im-fine</guid>
+    </item>
+
+  <item>
+      <title>It No Longer Matters If Anyone Loves Us</title>
+      <description>by Samer Anu Hawwash in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260219-it-no-longer-matters/20260219_It_No_Longer_Matters.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Samer Anu Hawwash</itunes:author>
+      <itunes:image href="https://archive.org/download/20260219-it-no-longer-matters/20260219_It_No_Longer_Matters.JPG"/>
+      <link>https://archive.org/details/20260219-it-no-longer-matters</link>
+      <guid>https://archive.org/details/20260219-it-no-longer-matters</guid>
+    </item>
+
+   <item>
       <title>Day 38, Nov 14, I Didn’t See the Fall This Year</title>
       <description>by Olivia Elias in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260218-day-38-nov-14/20260218_Day_38_Nov_14.mp3" type="audio/mpeg" length="12345"/>
