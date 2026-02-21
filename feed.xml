@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Not Just Passing</title>
+      <description>by Hiba Abu Nada in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260221-not-just-passing/20260221_Not_Just_Passing.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 21 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Hiba Abu Nada</itunes:author>
+      <itunes:image href="https://archive.org/download/20260221-not-just-passing/20260221_Not_Just_Passing.JPG"/>
+      <link>https://archive.org/details/20260221-not-just-passing</link>
+      <guid>https://archive.org/details/20260221-not-just-passing</guid>
+    </item>
+
+   <item>
       <title>Mamma, I’m fine</title>
       <description>by Moya Murry in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260220-mamma-im-fine/20260220_Mamma_I%E2%80%99m_fine.mp3" type="audio/mpeg" length="12345"/>
