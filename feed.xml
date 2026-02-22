@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Our Loneliness</title>
+      <description>by Hiba Abu Nada in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260222-our-loneliness/20260222_Our_Loneliness.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 22 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Hiba Abu Nada</itunes:author>
+      <itunes:image href="https://archive.org/download/20260222-our-loneliness/20260222_Our_Loneliness.JPG"/>
+      <link>https://archive.org/details/20260222-our-loneliness</link>
+      <guid>https://archive.org/details/20260222-our-loneliness</guid>
+    </item>
+
+   <item>
       <title>Not Just Passing</title>
       <description>by Hiba Abu Nada in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260221-not-just-passing/20260221_Not_Just_Passing.mp3" type="audio/mpeg" length="12345"/>
