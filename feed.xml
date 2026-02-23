@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>From, ‘I Saw, Father, What You Saw’</title>
+      <description>by Ahlam Bsharat in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260223-from-i-saw-father-what-you-saw/20260223_From_I_Saw_Father_What_You_Saw.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Ahlam Bsharat</itunes:author>
+      <itunes:image href="https://archive.org/download/20260223-from-i-saw-father-what-you-saw/20260223_From_I_Saw_Father_What_You_Saw.JPG"/>
+      <link>https://archive.org/details/20260223-from-i-saw-father-what-you-saw</link>
+      <guid>https://archive.org/details/20260223-from-i-saw-father-what-you-saw</guid>
+    </item>
+
+   <item>
       <title>Our Loneliness</title>
       <description>by Hiba Abu Nada in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260222-our-loneliness/20260222_Our_Loneliness.mp3" type="audio/mpeg" length="12345"/>
