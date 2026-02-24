@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>The Idea Has Failed</title>
+      <description>by Basman Aldirawi in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260224-the-idea-has-failed/20260224_The_Idea_Has_Failed.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Basman Aldirawi</itunes:author>
+      <itunes:image href="https://archive.org/download/20260224-the-idea-has-failed/20260224_The_Idea_Has_Failed.JPG"/>
+      <link>https://archive.org/details/20260224-the-idea-has-failed</link>
+      <guid>https://archive.org/details/20260224-the-idea-has-failed</guid>
+    </item>
+
+   <item>
       <title>From, ‘I Saw, Father, What You Saw’</title>
       <description>by Ahlam Bsharat in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260223-from-i-saw-father-what-you-saw/20260223_From_I_Saw_Father_What_You_Saw.mp3" type="audio/mpeg" length="12345"/>
