@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>This Bread Was Born, This Bread Was Killed</title>
+      <description>by Basman Aldirawi in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260225-this-bread-was-born-this-bread-was-killed/20260225_This_Bread_Was_Born_This_Bread_Was_Killed.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:author>Basman Aldirawi</itunes:author>
+      <itunes:image href="https://archive.org/download/20260225-this-bread-was-born-this-bread-was-killed/20260225_This_Bread_Was_Born_This_Bread_Was_Killed.JPG"/>
+      <link>https://archive.org/details/20260225-this-bread-was-born-this-bread-was-killed</link>
+      <guid>https://archive.org/details/20260225-this-bread-was-born-this-bread-was-killed</guid>
+    </item>
+
+   <item>
       <title>The Idea Has Failed</title>
       <description>by Basman Aldirawi in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260224-the-idea-has-failed/20260224_The_Idea_Has_Failed.mp3" type="audio/mpeg" length="12345"/>
