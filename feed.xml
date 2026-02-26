@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Everything Knows You Will Rise</title>
+      <description>by Ghassan Zaqtan in Poems for Palestine</description>
+      <enclosure url="https://archive.org/download/20260226-everything-knows-you-will-rise/20260226_Everything_Knows_You_Will_Rise.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>22</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:author>Ghassan Zaqtan</itunes:author>
+      <itunes:image href="https://archive.org/download/20260226-everything-knows-you-will-rise/20260226_Everything_Knows_You_Will_Rise.JPG"/>
+      <link>https://archive.org/details/20260226-everything-knows-you-will-rise</link>
+      <guid>https://archive.org/details/20260226-everything-knows-you-will-rise</guid>
+    </item>
+
+   <item>
       <title>This Bread Was Born, This Bread Was Killed</title>
       <description>by Basman Aldirawi in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260225-this-bread-was-born-this-bread-was-killed/20260225_This_Bread_Was_Born_This_Bread_Was_Killed.mp3" type="audio/mpeg" length="12345"/>
