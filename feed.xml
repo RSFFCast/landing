@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Dwelling</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20260227-dwelling/20260227_Dwelling.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20260227-dwelling/20260227_Dwelling.JPG"/>
+      <link>https://archive.org/details/20260227-dwelling</link>
+      <guid>https://archive.org/details/20260227-dwelling</guid>
+    </item>
+
+   <item>
       <title>Everything Knows You Will Rise</title>
       <description>by Ghassan Zaqtan in Poems for Palestine</description>
       <enclosure url="https://archive.org/download/20260226-everything-knows-you-will-rise/20260226_Everything_Knows_You_Will_Rise.mp3" type="audio/mpeg" length="12345"/>
