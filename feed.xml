@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>You Make the Library Friend</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20260228-you-make-the-library-friend/20260228_You_Make_the_Library_Friend.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 28 Feb 2026 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20260228-you-make-the-library-friend/20260228_You_Make_the_Library_Friend.JPG"/>
+      <link>https://archive.org/details/20260228-you-make-the-library-friend</link>
+      <guid>https://archive.org/details/20260228-you-make-the-library-friend</guid>
+    </item>
+
+   <item>
       <title>Dwelling</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20260227-dwelling/20260227_Dwelling.mp3" type="audio/mpeg" length="12345"/>
