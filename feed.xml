@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Breaking Ground</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20260301-breaking-ground/20260301_Breaking_Ground.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 1 Mar 2026 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20260301-breaking-ground/20260301_Breaking_Ground.JPG"/>
+      <link>https://archive.org/details/20260301-breaking-ground</link>
+      <guid>https://archive.org/details/20260301-breaking-ground</guid>
+    </item>
+
+   <item>
       <title>You Make the Library Friend</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20260228-you-make-the-library-friend/20260228_You_Make_the_Library_Friend.mp3" type="audio/mpeg" length="12345"/>
