@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Little House 4 Sale</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20260302-little-house-4-sale/20260302_Little_House_4_Sale.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 2 Mar 2026 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20260302-little-house-4-sale/20260302_Little_House_4_Sale.JPG"/>
+      <link>https://archive.org/details/20260302-little-house-4-sale</link>
+      <guid>https://archive.org/details/20260302-little-house-4-sale</guid>
+    </item>
+
+   <item>
       <title>Breaking Ground</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20260301-breaking-ground/20260301_Breaking_Ground.mp3" type="audio/mpeg" length="12345"/>
