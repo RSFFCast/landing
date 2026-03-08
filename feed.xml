@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Tombstone</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20260308-tombstone/20260308_Tombstone.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 8 Mar 2026 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20260308-tombstone/20260308_Tombstone.JPG"/>
+      <link>https://archive.org/details/20260308-tombstone</link>
+      <guid>https://archive.org/details/20260308-tombstone</guid>
+    </item>
+
+   <item>
       <title>Last night I dreamt your ex-wife</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20260307-last-night-i-dreamt-your-ex-wife/20260307_Last_night_I_dreamt_your_ex-wife.mp3" type="audio/mpeg" length="12345"/>
