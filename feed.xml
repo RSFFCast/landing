@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>My Mother Was Never a Housewife</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20260311-my-mother-was-never-a-housewife/20260311_My_Mother_Was_Never_a_Housewife.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20260311-my-mother-was-never-a-housewife/20260311_My_Mother_Was_Never_a_Housewife.JPG"/>
+      <link>https://archive.org/details/20260311-my-mother-was-never-a-housewife</link>
+      <guid>https://archive.org/details/20260311-my-mother-was-never-a-housewife</guid>
+   </item>
+
+   <item>
       <title>Faith</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20260310-faith/20260310_Faith.mp3" type="audio/mpeg" length="12345"/>
