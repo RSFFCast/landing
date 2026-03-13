@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Sestina Azteca</title>
+      <description>by Michelle Otero in Bosque Poems</description>
+      <enclosure url="https://archive.org/download/20260313-sestina-azteca/20260313_Sestina_Azteca.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+      <itunes:season>20</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:author>Michelle Otero</itunes:author>
+      <itunes:image href="https://archive.org/download/20260313-sestina-azteca/20260313_Sestina_Azteca.JPG"/>
+      <link>https://archive.org/details/20260313-sestina-azteca</link>
+      <guid>https://archive.org/details/20260313-sestina-azteca</guid>
+   </item>
+
+   <item>
       <title>El Paso Uno</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20260312-el-paso-uno/20260312_El_Paso_Uno.mp3" type="audio/mpeg" length="12345"/>
