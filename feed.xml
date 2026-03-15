@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Book Four, (XX), 3</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20260315-book-four-xx-3/20260315_Book_Four_XX_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 15 Mar 2026 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>80</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20260315-book-four-xx-3/20260315_Book_Four_XX_3.JPG"/>
+      <link>https://archive.org/details/20260315-book-four-xx-3</link>
+      <guid>https://archive.org/details/20260315-book-four-xx-3</guid>
+   </item>
+
+   <item>
       <title>Water</title>
       <description>by Michelle Otero in Bosque Poems</description>
       <enclosure url="https://archive.org/download/20260314-water/20260314_Water.mp3" type="audio/mpeg" length="12345"/>
