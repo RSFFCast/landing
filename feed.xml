@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Book Four, (XXI), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20260317-book-four-xxi-1/20260317_Book_Four_XXI_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>82</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20260317-book-four-xxi-1/20260317_Book_Four_XXI_1.JPG"/>
+      <link>https://archive.org/details/20260317-book-four-xxi-1</link>
+      <guid>https://archive.org/details/20260317-book-four-xxi-1</guid>
+   </item>
+
+   <item>
       <title>Book Four, (XX), 4</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20260316-book-four-xx-4/20260316_Book_Four_XX_4.mp3" type="audio/mpeg" length="12345"/>
