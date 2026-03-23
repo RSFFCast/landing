@@ -21,7 +21,20 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
-      <title>Book Four, (XXII), 4</title>
+      <title>Book Four, (XXII), 2</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20260323-book-four-xxii-2/20260323_Book_Four_XXII_2.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>87</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20260323-book-four-xxii-2/20260323_Book_Four_XXII_2.JPG"/>
+      <link>https://archive.org/details/20260323-book-four-xxii-2</link>
+      <guid>https://archive.org/details/20260323-book-four-xxii-2</guid>
+   </item>
+
+   <item>
+      <title>Book Four, (XXII), 1</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20260322-book-four-xxii-1/20260322_Book_Four_XXII_1.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
