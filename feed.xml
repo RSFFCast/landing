@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Book Four, (XXIII), 4</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20260329-book-four-xxiii-4/20260329_Book_Four_XXIII_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>93</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20260329-book-four-xxiii-4/20260329_Book_Four_XXIII_4.JPG"/>
+      <link>https://archive.org/details/20260329-book-four-xxiii-4</link>
+      <guid>https://archive.org/details/20260329-book-four-xxiii-4</guid>
+   </item>
+
+   <item>
       <title>Book Four, (XXIII), 3</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20260328-book-four-xxiii-3/20260328_Book_Four_XXIII_3.mp3" type="audio/mpeg" length="12345"/>
