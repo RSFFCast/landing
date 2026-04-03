@@ -21,6 +21,58 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Book Four, (XXV), 1</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20260403-book-four-xxv-1/20260403_Book_Four_XXV_1.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 3 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>98</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20260403-book-four-xxv-1/20260403_Book_Four_XXV_1.JPG"/>
+      <link>https://archive.org/details/20260403-book-four-xxv-1</link>
+      <guid>https://archive.org/details/20260403-book-four-xxv-1</guid>
+   </item>
+
+   <item>
+      <title>Book Four, (XXIV), 4</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20260402-book-four-xxiv-4/20260402_Book_Four_XXIV_4.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 2 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>97</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20260402-book-four-xxiv-4/20260402_Book_Four_XXIV_4.JPG"/>
+      <link>https://archive.org/details/20260402-book-four-xxiv-4</link>
+      <guid>https://archive.org/details/20260402-book-four-xxiv-4</guid>
+   </item>
+
+   <item>
+      <title>Book Four, (XXIV), 3</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20260401-book-four-xxiv-3/20260401_Book_Four_XXIV_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 1 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>96</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20260401-book-four-xxiv-3/20260401_Book_Four_XXIV_3.JPG"/>
+      <link>https://archive.org/details/20260401-book-four-xxiv-3</link>
+      <guid>https://archive.org/details/20260401-book-four-xxiv-3</guid>
+   </item>
+
+   <item>
+      <title>Book Four, (XXIV), 2</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20260331-book-four-xxiv-2/20260331_Book_Four_XXIV_2.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>95</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://https://archive.org/download/20260331-book-four-xxiv-2/20260331_Book_Four_XXIV_2.JPG"/>
+      <link>https://archive.org/details/20260331-book-four-xxiv-2</link>
+      <guid>https://archive.org/details/20260331-book-four-xxiv-2</guid>
+   </item>
+
+   <item>
       <title>Book Four, (XXIV), 1</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20260330-book-four-xxiv-1/20260330_Book_Four_XXIV.mp3" type="audio/mpeg" length="12345"/>
