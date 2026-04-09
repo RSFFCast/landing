@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Book Four, (XXVI), 3</title>
+      <description>by Derek Walcott in Tiepolo's Hound</description>
+      <enclosure url="https://archive.org/download/20260409-book-four-xxvi-3/20260409_Book_Four_XXVI_3.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 9 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>104</itunes:episode>
+      <itunes:author>Derek Walcott</itunes:author>
+      <itunes:image href="https://archive.org/download/20260409-book-four-xxvi-3/20260409_Book_Four_XXVI_3.JPG"/>
+      <link>https://archive.org/details/20260409-book-four-xxvi-3</link>
+      <guid>https://archive.org/details/20260409-book-four-xxvi-3</guid>
+   </item>
+
+   <item>
       <title>Book Four, (XXVI), 2</title>
       <description>by Derek Walcott in Tiepolo's Hound</description>
       <enclosure url="https://archive.org/download/20260408-book-four-xxvi-2/20260408_Book_Four_XXVI_2.mp3" type="audio/mpeg" length="12345"/>
