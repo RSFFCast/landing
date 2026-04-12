@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Angloglacus</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260412-angloglacus/20260412_Angloglacus.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 12 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260412-angloglacus/20260412_Angloglacus.JPG"/>
+      <link>https://archive.org/details/20260412-angloglacus</link>
+      <guid>https://archive.org/details/20260412-angloglacus</guid>
+   </item>
+
+   <item>
       <title>Dogleg Knees</title>
       <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260411-dogleg-knees/20260411_Dogleg_Knees.mp3" type="audio/mpeg" length="12345"/>
