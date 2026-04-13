@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>More$o</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260413-moreo/20260413_More%24o.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260413-moreo/20260413_More%24o.JPG"/>
+      <link>https://archive.org/details/20260413-moreo</link>
+      <guid>https://archive.org/details/20260413-moreo</guid>
+   </item>
+
+   <item>
       <title>Angloglacus</title>
       <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260412-angloglacus/20260412_Angloglacus.mp3" type="audio/mpeg" length="12345"/>
