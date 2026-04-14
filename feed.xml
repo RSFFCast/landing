@@ -23,6 +23,19 @@
    <item>
       <title>More$o</title>
       <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260414-quespidity/20260414_Quespidity.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260414-quespidity/20260414_Quespidity.JPG"/>
+      <link>https://archive.org/details/20260414-quespidity</link>
+      <guid>https://archive.org/details/20260414-quespidity</guid>
+   </item>
+
+   <item>
+      <title>More$o</title>
+      <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260413-moreo/20260413_More%24o.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
       <itunes:season>23</itunes:season>
