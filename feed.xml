@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Trilling</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260415-trilling/20260415_Trilling.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 15 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260415-trilling/20260415_Trilling.JPG"/>
+      <link>https://archive.org/details/20260415-trilling</link>
+      <guid>https://archive.org/details/20260415-trilling</guid>
+   </item>
+
+   <item>
       <title>More$o</title>
       <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260414-quespidity/20260414_Quespidity.mp3" type="audio/mpeg" length="12345"/>
