@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Traumatracked</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260416-traumatracked/20260416_Traumatracked.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260416-traumatracked/20260416_Traumatracked.JPG"/>
+      <link>https://archive.org/details/20260416-traumatracked</link>
+      <guid>https://archive.org/details/20260416-traumatracked</guid>
+   </item>
+
+   <item>
       <title>Trilling</title>
       <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260415-trilling/20260415_Trilling.mp3" type="audio/mpeg" length="12345"/>
