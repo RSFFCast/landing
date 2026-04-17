@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Nakedswamplands</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260417-nakedswamplands/20260417_Nakedswamplands.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 17 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260417-nakedswamplands/20260417_Nakedswamplands.JPG"/>
+      <link>https://archive.org/details/20260417-nakedswamplands</link>
+      <guid>https://archive.org/details/20260417-nakedswamplands</guid>
+   </item>
+
+   <item>
       <title>Traumatracked</title>
       <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260416-traumatracked/20260416_Traumatracked.mp3" type="audio/mpeg" length="12345"/>
