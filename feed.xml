@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Mind-Traction</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260420-mind-traction/20260420_Mind-Traction.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260420-mind-traction/20260420_Mind-Traction.JPG"/>
+      <link>https://archive.org/details/20260420-mind-traction</link>
+      <guid>https://archive.org/details/20260420-mind-traction</guid>
+   </item>
+
+   <item>
+      <title>Abculturalchildren</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260419-abculturalchildren/20260419_Abculturalchildren.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 19 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260419-abculturalchildren/20260419_Abculturalchildren.JPG"/>
+      <link>https://archive.org/details/20260419-abculturalchildren</link>
+      <guid>https://archive.org/details/20260419-abculturalchildren</guid>
+   </item>
+
+   <item>
       <title>Cuckoo Song</title>
       <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260418-cuckoo-song/20260418_Cuckoo_Song.mp3" type="audio/mpeg" length="12345"/>
