@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Syntheshine</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260421-syntheshine/20260421_Syntheshine.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260421-syntheshine/20260421_Syntheshine.JPG"/>
+      <link>https://archive.org/details/20260421-syntheshine</link>
+      <guid>https://archive.org/details/20260421-syntheshine</guid>
+   </item>
+
+   <item>
       <title>Mind-Traction</title>
       <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260420-mind-traction/20260420_Mind-Traction.mp3" type="audio/mpeg" length="12345"/>
