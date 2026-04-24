@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Outblast</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260424-outblast/20260424_Outblast.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260424-outblast/20260424_Outblast.JPG"/>
+      <link>https://archive.org/details/20260424-outblast</link>
+      <guid>https://archive.org/details/20260424-outblast</guid>
+   </item>
+
+   <item>
       <title>Might Be Mighty</title>
       <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260423-might-be-mighty/20260423_Might_Be_Mighty.mp3" type="audio/mpeg" length="12345"/>
