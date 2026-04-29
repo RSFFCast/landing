@@ -21,6 +21,71 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Undulating Harvest</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260429-undulating-harvest/20260429_Undulating_Harvest.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260429-undulating-harvest/20260429_Undulating_Harvest.JPG"/>
+      <link>https://archive.org/details/20260429-undulating-harvest</link>
+      <guid>https://archive.org/details/20260429-undulating-harvest</guid>
+   </item>
+
+   <item>
+      <title>Agonite</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260428-agonite/20260428_Agonite.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260428-agonite/20260428_Agonite.JPG"/>
+      <link>https://archive.org/details/20260428-agonite</link>
+      <guid>https://archive.org/details/20260428-agonite</guid>
+   </item>
+
+   <item>
+      <title>Passages</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260427-passages/20260427_Passages.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260427-passages/20260427_Passages.JPG"/>
+      <link>https://archive.org/details/20260427-passages</link>
+      <guid>https://archive.org/details/20260427-passages</guid>
+   </item>
+
+   <item>
+      <title>Rhinoxx</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260426-rhinoxx/20260426_Rhinoxx.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 26 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260426-rhinoxx/20260426_Rhinoxx.JPG"/>
+      <link>https://archive.org/details/20260426-rhinoxx</link>
+      <guid>https://archive.org/details/20260426-rhinoxx</guid>
+   </item>
+
+   <item>
+      <title>No Bumpkin</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260425-no-bumpkin/20260425_No_Bumpkin.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260425-no-bumpkin/20260425_No_Bumpkin.JPG"/>
+      <link>https://archive.org/details/20260425-no-bumpkin</link>
+      <guid>https://archive.org/details/20260425-no-bumpkin</guid>
+   </item>
+
+   <item>
       <title>Outblast</title>
       <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260424-outblast/20260424_Outblast.mp3" type="audio/mpeg" length="12345"/>
