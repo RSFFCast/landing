@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Essential</title>
+      <description>by Carl Carr in Skaum</description>
+      <enclosure url="https://archive.org/download/20260430-essential/20260430_Essential.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
+      <itunes:season>23</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:author>Carl Carr</itunes:author>
+      <itunes:image href="https://archive.org/download/20260430-essential/20260430_Essential.JPG"/>
+      <link>https://archive.org/details/20260430-essential</link>
+      <guid>https://archive.org/details/20260430-essential</guid>
+   </item>
+
+   <item>
       <title>Undulating Harvest</title>
       <description>by Carl Carr in Skaum</description>
       <enclosure url="https://archive.org/download/20260429-undulating-harvest/20260429_Undulating_Harvest.mp3" type="audio/mpeg" length="12345"/>
