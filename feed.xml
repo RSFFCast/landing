@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Passing By</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260506-passing-by/20260506_Passing_By.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 6 May 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260506-passing-by/20260506_Passing_By.JPG"/>
+      <link>https://archive.org/details/20260506-passing-by</link>
+      <guid>https://archive.org/details/20260506-passing-by</guid>
+   </item>
+
+   <item>
+      <title>Remembering</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260504-remembering/20260504_Remembering.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 4 May 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260504-remembering/20260504_Remembering.JPG"/>
+      <link>https://archive.org/details/20260504-remembering</link>
+      <guid>https://archive.org/details/20260504-remembering</guid>
+   </item>
+
+   <item>
       <title>First Breath</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260503-first-breath/20260503_First_Breath.mp3" type="audio/mpeg" length="12345"/>
