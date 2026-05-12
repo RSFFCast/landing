@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Coming For Herself</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260610-coming-for-herself/20260610_Coming_For_Herself.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 10 May 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260610-coming-for-herself/20260610_Coming_For_Herself.JPG"/>
+      <link>https://archive.org/details/20260610-coming-for-herself</link>
+      <guid>https://archive.org/details/20260610-coming-for-herself</guid>
+   </item>
+
+   <item>
       <title>Cage</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260509-cage/20260509_Cage.mp3" type="audio/mpeg" length="12345"/>
