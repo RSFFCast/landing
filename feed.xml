@@ -21,9 +21,22 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>No Mistakes</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260517-no-mistakes/20260517_No_Mistakes.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260517-no-mistakes/20260517_No_Mistakes.JPG"/>
+      <link>https://archive.org/details/20260517-no-mistakes</link>
+      <guid>https://archive.org/details/20260517-no-mistakes</guid>
+   </item>
+
+   <item>
       <title>Chorus</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
-      <enclosure url="https://archive.org/download/20260513-chorus/20260513_Chorus.mp3 type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20260513-chorus/20260513_Chorus.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
       <itunes:season>24</itunes:season>
       <itunes:episode>9</itunes:episode>
