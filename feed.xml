@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Heart Open</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260520-heart-open/20260520_Heart_Open.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260520-heart-open/20260520_Heart_Open.JPG"/>
+      <link>https://archive.org/details/20260520-heart-open</link>
+      <guid>https://archive.org/details/20260520-heart-open</guid>
+   </item>
+
+   <item>
       <title>Home</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260519-home/20260519_Home.mp3" type="audio/mpeg" length="12345"/>
