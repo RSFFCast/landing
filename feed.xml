@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Yours</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260521-yours/20260521_Yours.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260521-yours/20260521_Yours.jpg"/>
+      <link>https://archive.org/details/20260521-yours</link>
+      <guid>https://archive.org/details/20260521-yours</guid>
+   </item>
+
+   <item>
       <title>Heart Open</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260520-heart-open/20260520_Heart_Open.mp3" type="audio/mpeg" length="12345"/>
