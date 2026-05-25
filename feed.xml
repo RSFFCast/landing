@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Sight</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260524-sight/20260524_Sight.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260524-sight/20260524_Sight.JPG"/>
+      <link>https://archive.org/details/20260524-sight</link>
+      <guid>https://archive.org/details/20260524-sight</guid>
+   </item>
+
+   <item>
+      <title>Enough</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260523-enough/20260523_Enough.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 23 May 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260523-enough/20260523_Enough.JPG"/>
+      <link>https://archive.org/details/20260523-enough</link>
+      <guid>https://archive.org/details/20260523-enough</guid>
+   </item>
+
+   <item>
       <title>Yours</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260521-yours/20260521_Yours.mp3" type="audio/mpeg" length="12345"/>
