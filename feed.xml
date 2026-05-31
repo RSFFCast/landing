@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Like Being Loved</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260530-like-being-loved/20260530_Like_Being_Loved.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 30 May 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260530-like-being-loved/20260530_Like_Being_Loved.JPG"/>
+      <link>https://archive.org/details/20260530-like-being-loved</link>
+      <guid>https://archive.org/details/20260530-like-being-loved</guid>
+   </item>
+
+   <item>
+      <title>Why Not</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260528-why-not/20260528_Why_Not.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260528-why-not/20260528_Why_Not.JPG"/>
+      <link>https://archive.org/details/20260528-why-not</link>
+      <guid>https://archive.org/details/20260528-why-not</guid>
+   </item>
+
+   <item>
       <title>Sight</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260524-sight/20260524_Sight.mp3" type="audio/mpeg" length="12345"/>
