@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Toward Perfection</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260605-toward-perfection/20260605_Toward_Perfection.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 5 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260605-toward-perfection/20260605_Toward_Perfection.JPG"/>
+      <link>https://archive.org/details/20260605-toward-perfection</link>
+      <guid>https://archive.org/details/20260605-toward-perfection</guid>
+   </item>
+
+   <item>
       <title>Part of You</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260604-part-of-you/20260604_Part_of_You.mp3" type="audio/mpeg" length="12345"/>
