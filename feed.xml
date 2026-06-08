@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Less Than Sin</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260608-less-than-sin/20260608_Less_Than_Sin.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 8 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260608-less-than-sin/20260608_Less_Than_Sin.JPG"/>
+      <link>https://archive.org/details/20260608-less-than-sin</link>
+      <guid>https://archive.org/details/20260608-less-than-sin</guid>
+   </item>
+
+   <item>
       <title>Grace</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260607-grace/20260607_Grace.mp3" type="audio/mpeg" length="12345"/>
