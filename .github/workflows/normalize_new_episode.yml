@@ -1,0 +1,72 @@
+name: Normalize New Episode
+
+on:
+  workflow_dispatch:
+    inputs:
+      identifier:
+        description: 'Archive.org item identifier (e.g. 20210319-august)'
+        required: true
+        type: string
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y ffmpeg python3-pip
+          pip3 install internetarchive ffmpeg-normalize
+
+      - name: Configure Archive.org credentials
+        run: |
+          mkdir -p ~/.config/internetarchive
+          cat > ~/.config/internetarchive/ia.ini << EOF
+          [s3]
+          access = ${{ secrets.IA_ACCESS }}
+          secret = ${{ secrets.IA_SECRET }}
+          EOF
+
+      - name: Download, normalize, and re-upload
+        run: |
+          ID="${{ github.event.inputs.identifier }}"
+          mkdir -p workdir && cd workdir
+
+          echo "Downloading $ID..."
+          ia download "$ID" --glob="*.mp3"
+
+          MP3=$(find "$ID" -name "*.mp3" | head -1)
+          if [ -z "$MP3" ]; then
+            echo "ERROR: No MP3 found for $ID"
+            exit 1
+          fi
+
+          FILENAME=$(basename "$MP3")
+          echo "Found: $FILENAME"
+
+          BITRATE=$(ffprobe -v error -select_streams a:0 \
+            -show_entries stream=bit_rate \
+            -of default=noprint_wrappers=1:nokey=1 "$MP3")
+          BITRATE_K=$(( BITRATE / 1000 ))k
+          echo "Original bitrate: $BITRATE_K"
+
+          NORMALIZED="$ID/${FILENAME%.mp3}_norm.mp3"
+          ffmpeg-normalize "$MP3" \
+            -o "$NORMALIZED" \
+            -t -16 -tp -1.5 -lrt 11 \
+            -c:a libmp3lame -e "-b:a $BITRATE_K"
+
+          if [ ! -f "$NORMALIZED" ]; then
+            echo "ERROR: Normalization failed"
+            exit 1
+          fi
+
+          mv "$NORMALIZED" "$MP3"
+
+          echo "Uploading normalized file back to Archive.org..."
+          ia upload "$ID" "$MP3" \
+            --remote-name="$FILENAME" \
+            --no-derive
+
+          echo "Done: $ID normalized and uploaded."
