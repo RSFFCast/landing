@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Stop Running Away</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/details/20260614-stop-running-away" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260614-stop-running-away/20260614_Stop_Running_Away.JPG"/>
+      <link>https://archive.org/details/20260614-stop-running-away</link>
+      <guid>https://archive.org/details/20260614-stop-running-away</guid>
+   </item>
+
+   <item>
       <title>So Close</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260613-so-close/20260613_So_Close.mp3" type="audio/mpeg" length="12345"/>
