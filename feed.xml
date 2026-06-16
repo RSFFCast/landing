@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Come</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260616-come/20260616_Come.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260616-come/20260616_Come.JPG"/>
+      <link>https://archive.org/details/20260616-come</link>
+      <guid>https://archive.org/details/20260616-come</guid>
+   </item>
+
+   <item>
       <title>Hawks</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260615-hawks/20260615_Hawks.mp3" type="audio/mpeg" length="12345"/>
