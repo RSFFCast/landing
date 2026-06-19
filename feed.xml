@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Close</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260628-close/20260619_Close.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260628-close/20260628_Close.JPG"/>
+      <link>https://archive.org/details/20260628-close</link>
+      <guid>https://archive.org/details/20260628-close</guid>
+   </item>
+
+   <item>
       <title>Thank You, Five.</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260617-thank-you-five/20260617_Thank_You_Five.mp3" type="audio/mpeg" length="12345"/>
