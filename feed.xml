@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>Orbiting Goodbye</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260626-orbiting-goodbye/20260626_Orbiting_Goodbye.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260626-orbiting-goodbye/20260626_Orbiting_Goodbye.JPG"/>
+      <link>https://archive.org/details/20260626-orbiting-goodbye</link>
+      <guid>https://archive.org/details/20260626-orbiting-goodbye</guid>
+   </item>
+
+   <item>
       <title>Flow Forward</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260625-flow-forward/20260625_Flow_Forward.mp3" type="audio/mpeg" length="12345"/>
