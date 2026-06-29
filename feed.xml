@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>If You Loved Me You Would Know</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260629-if-you-loved-me-you-would-know/20260629_If_You_Loved_Me_You_Would_Know.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260629-if-you-loved-me-you-would-know/20260629_If_You_Loved_Me_You_Would_Know.JPG"/>
+      <link>https://archive.org/details/20260629-if-you-loved-me-you-would-know</link>
+      <guid>https://archive.org/details/20260629-if-you-loved-me-you-would-know</guid>
+   </item>
+
+   <item>
       <title>More</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260628-more/20260628_More.mp3" type="audio/mpeg" length="12345"/>
