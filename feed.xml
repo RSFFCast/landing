@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 
    <item>
+      <title>You’re Missing It</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260701-youre-missing-it/20260701_You%E2%80%99re_Missing_It.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 1 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260701-youre-missing-it/20260701_You%E2%80%99re_Missing_It.JPG"/>
+      <link>https://archive.org/details/20260701-youre-missing-it</link>
+      <guid>https://archive.org/details/20260701-youre-missing-it</guid>
+   </item>
+
+   <item>
       <title>Pray</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260630-pray/20260630_Pray.mp3" type="audio/mpeg" length="12345"/>
