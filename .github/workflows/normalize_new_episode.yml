@@ -1,11 +1,13 @@
 name: Normalize New Episode
 
 on:
+  schedule:
+    - cron: '0 16 * * *'  # 9:00 AM MST (UTC-7)
   workflow_dispatch:
     inputs:
       identifier:
-        description: 'Archive.org item identifier (e.g. 20210319-august)'
-        required: true
+        description: 'Archive.org item identifier (leave blank to auto-scan past 30 days)'
+        required: false
         type: string
 
 jobs:
@@ -28,45 +30,109 @@ jobs:
           secret = ${{ secrets.IA_SECRET }}
           EOF
 
-      - name: Download, normalize, and re-upload
+      - name: Build list of items to process
         run: |
-          ID="${{ github.event.inputs.identifier }}"
-          mkdir -p workdir && cd workdir
-
-          echo "Downloading $ID..."
-          ia download "$ID" --glob="*.mp3"
-
-          MP3=$(find "$ID" -name "*.mp3" | head -1)
-          if [ -z "$MP3" ]; then
-            echo "ERROR: No MP3 found for $ID"
-            exit 1
+          MANUAL_ID="${{ github.event.inputs.identifier }}"
+          if [ -n "$MANUAL_ID" ]; then
+            echo "$MANUAL_ID" > /tmp/items_to_process.txt
+            echo "Manual run: processing $MANUAL_ID"
+            exit 0
           fi
 
-          FILENAME=$(basename "$MP3")
-          echo "Found: $FILENAME"
+          SINCE=$(date -d "30 days ago" +%Y-%m-%d)
+          echo "Scanning for your Archive.org items uploaded since $SINCE..."
 
-          BITRATE=$(ffprobe -v error -select_streams a:0 \
-            -show_entries stream=bit_rate \
-            -of default=noprint_wrappers=1:nokey=1 "$MP3")
-          BITRATE_K=$(( BITRATE / 1000 ))k
-          echo "Original bitrate: $BITRATE_K"
+          ia search "uploader:${{ secrets.IA_EMAIL }} AND mediatype:audio AND date:[$SINCE TO 9999-12-31]" \
+            --itemlist > /tmp/items_to_process.txt || true
 
-          NORMALIZED="$ID/${FILENAME%.mp3}_norm.mp3"
-          ffmpeg-normalize "$MP3" \
-            -o "$NORMALIZED" \
-            -t -16 -tp -1.5 -lrt 11 \
-            -c:a libmp3lame -e "-b:a $BITRATE_K"
+          COUNT=$(wc -l < /tmp/items_to_process.txt)
+          echo "Found $COUNT item(s) to evaluate."
+          cat /tmp/items_to_process.txt
 
-          if [ ! -f "$NORMALIZED" ]; then
-            echo "ERROR: Normalization failed"
-            exit 1
+      - name: Normalize and upload as needed
+        run: |
+          if [ ! -s /tmp/items_to_process.txt ]; then
+            echo "No items to process."
+            exit 0
           fi
 
-          mv "$NORMALIZED" "$MP3"
+          while IFS= read -r ID; do
+            [ -z "$ID" ] && continue
 
-          echo "Uploading normalized file back to Archive.org..."
-          ia upload "$ID" "$MP3" \
-            --remote-name="$FILENAME" \
-            --no-derive
+            echo "==============================="
+            echo "Checking: $ID"
 
-          echo "Done: $ID normalized and uploaded."
+            mkdir -p workdir && cd workdir
+
+            # Download the MP3
+            echo "Downloading $ID..."
+            ia download "$ID" --glob="*.mp3"
+
+            MP3=$(find "$ID" -name "*.mp3" | head -1)
+            if [ -z "$MP3" ]; then
+              echo "No MP3 found for $ID. Skipping."
+              cd ..
+              rm -rf "$ID"
+              continue
+            fi
+
+            FILENAME=$(basename "$MP3")
+            echo "Found: $FILENAME"
+
+            # Measure current LUFS
+            LUFS=$(ffmpeg-normalize "$MP3" --print-stats -n 2>&1 \
+              | grep "Input Integrated" \
+              | awk '{print $NF}')
+            echo "Current LUFS: $LUFS"
+
+            # Skip if already within 0.5 LUFS of target
+            NEEDS_NORM=$(python3 -c "
+lufs = float('$LUFS') if '$LUFS' else None
+if lufs is None:
+    print('yes')
+elif abs(lufs - (-16.0)) <= 0.5:
+    print('no')
+else:
+    print('yes')
+")
+
+            if [ "$NEEDS_NORM" = "no" ]; then
+              echo "Already at -16 LUFS. Skipping."
+              cd ..
+              rm -rf workdir
+              continue
+            fi
+
+            echo "Normalizing..."
+
+            BITRATE=$(ffprobe -v error -select_streams a:0 \
+              -show_entries stream=bit_rate \
+              -of default=noprint_wrappers=1:nokey=1 "$MP3")
+            BITRATE_K=$(( BITRATE / 1000 ))k
+            echo "Original bitrate: $BITRATE_K"
+
+            NORMALIZED="$ID/${FILENAME%.mp3}_norm.mp3"
+            ffmpeg-normalize "$MP3" \
+              -o "$NORMALIZED" \
+              -t -16 -tp -1.5 -lrt 11 \
+              -c:a libmp3lame -e "-b:a $BITRATE_K"
+
+            if [ ! -f "$NORMALIZED" ]; then
+              echo "ERROR: Normalization failed for $ID"
+              cd ..
+              rm -rf workdir
+              continue
+            fi
+
+            mv "$NORMALIZED" "$MP3"
+
+            echo "Uploading normalized file back to Archive.org..."
+            ia upload "$ID" "$MP3" \
+              --remote-name="$FILENAME" \
+              --no-derive
+
+            echo "Done: $ID normalized and uploaded."
+            cd ..
+            rm -rf workdir
+
+          done < /tmp/items_to_process.txt

@@ -34,6 +34,97 @@
   </item>	
 
   <item>
+      <title>Last Chance</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260717-last-chance/20260717_Last_Chance.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260717-last-chance/20260717_Last_Chance.JPG"/>
+      <link>https://archive.org/details/20260717-last-chance</link>
+      <guid>https://archive.org/details/20260717-last-chance</guid>
+  </item>
+
+  <item>
+      <title>Two Stories</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260716-two-stories/20260716_Two_Stories.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260716-two-stories/20260716_Two_Stories.JPG"/>
+      <link>https://archive.org/details/20260716-two-stories</link>
+      <guid>https://archive.org/details/20260716-two-stories</guid>
+  </item>
+
+  <item>
+      <title>The Battle of Chattanooga</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260715-the-battle-of-chattanooga/20260715_The_Battle_of_Chattanooga.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260715-the-battle-of-chattanooga/20260715_The_Battle_of_Chattanooga.JPG"/>
+      <link>https://archive.org/details/20260715-the-battle-of-chattanooga</link>
+      <guid>https://archive.org/details/20260715-the-battle-of-chattanooga</guid>
+  </item>
+
+  <item>
+      <title>Burn After Reading</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260714-burn-after-reading/20260714_Burn_After_Reading.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>55</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260714-burn-after-reading/20260714_Burn_After_Reading.JPG"/>
+      <link>https://archive.org/details/20260714-burn-after-reading</link>
+      <guid>https://archive.org/details/20260714-burn-after-reading</guid>
+  </item>
+
+  <item>
+      <title>Surrender</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260713-surrender/20260713_Surrender.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>54</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260713-surrender/20260713_Surrender.JPG"/>
+      <link>https://archive.org/details/20260713-surrender</link>
+      <guid>https://archive.org/details/20260713-surrender</guid>
+  </item>
+	  
+  <item>
+      <title>Carrying You Home</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260712-carrying-you-home/20260712_Carrying_You_Home.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>53</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260712-carrying-you-home/20260712_Carrying_You_Home.JPG"/>
+      <link>https://archive.org/details/20260712-carrying-you-home</link>
+      <guid>https://archive.org/details/20260712-carrying-you-home</guid>
+  </item>
+	  
+  <item>
+      <title>Press Between Pages</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260706-press-between-pages/20260706_Press_Between_Pages.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 6 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>24</itunes:season>
+      <itunes:episode>52</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260706-press-between-pages/20260706_Press_Between_Pages.JPG"/>
+      <link>https://archive.org/details/20260706-press-between-pages</link>
+      <guid>https://archive.org/details/20260706-press-between-pages</guid>
+  </item>
+	  
+  <item>
       <title>N O A H</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260705-n-o-a-h/20260705_N_O_A_H.mp3" type="audio/mpeg" length="12345"/>
