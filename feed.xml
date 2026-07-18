@@ -21,16 +21,16 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
-      <title>Press Between Pages</title>
+      <title>Memphis</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
-      <enclosure url="https://archive.org/download/20260706-press-between-pages/20260706_Press_Between_Pages.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 7 Jul 2026 12:00:00 +0000</pubDate>
-      <itunes:season>24</itunes:season>
-      <itunes:episode>52</itunes:episode>
+      <enclosure url="https://archive.org/download/20270718-memphis/20270718_Memphis.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 18 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:author>Jessica Ciencin Henriquez</itunes:author>
-      <itunes:image href="https://archive.org/download/20260706-press-between-pages/20260706_Press_Between_Pages.JPG"/>
-      <link>https://archive.org/details/20260706-press-between-pages</link>
-      <guid>https://archive.org/details/20260706-press-between-pages</guid>
+      <itunes:image href="https://archive.org/download/20270718-memphis/20270718_Memphis.JPG"/>
+      <link>https://archive.org/details/20270718-memphis</link>
+      <guid>https://archive.org/details/20270718-memphis</guid>
   </item>	
 
   <item>
