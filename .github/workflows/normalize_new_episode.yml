@@ -85,16 +85,14 @@ jobs:
               | awk '{print $NF}')
             echo "Current LUFS: $LUFS"
 
-            # Skip if already within 0.5 LUFS of target
-            NEEDS_NORM=$(python3 -c "
-lufs = float('$LUFS') if '$LUFS' else None
-if lufs is None:
-    print('yes')
-elif abs(lufs - (-16.0)) <= 0.5:
-    print('no')
-else:
-    print('yes')
-")
+            # Skip if already within 0.5 LUFS of target (-16.5 to -15.5)
+            NEEDS_NORM="yes"
+            if [ -n "$LUFS" ]; then
+              LUFS_INT=$(echo "$LUFS" | awk '{printf "%d", $1 * 10}')
+              if [ "$LUFS_INT" -ge -165 ] && [ "$LUFS_INT" -le -155 ]; then
+                NEEDS_NORM="no"
+              fi
+            fi
 
             if [ "$NEEDS_NORM" = "no" ]; then
               echo "Already at -16 LUFS. Skipping."
