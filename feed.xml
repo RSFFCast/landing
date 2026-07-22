@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>A Meeting</title>
+      <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
+      <enclosure url="https://archive.org/download/20260722-a-meeting/20260722_A_Meeting.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Jessica Ciencin Henriquez</itunes:author>
+      <itunes:image href="https://archive.org/download/20260722-a-meeting/20260722_A_Meeting.JPG"/>
+      <link>https://archive.org/details/20260722-a-meeting</link>
+      <guid>https://archive.org/details/20260722-a-meeting</guid>
+  </item>		
+	
+  <item>
       <title>Joy and Regret</title>
       <description>by Jessica Ciencin Henriquez in Burn After Reading</description>
       <enclosure url="https://archive.org/download/20260721-joy-and-regret/20260721_Joy_and_Regret.mp3" type="audio/mpeg" length="12345"/>
