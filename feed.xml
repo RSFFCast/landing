@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>The Face of Sorrow</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260723-the-face-of-sorrow/20260723_The_Face_of_Sorrow.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260723-the-face-of-sorrow/20260723_The_Face_of_Sorrow.JPG"/>
+      <link>https://archive.org/details/20260723-the-face-of-sorrow</link>
+      <guid>https://archive.org/details/20260723-the-face-of-sorrow</guid>
+  </item>			
+	
+  <item>
       <title>A Meeting</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260722-a-meeting/20260722_A_Meeting.mp3" type="audio/mpeg" length="12345"/>
