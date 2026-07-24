@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Horoscope</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260724-horoscope/20260724_Horoscope.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260724-horoscope/20260724_Horoscope.JPG"/>
+      <link>https://archive.org/details/20260724-horoscope</link>
+      <guid>https://archive.org/details/20260724-horoscope</guid>
+  </item>	
+	
+  <item>
       <title>The Face of Sorrow</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260723-the-face-of-sorrow/20260723_The_Face_of_Sorrow.mp3" type="audio/mpeg" length="12345"/>
