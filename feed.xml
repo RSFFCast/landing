@@ -21,6 +21,45 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Tracey</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260727-tracey/20260727_Tracey.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260727-tracey/20260727_Tracey.JPG"/>
+      <link>https://archive.org/details/20260727-tracey</link>
+      <guid>https://archive.org/details/20260727-tracey</guid>
+  </item>		
+	
+  <item>
+      <title>In the Heavens</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260726-in-the-heavens/20260726_In_the_Heavens.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 26 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260726-in-the-heavens/20260726_In_the_Heavens.jpg"/>
+      <link>https://archive.org/details/20260726-in-the-heavens</link>
+      <guid>https://archive.org/details/20260726-in-the-heavens</guid>
+  </item>		
+	
+  <item>
+      <title>I Used to Sing This Song</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260725-i-used-to-sing-this-song/20260725_I_Used_to_Sing_This_Song.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 25 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260725-i-used-to-sing-this-song/20260725_I_Used_to_Sing_This_Song.JPG"/>
+      <link>https://archive.org/details/20260725-i-used-to-sing-this-song</link>
+      <guid>https://archive.org/details/20260725-i-used-to-sing-this-song</guid>
+  </item>	
+	
+  <item>
       <title>Horoscope</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260724-horoscope/20260724_Horoscope.mp3" type="audio/mpeg" length="12345"/>
