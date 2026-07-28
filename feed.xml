@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>When You Were Alive</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260728-when-you-were-alive/20260728_When_You_Were_Alive.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260728-when-you-were-alive/20260728_When_You_Were_Alive.JPG"/>
+      <link>https://archive.org/details/20260728-when-you-were-alive</link>
+      <guid>https://archive.org/details/20260728-when-you-were-alive</guid>
+  </item>		
+	
+  <item>
       <title>Tracey</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260727-tracey/20260727_Tracey.mp3" type="audio/mpeg" length="12345"/>
