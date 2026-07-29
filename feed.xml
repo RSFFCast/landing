@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>At the Funeral</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260729-at-the-funeral/20260729_At_the_Funeral.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260729-at-the-funeral/20260729_At_the_Funeral.JPG"/>
+      <link>https://archive.org/details/20260729-at-the-funeral</link>
+      <guid>https://archive.org/details/20260729-at-the-funeral</guid>
+  </item>		
+	
+  <item>
       <title>When You Were Alive</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260728-when-you-were-alive/20260728_When_You_Were_Alive.mp3" type="audio/mpeg" length="12345"/>
