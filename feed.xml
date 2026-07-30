@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>This Time</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260730-this-time/20260730_This_Time.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260730-this-time/20260730_This_Time.JPG"/>
+      <link>https://archive.org/details/20260730-this-time</link>
+      <guid>https://archive.org/details/20260730-this-time</guid>
+  </item>		
+	
+  <item>
       <title>At the Funeral</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260729-at-the-funeral/20260729_At_the_Funeral.mp3" type="audio/mpeg" length="12345"/>
