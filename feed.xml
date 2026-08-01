@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Return</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260801-return" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 1 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260801-return/20260801_Return.JPG"/>
+      <link>https://archive.org/details/20260801-return</link>
+      <guid>https://archive.org/details/20260801-return</guid>
+  </item>		
+	
+  <item>
       <title>It Didn’t Last</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260731-it-didnt-last/20260731_It_Didn%E2%80%99t_Last.mp3" type="audio/mpeg" length="12345"/>
