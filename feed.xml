@@ -21,9 +21,22 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Ghost Dance</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260802-ghost-dance/20260802_Ghost_Dance.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 2 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260802-ghost-dance/20260802_Ghost_Dance.JPG"/>
+      <link>https://archive.org/details/20260802-ghost-dance</link>
+      <guid>https://archive.org/details/20260802-ghost-dance</guid>
+  </item>		
+	
+  <item>
       <title>Return</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
-      <enclosure url="https://archive.org/download/20260801-return" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20260801-return/20260801_Return.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 1 Aug 2026 12:00:00 +0000</pubDate>
       <itunes:season>25</itunes:season>
       <itunes:episode>18</itunes:episode>
