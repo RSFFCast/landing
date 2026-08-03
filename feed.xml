@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Thirteen Lines</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260803-thirteen-lines/20260803_Thirteen_Lines.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 3 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260803-thirteen-lines/20260803_Thirteen_Lines.JPG"/>
+      <link>https://archive.org/details/20260803-thirteen-lines</link>
+      <guid>https://archive.org/details/20260803-thirteen-lines</guid>
+  </item>		
+	
+  <item>
       <title>Ghost Dance</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260802-ghost-dance/20260802_Ghost_Dance.mp3" type="audio/mpeg" length="12345"/>
