@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Country of Hope</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260804-country-of-hope/20260804_Country_of_Hope.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 4 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260804-country-of-hope/20260804_Country_of_Hope.JPG"/>
+      <link>https://archive.org/details/20260804-country-of-hope</link>
+      <guid>https://archive.org/details/20260804-country-of-hope</guid>
+  </item>	
+	
+  <item>
       <title>Thirteen Lines</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260803-thirteen-lines/20260803_Thirteen_Lines.mp3" type="audio/mpeg" length="12345"/>
