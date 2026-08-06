@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Fate</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260806-fate/20260806_Fate.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 6 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260806-fate/20260806_Fate.JPG"/>
+      <link>https://archive.org/details/20260806-fate</link>
+      <guid>https://archive.org/details/20260806-fate</guid>
+  </item>	
+  
+  <item>
+      <title>Above the Labyrinth</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260805-above-the-labrynth/20260805_Above_the_Labrynth.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 5 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260805-above-the-labrynth/20260805_Above_the_Labrynth.JPG"/>
+      <link>https://archive.org/details/20260805-above-the-labrynth</link>
+      <guid>https://archive.org/details/20260805-above-the-labrynth</guid>
+  </item>	 
+	
+  <item>
       <title>Country of Hope</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260804-country-of-hope/20260804_Country_of_Hope.mp3" type="audio/mpeg" length="12345"/>
