@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Dancing</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260807-dancing/20260807_Dancing.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 7 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260807-dancing/20260807_Dancing.JPG"/>
+      <link>https://archive.org/details/20260807-dancing</link>
+      <guid>https://archive.org/details/20260807-dancing</guid>
+  </item>		
+	
+  <item>
       <title>Fate</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260806-fate/20260806_Fate.mp3" type="audio/mpeg" length="12345"/>
