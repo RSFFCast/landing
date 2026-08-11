@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Cave</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260811-cave/20260811_Cave.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260811-cave/20260811_Cave.JPG"/>
+      <link>https://archive.org/details/20260811-cave</link>
+      <guid>https://archive.org/details/20260811-cave</guid>
+  </item>	
+	
+  <item>
       <title>Six</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260810-six/20260810_Six.mp3" type="audio/mpeg" length="12345"/>
