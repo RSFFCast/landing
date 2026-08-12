@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Rorschach</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260812-rorschach/20260812_Rorschach.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260812-rorschach/20260812_Rorschach.JPG"/>
+      <link>https://archive.org/details/20260812-rorschach</link>
+      <guid>https://archive.org/details/20260812-rorschach</guid>
+  </item>		
+	
+  <item>
       <title>Cave</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260811-cave/20260811_Cave.mp3" type="audio/mpeg" length="12345"/>
