@@ -21,6 +21,45 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>What I Cannot Forget</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260820-what-i-cannot-forget/20260820_What_I_Cannot_Forget.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260820-what-i-cannot-forget/20260820_What_I_Cannot_Forget.JPG"/>
+      <link>https://archive.org/details/20260820-what-i-cannot-forget</link>
+      <guid>https://archive.org/details/20260820-what-i-cannot-forget</guid>
+  </item>		
+	
+  <item>
+      <title>Archeology and Paleontology</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260819-archeology-and-paleontology/20260819_Archeology_and_Paleontology.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260819-archeology-and-paleontology/20260819_Archeology_and_Paleontology.JPG"/>
+      <link>https://archive.org/details/20260819-archeology-and-paleontology</link>
+      <guid>https://archive.org/details/20260819-archeology-and-paleontology</guid>
+  </item>		
+	
+  <item>
+      <title>Thanksgiving</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260817-thanksgiving/20260817_Thanksgiving.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260817-thanksgiving/20260817_Thanksgiving.JPG"/>
+      <link>https://archive.org/details/20260817-thanksgiving</link>
+      <guid>https://archive.org/details/20260817-thanksgiving</guid>
+  </item>	
+	
+  <item>
       <title>Traveling</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260816-traveling/20260816_Traveling.mp3" type="audio/mpeg" length="12345"/>
