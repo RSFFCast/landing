@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Watching</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260821-watching/20260821_Watching.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260821-watching/20260821_Watching.JPG"/>
+      <link>https://archive.org/details/20260821-watching</link>
+      <guid>https://archive.org/details/20260821-watching</guid>
+  </item>		
+	
+  <item>
       <title>What I Cannot Forget</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260820-what-i-cannot-forget/20260820_What_I_Cannot_Forget.mp3" type="audio/mpeg" length="12345"/>
