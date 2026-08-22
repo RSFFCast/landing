@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>You</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260822-you/20260822_You.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260822-you/20260822_You.JPG"/>
+      <link>https://archive.org/details/20260822-you</link>
+      <guid>https://archive.org/details/20260822-you</guid>
+  </item>		
+	
+  <item>
       <title>Watching</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260821-watching/20260821_Watching.mp3" type="audio/mpeg" length="12345"/>
