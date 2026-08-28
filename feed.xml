@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Your Train</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260828-your-train/20260828_Your_Train.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260828-your-train/20260828_Your_Train.JPG"/>
+      <link>https://archive.org/details/20260828-your-train</link>
+      <guid>https://archive.org/details/20260828-your-train</guid>
+  </item>		
+	
+  <item>
       <title>Watch</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260827-watch/20260827_Watch.mp3" type="audio/mpeg" length="12345"/>
