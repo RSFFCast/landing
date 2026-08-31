@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>A Little House</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260831-a-little-house/20260831_A_Little_House.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260831-a-little-house/20260831_A_Little_House.JPG"/>
+      <link>https://archive.org/details/20260831-a-little-house</link>
+      <guid>https://archive.org/details/20260831-a-little-house</guid>
+  </item>		
+	
+  <item>
       <title>Two Ships</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260830-two-ships/20260830_Two_Ships.mp3" type="audio/mpeg" length="12345"/>
