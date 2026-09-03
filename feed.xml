@@ -21,16 +21,29 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>In My Next Life</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260901-in-my-next-life/20260901_In_My_Next_Life.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 1 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260901-in-my-next-life/20260901_In_My_Next_Life.JPG"/>
+      <link>https://archive.org/details/20260901-in-my-next-life</link>
+      <guid>https://archive.org/details/20260901-in-my-next-life</guid>
+  </item>		
+	
+  <item>
       <title>A Little House</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
-      <enclosure url="https://archive.org/download/20260831-a-little-house/20260831_A_Little_House.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20260831-a-little-house_202609/20260831_A_Little_House.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
       <itunes:season>25</itunes:season>
       <itunes:episode>45</itunes:episode>
       <itunes:author>Edward Pittman</itunes:author>
-      <itunes:image href="https://archive.org/download/20260831-a-little-house/20260831_A_Little_House.JPG"/>
-      <link>https://archive.org/details/20260831-a-little-house</link>
-      <guid>https://archive.org/details/20260831-a-little-house</guid>
+      <itunes:image href="https://archive.org/download/20260831-a-little-house_202609/20260831_A_Little_House.JPG"/>
+      <link>https://archive.org/details/20260831-a-little-house_202609</link>
+      <guid>https://archive.org/details/20260831-a-little-house_202609</guid>
   </item>		
 	
   <item>
