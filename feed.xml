@@ -21,6 +21,45 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>On the Cusp of Summer </title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260904-on-the-cusp-of-summer/20260904_On_the_Cusp_of_Summer.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 4 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260904-on-the-cusp-of-summer/20260904_On_the_Cusp_of_Summer.JPG"/>
+      <link>https://archive.org/details/20260904-on-the-cusp-of-summer</link>
+      <guid>https://archive.org/details/20260904-on-the-cusp-of-summer</guid>
+  </item>		
+	
+  <item>
+      <title>Until I Met You</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260903-until-i-met-you/20260903_Until_I_Met_You.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 3 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260903-until-i-met-you/20260903_Until_I_Met_You.JPG"/>
+      <link>https://archive.org/details/20260903-until-i-met-you</link>
+      <guid>https://archive.org/details/20260903-until-i-met-you</guid>
+  </item>		
+	
+  <item>
+      <title>Parade</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260902-parade/20260902_Parade.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 2 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260902-parade/20260902_Parade.JPG"/>
+      <link>https://archive.org/details/20260902-parade</link>
+      <guid>https://archive.org/details/20260902-parade</guid>
+  </item>	
+	
+  <item>
       <title>In My Next Life</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260901-in-my-next-life/20260901_In_My_Next_Life.mp3" type="audio/mpeg" length="12345"/>
