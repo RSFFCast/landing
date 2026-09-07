@@ -21,7 +21,46 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
-      <title>On the Cusp of Summer </title>
+      <title>Magic</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260907-magic/20260907_Magic.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 7 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>52</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260907-magic/20260907_Magic.JPG"/>
+      <link>https://archive.org/details/20260907-magic</link>
+      <guid>https://archive.org/details/20260907-magic</guid>
+  </item>		
+	
+  <item>
+      <title>Hotel Drama</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260906-hotel-drama/20260906_Hotel_Drama.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 6 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>51</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260906-hotel-drama/20260906_Hotel_Drama.JPG"/>
+      <link>https://archive.org/details/20260906-hotel-drama</link>
+      <guid>https://archive.org/details/20260906-hotel-drama</guid>
+  </item>		
+	
+  <item>
+      <title>In a Forest</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260905-in-a-forest/20260905_In_a_Forest.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 5 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260905-in-a-forest/20260905_In_a_Forest.JPG"/>
+      <link>https://archive.org/details/20260905-in-a-forest</link>
+      <guid>https://archive.org/details/20260905-in-a-forest</guid>
+  </item>		
+	
+  <item>
+      <title>On the Cusp of Summer</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260904-on-the-cusp-of-summer/20260904_On_the_Cusp_of_Summer.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 4 Sep 2026 12:00:00 +0000</pubDate>
