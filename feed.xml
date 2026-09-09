@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>When Mysteries Deepen</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260909-when-mysteries-deepen/20260909_When_Mysteries_Deepen.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 9 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>54</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260909-when-mysteries-deepen/20260909_When_Mysteries_Deepen.JPG"/>
+      <link>https://archive.org/details/20260909-when-mysteries-deepen</link>
+      <guid>https://archive.org/details/20260909-when-mysteries-deepen</guid>
+  </item>		
+	
+  <item>
       <title>Our Neighborhood</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260908-our-neighborhood/20260908_Our_Neighborhood.mp3" type="audio/mpeg" length="12345"/>
