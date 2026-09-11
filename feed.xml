@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Your Well</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260911-your-well/20260911_Your_Well.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>56</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260911-your-well/20260911_Your_Well.JPG"/>
+      <link>https://archive.org/details/20260911-your-well</link>
+      <guid>https://archive.org/details/20260911-your-well</guid>
+  </item>	
+	
+  <item>
       <title>Line of Sight</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260910-line-of-sight/20260910_Line_of_Sight.mp3" type="audio/mpeg" length="12345"/>
