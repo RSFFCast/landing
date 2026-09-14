@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Sammie</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260914-sammie/20260914_Sammie.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>59</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260914-sammie/20260914_Sammie.JPG"/>
+      <link>https://archive.org/details/20260914-sammie</link>
+      <guid>https://archive.org/details/20260914-sammie</guid>
+  </item>	
+	
+  <item>
+      <title>Going Home</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260913-going-home/20260913_Going_Home.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>58</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260913-going-home/20260913_Going_Home.JPG"/>
+      <link>https://archive.org/details/20260913-going-home</link>
+      <guid>https://archive.org/details/20260913-going-home</guid>
+  </item>		
+	
+  <item>
       <title>Carpentry</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260912-carpentry/20260912_Carpentry.mp3" type="audio/mpeg" length="12345"/>
