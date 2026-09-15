@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Life in the Rain</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260915-life-in-the-rain/20260915_Life_in_the_Rain.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>60</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260915-life-in-the-rain/20260915_Life_in_the_Rain.JPG"/>
+      <link>https://archive.org/details/20260915-life-in-the-rain</link>
+      <guid>https://archive.org/details/20260915-life-in-the-rain</guid>
+  </item>	
+	
+  <item>
       <title>Sammie</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260914-sammie/20260914_Sammie.mp3" type="audio/mpeg" length="12345"/>
