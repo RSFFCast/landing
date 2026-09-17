@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Things Lost and Forgotten</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260917-things-lost-and-forgotten/20260917_Things_Lost_and_Forgotten.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>62</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260917-things-lost-and-forgotten/20260917_Things_Lost_and_Forgotten.JPG"/>
+      <link>https://archive.org/details/20260917-things-lost-and-forgotten</link>
+      <guid>https://archive.org/details/20260917-things-lost-and-forgotten</guid>
+  </item>	
+	
+  <item>
       <title>These Trailing Years</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260916-these-trailing-years/20260916_These_Trailing_Years.mp3" type="audio/mpeg" length="12345"/>
