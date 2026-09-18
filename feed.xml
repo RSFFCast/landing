@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>The Magicians of this Age</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260918-the-magicians-of-this-age/20260918_The_Magicians_of_this_Age.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>63</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260918-the-magicians-of-this-age/20260918_The_Magicians_of_this_Age.JPG"/>
+      <link>https://archive.org/details/20260918-the-magicians-of-this-age</link>
+      <guid>https://archive.org/details/20260918-the-magicians-of-this-age</guid>
+  </item>		
+	
+  <item>
       <title>Things Lost and Forgotten</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260917-things-lost-and-forgotten/20260917_Things_Lost_and_Forgotten.mp3" type="audio/mpeg" length="12345"/>
