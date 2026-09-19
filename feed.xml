@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>I’ll See It Again</title>
+      <description>by Edward Pittman in Tell Me How You Are</description>
+      <enclosure url="https://archive.org/download/20260919-ill-see-it-again/20260919_I%E2%80%99ll_See_It_Again.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 18 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>25</itunes:season>
+      <itunes:episode>64</itunes:episode>
+      <itunes:author>Edward Pittman</itunes:author>
+      <itunes:image href="https://archive.org/download/20260919-ill-see-it-again/20260919_I%E2%80%99ll_See_It_Again.JPG"/>
+      <link>https://archive.org/details/20260919-ill-see-it-again</link>
+      <guid>https://archive.org/details/20260919-ill-see-it-again</guid>
+  </item>		
+	
+  <item>
       <title>The Magicians of this Age</title>
       <description>by Edward Pittman in Tell Me How You Are</description>
       <enclosure url="https://archive.org/download/20260918-the-magicians-of-this-age/20260918_The_Magicians_of_this_Age.mp3" type="audio/mpeg" length="12345"/>
