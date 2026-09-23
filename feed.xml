@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Blue Light Tones</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20260923-blue-light-tones/20260923_Blue_Light_Tones.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20260923-blue-light-tones/20260923_Blue_Light_Tones.JPG"/>
+      <link>https://archive.org/details/20260923-blue-light-tones</link>
+      <guid>https://archive.org/details/20260923-blue-light-tones</guid>
+  </item>	
+	
+  <item>
       <title>Benign</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20260922-benign/20260922_Benign.mp3" type="audio/mpeg" length="12345"/>
