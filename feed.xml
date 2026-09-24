@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>From Colorado to New York, 1971</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20260923-blue-light-tones/20260923_Blue_Light_Tones.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20260924-from-colorado-to-new-york-1971/20260924_From_Colorado_to_New_York_1971.JPG"/>
+      <link>https://archive.org/details/20260924-from-colorado-to-new-york-1971</link>
+      <guid>https://archive.org/details/20260924-from-colorado-to-new-york-1971</guid>
+  </item>		
+	
+  <item>
       <title>Blue Light Tones</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20260923-blue-light-tones/20260923_Blue_Light_Tones.mp3" type="audio/mpeg" length="12345"/>
