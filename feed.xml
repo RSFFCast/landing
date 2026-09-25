@@ -21,9 +21,22 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Halibut Point</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20260925-halibut-point/20260925_Halibut_Point.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20260925-halibut-point/20260925_Halibut_Point.JPG"/>
+      <link>https://archive.org/details/20260925-halibut-point</link>
+      <guid>https://archive.org/details/20260925-halibut-point</guid>
+  </item>	
+	
+  <item>
       <title>From Colorado to New York, 1971</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
-      <enclosure url="https://archive.org/download/20260923-blue-light-tones/20260923_Blue_Light_Tones.mp3" type="audio/mpeg" length="12345"/>
+      <enclosure url="https://archive.org/download/20260924-from-colorado-to-new-york-1971/20260924_From_Colorado_to_New_York_1971.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
       <itunes:season>26</itunes:season>
       <itunes:episode>4</itunes:episode>
