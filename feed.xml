@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Highlights Before Dinner</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20260926-highlights-before-dinner/20260926_Highlights_Before_Dinner.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20260926-highlights-before-dinner/20260926_Highlights_Before_Dinner.JPG"/>
+      <link>https://archive.org/details/20260926-highlights-before-dinner</link>
+      <guid>https://archive.org/details/20260926-highlights-before-dinner</guid>
+  </item>		
+	
+  <item>
       <title>Halibut Point</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20260925-halibut-point/20260925_Halibut_Point.mp3" type="audio/mpeg" length="12345"/>
