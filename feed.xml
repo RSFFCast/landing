@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Miscarriage</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20260928-miscarriage/20260928_Miscarriage.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20260928-miscarriage/20260928_Miscarriage.JPG"/>
+      <link>https://archive.org/details/20260928-miscarriage</link>
+      <guid>https://archive.org/details/20260928-miscarriage</guid>
+  </item>	
+	
+  <item>
+      <title>In Sequence</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20260927-in-sequence/20260927_In_Sequence.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 27 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20260927-in-sequence/20260927_In_Sequence.JPG"/>
+      <link>https://archive.org/details/20260927-in-sequence</link>
+      <guid>https://archive.org/details/20260927-in-sequence</guid>
+  </item>		
+	
+  <item>
       <title>Highlights Before Dinner</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20260926-highlights-before-dinner/20260926_Highlights_Before_Dinner.mp3" type="audio/mpeg" length="12345"/>
