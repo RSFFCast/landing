@@ -21,10 +21,23 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Renovation</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261001-renovation/20261001_Renovation.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 1 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261001-renovation/20261001_Renovation.JPG"/>
+      <link>https://archive.org/details/20261001-renovation</link>
+      <guid>https://archive.org/details/20261001-renovation</guid>
+  </item>		
+	
+  <item>
       <title>My Story Is This</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20260930-my-story-is-this/20260930_My_Story_Is_This.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Wed, 40 Sep 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
       <itunes:season>26</itunes:season>
       <itunes:episode>10</itunes:episode>
       <itunes:author>Gayle Lauradunn</itunes:author>
