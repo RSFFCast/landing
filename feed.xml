@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>The Study</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261002-the-study/20261002_The_Study.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 2 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261002-the-study/20261002_The_Study.JPG"/>
+      <link>https://archive.org/details/20261002-the-study</link>
+      <guid>https://archive.org/details/20261002-the-study</guid>
+  </item>		
+	
+  <item>
       <title>Renovation</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261001-renovation/20261001_Renovation.mp3" type="audio/mpeg" length="12345"/>
