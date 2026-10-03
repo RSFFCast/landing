@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Going Away</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261003-going-away/20261003_Going_Away.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 3 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261003-going-away/20261003_Going_Away.JPG"/>
+      <link>https://archive.org/details/20261003-going-away</link>
+      <guid>https://archive.org/details/20261003-going-away</guid>
+  </item>		
+	
+  <item>
       <title>The Study</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261002-the-study/20261002_The_Study.mp3" type="audio/mpeg" length="12345"/>
