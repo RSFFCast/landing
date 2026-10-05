@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Unison-call</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261005-unison-call/20261005_Unison-call.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 5 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261005-unison-call/20261005_Unison-call.JPG"/>
+      <link>https://archive.org/details/20261005-unison-call</link>
+      <guid>https://archive.org/details/20261005-unison-call</guid>
+  </item>		
+	
+  <item>
+      <title>Bustle-up</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261004-bustle-up/20261004_Bustle-up.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 4 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261004-bustle-up/20261004_Bustle-up.JPG"/>
+      <link>https://archive.org/details/20261004-bustle-up</link>
+      <guid>https://archive.org/details/20261004-bustle-up</guid>
+  </item>		
+	
+  <item>
       <title>Going Away</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261003-going-away/20261003_Going_Away.mp3" type="audio/mpeg" length="12345"/>
