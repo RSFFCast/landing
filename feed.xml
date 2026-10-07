@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Preference</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261007-preference/20261007_Preference.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 7 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261007-preference/20261007_Preference.JPG"/>
+      <link>https://archive.org/details/20261007-preference</link>
+      <guid>https://archive.org/details/20261007-preference</guid>
+  </item>		
+	
+  <item>
       <title>Piecing Together</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261006-piecing-together/20261006_Piecing_Together.mp3" type="audio/mpeg" length="12345"/>
