@@ -21,12 +21,25 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Booby No. 2</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261011-booby-no.-2/20261011_Booby_No._2.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261011-booby-no.-2/20261011_Booby_No._2.JPG"/>
+      <link>https://archive.org/details/20261011-booby-no.-2</link>
+      <guid>https://archive.org/details/20261011-booby-no.-2</guid>
+  </item>		
+	
+  <item>
       <title>Again, the Sahara</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261010-again-the-sahara/20261010_Again_the_Sahara.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
       <itunes:season>26</itunes:season>
-      <itunes:episode>30</itunes:episode>
+      <itunes:episode>20</itunes:episode>
       <itunes:author>Gayle Lauradunn</itunes:author>
       <itunes:image href="https://archive.org/download/20261010-again-the-sahara/20261010_Again_the_Sahara.JPG"/>
       <link>https://archive.org/details/20261010-again-the-sahara</link>
@@ -39,7 +52,7 @@
       <enclosure url="https://archive.org/download/20261009-tussle/20261009_Tussle.mp3" type="audio/mpeg" length="12345"/>
       <pubDate>Fri, 9 Oct 2026 12:00:00 +0000</pubDate>
       <itunes:season>26</itunes:season>
-      <itunes:episode>29</itunes:episode>
+      <itunes:episode>19</itunes:episode>
       <itunes:author>Gayle Lauradunn</itunes:author>
       <itunes:image href="https://archive.org/download/20261009-tussle/20261009_Tussle.JPG"/>
       <link>https://archive.org/details/20261009-tussle</link>
