@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Catch of Breath</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261012-catch-of-breath/20261012_Catch_of_Breath.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261012-catch-of-breath/20261012_Catch_of_Breath.JPG"/>
+      <link>https://archive.org/details/20261012-catch-of-breath</link>
+      <guid>https://archive.org/details/20261012-catch-of-breath</guid>
+  </item>		
+	
+  <item>
       <title>Booby No. 2</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261011-booby-no.-2/20261011_Booby_No._2.mp3" type="audio/mpeg" length="12345"/>
