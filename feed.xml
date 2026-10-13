@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>The Way You Do Things</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261013-the-way-you-do-things/20261013_The_Way_You_Do_Things.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261013-the-way-you-do-things/20261013_The_Way_You_Do_Things.JPG"/>
+      <link>https://archive.org/details/20261013-the-way-you-do-things</link>
+      <guid>https://archive.org/details/20261013-the-way-you-do-things</guid>
+  </item>		
+	
+  <item>
       <title>Catch of Breath</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261012-catch-of-breath/20261012_Catch_of_Breath.mp3" type="audio/mpeg" length="12345"/>
