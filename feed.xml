@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Saturday Night</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261015-saturday-night/20261015_Saturday_Night.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261015-saturday-night/20261015_Saturday_Night.JPG"/>
+      <link>https://archive.org/details/20261015-saturday-night</link>
+      <guid>https://archive.org/details/20261015-saturday-night</guid>
+  </item>		
+	
+  <item>
+      <title>Geography</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261014-geography/20261014_Geography.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261014-geography/20261014_Geography.JPG"/>
+      <link>https://archive.org/details/20261014-geography</link>
+      <guid>https://archive.org/details/20261014-geography</guid>
+  </item>		
+	
+  <item>
       <title>The Way You Do Things</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261013-the-way-you-do-things/20261013_The_Way_You_Do_Things.mp3" type="audio/mpeg" length="12345"/>
