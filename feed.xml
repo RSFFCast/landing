@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Open to Mutation</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261017-open-to-mutation/20261017_Open_to_Mutation.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261017-open-to-mutation/20261017_Open_to_Mutation.JPG"/>
+      <link>https://archive.org/details/20261017-open-to-mutation</link>
+      <guid>https://archive.org/details/20261017-open-to-mutation</guid>
+  </item>		
+	
+  <item>
+      <title>Kitchen</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261016-kitchen/20261016_Kitchen.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261016-kitchen/20261016_Kitchen.JPG"/>
+      <link>https://archive.org/details/20261016-kitchen</link>
+      <guid>https://archive.org/details/20261016-kitchen</guid>
+  </item>		
+	
+  <item>
       <title>Saturday Night</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261015-saturday-night/20261015_Saturday_Night.mp3" type="audio/mpeg" length="12345"/>
