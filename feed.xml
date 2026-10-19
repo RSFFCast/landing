@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>One</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261019-one/20261019_One.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261019-one/20261019_One.JPG"/>
+      <link>https://archive.org/details/20261019-one</link>
+      <guid>https://archive.org/details/20261019-one</guid>
+  </item>		
+	
+  <item>
       <title>Open to Mutation</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261017-open-to-mutation/20261017_Open_to_Mutation.mp3" type="audio/mpeg" length="12345"/>
