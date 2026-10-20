@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>She Was Who She Is</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261020-she-was-who-she-is/20261020_She_Was_Who_She_Is.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261020-she-was-who-she-is/20261020_She_Was_Who_She_Is.JPG"/>
+      <link>https://archive.org/details/20261020-she-was-who-she-is</link>
+      <guid>https://archive.org/details/20261020-she-was-who-she-is</guid>
+  </item>		
+	
+  <item>
       <title>One</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261019-one/20261019_One.mp3" type="audio/mpeg" length="12345"/>
