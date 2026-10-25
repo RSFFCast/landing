@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>"…what’s past is prologue" - The Tempest</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261025-whats-past-the-prologue/20261025_whats_past_the_prologue.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261025-whats-past-the-prologue/20261025_whats_past_the_prologue.JPG"/>
+      <link>https://archive.org/details/20261025-whats-past-the-prologue</link>
+      <guid>https://archive.org/details/20261025-whats-past-the-prologue</guid>
+  </item>		
+	
+  <item>
       <title>Tools</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261024-tools/20261024_Tools.mp3" type="audio/mpeg" length="12345"/>
