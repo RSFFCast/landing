@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>On the Train</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261026-on-the-train/20261026_On_the_Train.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261026-on-the-train/20261026_On_the_Train.JPG"/>
+      <link>https://archive.org/details/20261026-on-the-train</link>
+      <guid>https://archive.org/details/20261026-on-the-train</guid>
+  </item>		
+	
+  <item>
       <title>"…what’s past is prologue" - The Tempest</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261025-whats-past-the-prologue/20261025_whats_past_the_prologue.mp3" type="audio/mpeg" length="12345"/>
