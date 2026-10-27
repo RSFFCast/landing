@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Promises</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261027-promises/20261027_Promises.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/details/20261027-promises"/>
+      <link>https://archive.org/details/20261027-promises</link>
+      <guid>https://archive.org/details/20261027-promises</guid>
+  </item>		
+	
+  <item>
       <title>On the Train</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261026-on-the-train/20261026_On_the_Train.mp3" type="audio/mpeg" length="12345"/>
