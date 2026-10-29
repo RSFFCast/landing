@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Six Months That Was A Summer</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261029-six-months-that-was-a-summer/20261029_Six_Months_That_Was_A_Summer.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261029-six-months-that-was-a-summer/20261029_Six_Months_That_Was_A_Summer.JPG"/>
+      <link>https://archive.org/details/20261029-six-months-that-was-a-summer</link>
+      <guid>https://archive.org/details/20261029-six-months-that-was-a-summer</guid>
+  </item>		
+	
+  <item>
+      <title>Pronoun Envy</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261028-pronoun-envy/20261028_Pronoun_Envy.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261028-pronoun-envy/20261028_Pronoun_Envy.JPG"/>
+      <link>https://archive.org/details/20261028-pronoun-envy</link>
+      <guid>https://archive.org/details/20261028-pronoun-envy</guid>
+  </item>	
+	
+  <item>
       <title>Promises</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261027-promises/20261027_Promises.mp3" type="audio/mpeg" length="12345"/>
@@ -28,7 +54,7 @@
       <itunes:season>26</itunes:season>
       <itunes:episode>36</itunes:episode>
       <itunes:author>Gayle Lauradunn</itunes:author>
-      <itunes:image href="https://archive.org/details/20261027-promises"/>
+      <itunes:image href="https://archive.org/download/20261027-promises/20261027_Promises.JPG"/>
       <link>https://archive.org/details/20261027-promises</link>
       <guid>https://archive.org/details/20261027-promises</guid>
   </item>		
