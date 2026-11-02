@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Driving to Deming</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261102-driving-to-deming/20261102_Driving_to_Deming.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 2 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261102-driving-to-deming/20261102_Driving_to_Deming.JPG"/>
+      <link>https://archive.org/details/20261102-driving-to-deming</link>
+      <guid>https://archive.org/details/20261102-driving-to-deming</guid>
+  </item>		
+	
+  <item>
       <title>Dancing at Midnight</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261101-dancing-at-midnight/20261101_Dancing_at_Midnight.mp3" type="audio/mpeg" length="12345"/>
