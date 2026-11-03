@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>In Alaska…</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261103-in-alaska..../20261103_In_Alaska%E2%80%A6..mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 3 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261103-in-alaska..../20261103_In_Alaska%E2%80%A6.JPG"/>
+      <link>https://archive.org/details/20261103-in-alaska....</link>
+      <guid>https://archive.org/details/20261103-in-alaska....</guid>
+  </item>		
+	
+  <item>
       <title>Driving to Deming</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261102-driving-to-deming/20261102_Driving_to_Deming.mp3" type="audio/mpeg" length="12345"/>
