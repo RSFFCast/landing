@@ -21,10 +21,23 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>It Happened Back Then</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261105-it-happened-back-then/20261105_It_Happened_Back_Then.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 5 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261105-it-happened-back-then/20261105_It_Happened_Back_Then.JPG"/>
+      <link>https://archive.org/details/20261105-it-happened-back-then</link>
+      <guid>https://archive.org/details/20261105-it-happened-back-then</guid>
+  </item>		
+	
+  <item>
       <title>Gardening</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261104-gardening/20261104_Gardening.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Thu, 4 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 4 Nov 2026 12:00:00 +0000</pubDate>
       <itunes:season>26</itunes:season>
       <itunes:episode>44</itunes:episode>
       <itunes:author>Gayle Lauradunn</itunes:author>
@@ -37,7 +50,7 @@
       <title>In Alaska…</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261103-in-alaska..../20261103_In_Alaska%E2%80%A6..mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Wed, 3 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 3 Nov 2026 12:00:00 +0000</pubDate>
       <itunes:season>26</itunes:season>
       <itunes:episode>43</itunes:episode>
       <itunes:author>Gayle Lauradunn</itunes:author>
@@ -50,7 +63,7 @@
       <title>Driving to Deming</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261102-driving-to-deming/20261102_Driving_to_Deming.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Tue, 2 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 2 Nov 2026 12:00:00 +0000</pubDate>
       <itunes:season>26</itunes:season>
       <itunes:episode>42</itunes:episode>
       <itunes:author>Gayle Lauradunn</itunes:author>
@@ -63,7 +76,7 @@
       <title>Dancing at Midnight</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261101-dancing-at-midnight/20261101_Dancing_at_Midnight.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Mon, 1 Nov 2026 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 1 Nov 2026 12:00:00 +0000</pubDate>
       <itunes:season>26</itunes:season>
       <itunes:episode>41</itunes:episode>
       <itunes:author>Gayle Lauradunn</itunes:author>
@@ -76,7 +89,7 @@
       <title>The Call</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261030-the-call_202611/20261030_The_Call.mp3" type="audio/mpeg" length="12345"/>
-      <pubDate>Sun, 31 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
       <itunes:season>26</itunes:season>
       <itunes:episode>40</itunes:episode>
       <itunes:author>Gayle Lauradunn</itunes:author>
