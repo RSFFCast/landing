@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Late Autumn</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261107-late-autumn/20261107_Late_Autumn.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 7 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261107-late-autumn/20261107_Late_Autumn.JPG"/>
+      <link>https://archive.org/details/20261107-late-autumn</link>
+      <guid>https://archive.org/details/20261107-late-autumn</guid>
+  </item>		
+	
+  <item>
+      <title>When I Was a Boy</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261106-when-i-was-a-boy/20261106_When_I_Was_a_Boy.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 6 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261106-when-i-was-a-boy/20261106_When_I_Was_a_Boy.JPG"/>
+      <link>https://archive.org/details/20261106-when-i-was-a-boy</link>
+      <guid>https://archive.org/details/20261106-when-i-was-a-boy</guid>
+  </item>		
+	
+  <item>
       <title>It Happened Back Then</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261105-it-happened-back-then/20261105_It_Happened_Back_Then.mp3" type="audio/mpeg" length="12345"/>
