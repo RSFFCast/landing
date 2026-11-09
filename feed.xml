@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Letter from Lahore</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261109-letter-from-lahore/20261109_Letter_from_Lahore.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Mon, 9 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261109-letter-from-lahore/20261109_Letter_from_Lahore.JPG"/>
+      <link>https://archive.org/details/20261109-letter-from-lahore</link>
+      <guid>https://archive.org/details/20261109-letter-from-lahore</guid>
+  </item>		
+	
+  <item>
       <title>Late Autumn</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261107-late-autumn/20261107_Late_Autumn.mp3" type="audio/mpeg" length="12345"/>
