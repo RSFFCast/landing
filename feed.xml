@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Night Street</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261111-night-street/20261111_Night_Street.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261111-night-street/20261111_Night_Street.JPG"/>
+      <link>https://archive.org/details/20261111-night-street</link>
+      <guid>https://archive.org/details/20261111-night-street/guid>
+  </item>		
+	
+  <item>
+      <title>Missing Photographer</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261110-missing-photographer/20261110_Missing_Photographer.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261110-missing-photographer/20261110_Missing_Photographer.JPG"/>
+      <link>https://archive.org/details/20261110-missing-photographer</link>
+      <guid>https://archive.org/details/20261110-missing-photographer</guid>
+  </item>		
+	
+  <item>
       <title>Letter from Lahore</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261109-letter-from-lahore/20261109_Letter_from_Lahore.mp3" type="audio/mpeg" length="12345"/>
