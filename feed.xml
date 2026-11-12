@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Stone of Stone</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261112-stone-of-stone/20261112_Stone_of_Stone.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>51</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261112-stone-of-stone/20261112_Stone_of_Stone.JPG"/>
+      <link>https://archive.org/details/20261112-stone-of-stone</link>
+      <guid>https://archive.org/details/20261112-stone-of-stone</guid>
+  </item>		
+	
+  <item>
       <title>Night Street</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261111-night-street/20261111_Night_Street.mp3" type="audio/mpeg" length="12345"/>
@@ -30,7 +43,7 @@
       <itunes:author>Gayle Lauradunn</itunes:author>
       <itunes:image href="https://archive.org/download/20261111-night-street/20261111_Night_Street.JPG"/>
       <link>https://archive.org/details/20261111-night-street</link>
-      <guid>https://archive.org/details/20261111-night-street/guid>
+      <guid>https://archive.org/details/20261111-night-street</guid>
   </item>		
 	
   <item>
