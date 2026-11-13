@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Altered Air</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261113-altered-air/20261113_Altered_Air.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>52</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261113-altered-air/20261113_Altered_Air.JPG"/>
+      <link>https://archive.org/details/20261113-altered-air</link>
+      <guid>https://archive.org/details/20261113-altered-air</guid>
+  </item>			
+	
+  <item>
       <title>Stone of Stone</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261112-stone-of-stone/20261112_Stone_of_Stone.mp3" type="audio/mpeg" length="12345"/>
