@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Strangers</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261114-strangers/20261114_Strangers.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>53</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261114-strangers/20261114_Strangers.JPG"/>
+      <link>https://archive.org/details/20261114-strangers</link>
+      <guid>https://archive.org/details/20261114-strangers</guid>
+  </item>		
+	
+  <item>
       <title>Altered Air</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261113-altered-air/20261113_Altered_Air.mp3" type="audio/mpeg" length="12345"/>
