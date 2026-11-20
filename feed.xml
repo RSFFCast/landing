@@ -21,6 +21,32 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Duncan Canal, Alaska, I</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261120-duncan-canal-alaska-i/20261120_Duncan_Canal_Alaska_I.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>58</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261120-duncan-canal-alaska-i/20261120_Duncan_Canal_Alaska_I.JPG"/>
+      <link>https://archive.org/details/20261120-duncan-canal-alaska-i</link>
+      <guid>https://archive.org/details/20261120-duncan-canal-alaska-i</guid>
+  </item>		
+	
+  <item>
+      <title>High Fever</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261119-high-fever/20261119_High_Fever.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>57</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261119-high-fever/20261119_High_Fever.JPG"/>
+      <link>https://archive.org/details/20261119-high-fever</link>
+      <guid>https://archive.org/details/20261119-high-fever</guid>
+  </item>		
+	
+  <item>
       <title>What We Do</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261118-what-we-do/20261118_What_We_Do.mp3" type="audio/mpeg" length="12345"/>
