@@ -21,6 +21,19 @@
 	<itunes:type>serial</itunes:type>
 	
   <item>
+      <title>Duncan Canal, Alaska, VI</title>
+      <description>by Gayle Lauradunn in The Geography of Absence</description>
+      <enclosure url="https://archive.org/download/20261125-duncan-canal-alaska-vi/20261125_Duncan_Canal_Alaska_VI.mp3" type="audio/mpeg" length="12345"/>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:season>26</itunes:season>
+      <itunes:episode>63</itunes:episode>
+      <itunes:author>Gayle Lauradunn</itunes:author>
+      <itunes:image href="https://archive.org/download/20261125-duncan-canal-alaska-vi/20261125_Duncan_Canal_Alaska_VI.JPG"/>
+      <link>https://archive.org/details/20261125-duncan-canal-alaska-vi</link>
+      <guid>https://archive.org/details/20261125-duncan-canal-alaska-vi</guid>
+  </item>		
+	
+  <item>
       <title>Duncan Canal, Alaska, V</title>
       <description>by Gayle Lauradunn in The Geography of Absence</description>
       <enclosure url="https://archive.org/download/20261124-duncan-canal-alaska-v/20261124_Duncan_Canal_Alaska_V.mp3" type="audio/mpeg" length="12345"/>
